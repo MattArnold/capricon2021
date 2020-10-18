@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+<head>
+  <title>Virtual Capricon 2021 {{ page.title }}</title>
+  <meta name="description"
+    content="Capricon 2021 online. {{ page.title }}." />
+  <meta property="og:url"
+    content="{{ page.url | replace:'index.html','' | prepend: absolute_url }}" />
+  <meta property="og:title" content="{{ page.title | append: ' - ' }}Virtual Capricon 2021" />
+  <meta property="og:description"
+    content="Capricon 2021 online." />
+  <meta property="og:image" content="{{ absolute_url }}/assets/images/Cap41art.jpg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="assets/css/main.css" rel="stylesheet" type="text/css" media="all" />
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico"  | absolute_url }}" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,700;1,500;1,700&display=swap" rel="stylesheet">
+  <script data-ad-client="ca-pub-4689582579230513" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body class="pages">
+  <main class="main">
+    <header id="top">
+      <div class="logo-link">
+        <a href="/" alt="Home" title="Home" class="home-link">Capricon 2021</a>
+      </div>
+      <div class="header-content">
+        <h1>Virtual Access Portal</h1>
+        <h2>Capricon 41, February 4 - 7, 2021</h2>
+        <nav>
+          <ul class="rooms-menu">
+          {% assign rooms = site.pages | sort: "order" %}
+          {% for room in rooms %}
+          {% unless room.title == 'Participatory Music' or room.title == "Test" %}
+          {% if room.title and room.public == false %}
+            {% if room.title == page.title %}
+            <li class="this-page room">
+            {% else %}
+            <li class="room">
+            {% endif %}
+              <a
+                href="{{ room.url | prepend: site.baseurl | prepend: site.url }}"
+              >
+              {{ room.title }}
+              </a>
+            </li>
+          {% endif %}
+          {% endunless %}
+          {% endfor %}
+          </ul>
+          <ul class="public-menu">
+          {% assign navs = site.pages | sort: "order" %}
+          {% for nav in navs %}
+            {% if nav.public %}
+            {% assign t = nav.title %}
+            {% unless t == "404" or t == "Early Access" or t == "Guest Itineraries" or t == "Event List" or t == "Art Show" or t == "For Dealers" %}
+              {% if nav.title == page.title %}
+            <li class="this-page public" >
+              {{ nav.title }}
+              {% else %}
+            <li class="public">
+              <a 
+                href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}"
+              >
+              {{ nav.title }}
+              </a>
+              {% endif %}
+            </li>
+            {% endunless %}
+            {% endif %}
+          {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    {% if page.title == "Home" %}
+    {% include full_width_image.html filename="Cap41art.jpg" height="50rem" %}
+    {% endif %}
+    {% if page.public %}
+    <section class="public-container {{ page_size}}">
+    {% elsif page.category == "room" %}
+    <section id="sign-in-first">
+      {% include agreement.html %}
+    </section>
+    <section class="accesscontrol-container room-container">
+    {% else %}
+    <section class="accesscontrol-container">
+    {% endif %}
+      {{ content }}
+    </section>
+    {% include footer.html %}
+  </main>
+</body>
+</html>
