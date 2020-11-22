@@ -1,0 +1,29 @@
+- name: The Dragon's Lair / Plushie Zoo
+  contact: Edward Trachtenberg
+  city: Methuen
+  state: MA
+  what_is_sold: Plush
+  link: "[www.plushiezoo.biz](https://www.plushiezoo.biz)"
+  description: Huge selection of plush from aardvark to zebra
+  restrictions: ''
+  image_filenames:
+  - "thedragonslair01.jpg"
+  - "thedragonslair04.jpg"
+  - "thedragonslair05.jpg"
+  - "thedragonslair07.jpg"
+  - "thedragonslair08.jpg"
+- name: ESM Books
+  contact: Cary Meriwether
+  city: Buckeye
+  state: AZ
+  what_is_sold: Books
+  link: "[esmbooks on eBay](https://www.ebay.com/str/esmbooks)"
+  description: "Online bookstore specializing in \n\nsigned SF, Fantasy, and Mystery
+    books."
+  restrictions: ''
+  image_filenames:
+  - "esm-books-1.png"
+  - "esm-books-2.JPG"
+  - "esm-books-3.JPG"
+  - "esm-books-4.JPG"
+  - "esm-books-5.JPG"

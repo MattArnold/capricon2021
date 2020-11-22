@@ -16,7 +16,6 @@
   <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
   <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico"  | absolute_url }}" type="image/x-icon">
   <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,700;1,500;1,700&display=swap" rel="stylesheet">
-  <script data-ad-client="ca-pub-4689582579230513" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 <body class="pages">
@@ -80,9 +79,9 @@
     {% if page.public %}
     <section class="public-container {{ page_size}}">
     {% elsif page.category == "room" %}
-    <section id="sign-in-first">
+    <!-- <section id="sign-in-first">
       {% include agreement.html %}
-    </section>
+    </section> -->
     <section class="accesscontrol-container room-container">
     {% else %}
     <section class="accesscontrol-container">

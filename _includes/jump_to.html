@@ -1,0 +1,22 @@
+<p class="jump-to">
+  Jump to:
+</p>
+<p class="jump to-top">
+  <a href="#top">Jump to top</a>
+</p>
+{% for item in include.content %}
+{% if item.guest_of_honor == true %}
+<p class="jump">
+  <a href="#listing-{{ item.name | slugify}}">{{ item.name }}</a>
+</p>
+{% endif %}
+{% endfor %}
+{% for item in include.content %}
+{% unless item.guest_of_honor == true %}
+<p class="jump">
+  <a href="#listing-{{ item.name | slugify}}">{{ item.name }}</a>
+</p>
+{% endunless %}
+{% endfor %}
+
+<p></p>
