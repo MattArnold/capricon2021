@@ -698,8 +698,8 @@ ul.social-links-menu {
     }
   }
 
-  .public-container, .accesscontrol-container:not(.room-container) {
-    width: 50rem;
+  .public-container:not(.room-container), .accesscontrol-container:not(.room-container) {
+    width: 100rem;
   }
 
   #sign-in-first {

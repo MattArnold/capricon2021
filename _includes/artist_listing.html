@@ -1,0 +1,77 @@
+<section class="artist-listing" id="listing-{{ artist.name | slugify }}">
+<div class="gallery">
+{% if artist.image_of_artist.size > 0 %}
+{% assign html_safe_name = artist.name | replace: '"','' | replace: "'","" %}
+<div
+class="floatimage"
+role="img"
+aria-label='A photo of {{ html_safe_name }}.'
+style="margin-top: 1rem; background-image: url('/assets/images/artists/{{ artist.image_of_artist }}');"
+>
+</div>
+{% endif %}
+<div class="artist-info">
+<h2>{{ artist.name }}</h2>
+<ul class="social-links-menu">
+{% if artist.facebook.size > 0 %}
+<li class="facebook social-link">
+<a href="https://www.facebook.com/{{ artist.facebook | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'facebook.com' }}/"
+target="_blank"
+aria-label="Find this artist on Facebook"
+>
+<span class="screen-reader-text">Facebook</span>
+</a>
+</li>
+{% endif %}
+{% if artist.twitter.size > 0 %}
+<li class="twitter social-link">
+<a href="https://twitter.com/{{ artist.twitter | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'twitter.com' }}/"
+target="_blank"
+aria-label="Find this artist on Twitter"
+>
+<span class="screen-reader-text">Twitter</span>
+</a>
+</li>
+{% endif %}
+{% if artist.instagram.size > 0 %}
+<li class="instagram social-link">
+<a href="https://www.instagram.com/{{ artist.instagram | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'instagram.com' }}/"
+target="_blank"
+aria-label="Find this artist on Instagram"
+>
+<span class="screen-reader-text">Instagram</span>
+</a>
+</li>
+{% endif %}
+{% if artist.patreon.size > 0 %}
+<li class="patreon social-link">
+<a href="https://patreon.com/{{ artist.patreon | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'patreon.com' }}/"
+target="_blank"
+aria-label="Find this artist on Patreon"
+>
+<span class="screen-reader-text">Patreon</span>
+</a>
+</li>
+{% endif %}
+</ul>
+{% if artist.website1.size > 0 %}
+<p class="website1">{{ artist.website1 | markdownify}}</p>
+{% endif %}
+{% if artist.website2.size > 0 %}
+<p class="website2">{{ artist.website2 | markdownify}}</p>
+{% endif %}
+<p>{{ artist.description | markdownify }}</p>
+</div>
+{% if artist.image_filenames.size > 0 %}
+{% for file in artist.image_filenames %}
+<div
+class="gallery-image"
+role="img"
+aria-label="Art by {{artist.name}}"
+style="background-image: url('/assets/images/artists/{{ file }}')"
+>
+</div>
+{% endfor %}
+{% endif %}
+</div>
+</section>
