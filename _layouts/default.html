@@ -53,7 +53,7 @@
           {% for nav in navs %}
             {% if nav.public %}
             {% assign t = nav.title %}
-            {% unless t == "404" or t == "Early Access" or t == "Guest Itineraries" or t == "Event List" or t == "Art Show" or t == "For Dealers" %}
+            {% unless t == "404" or t == "Early Access" %}
               {% if nav.title == page.title %}
             <li class="this-page public" >
               {{ nav.title }}
