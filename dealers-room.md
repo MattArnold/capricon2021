@@ -1,6 +1,6 @@
 ---
 title: Dealers Room
-menus: dealers-room
+menus: exhibits
 layout: default
 category: room
 public: true

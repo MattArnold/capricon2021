@@ -1,8 +1,8 @@
 ---
 title: Room B
-menus: dealers-room
+menus: session-rooms
 layout: default
-category: room
+category: stream
 public: true
 order: 2
 
