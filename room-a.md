@@ -13,9 +13,3 @@ order: 1
 
 <iframe frameborder="0" class="nasfic-chat">
 </iframe>
-
-<script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
-<script>
-const even = "742199193837371423";
-const odd = "742279322726957118";
-</script>
