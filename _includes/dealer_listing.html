@@ -1,30 +1,33 @@
 <section class="dealer-listing" id="listing-{{ dealer.name | slugify }}">
-  <div class="gallery">
-    <div class="dealer-info">
-      <h2>{{ dealer.name }}</h2>
-      <p><em>{{ dealer.what_is_sold | markdownify }}</em></p>
-      <p class="link">{{ dealer.link }}</p>
-      <p>{{ dealer.description }}</p>
-    </div>
-    {% if dealer.contact.size > 0 or dealer.city.size > 0 or dealer.state.size > 0 %}
-    <p>
-      {% if dealer.contact.size > 0 %}
-      {% unless dealer.contact == dealer.name %}
-      {{dealer.contact}},
-      {% endunless %}
-      {% endif %}
-      {% if dealer.city.size > 0 %}
-      {{dealer.city}},
-      {% endif %}
-      {% if dealer.state.size > 0 %}
-      {{dealer.state}}
-      {% endif %}
-    </p>
-    {% endif %}
-    {% for file in dealer.image_filenames %}
-    <div class="gallery-image" role="img" aria-label="{{dealer.what_is_sold}} of {{dealer.name}}."
-      style="background-image: url('/assets/images/dealers/{{ file }}')">
-    </div>
-    {% endfor %}
-  </div>
+<div class="gallery">
+<div class="dealer-info">
+<h2>{{ dealer.name }}</h2>
+<p><em>{{ dealer.what_is_sold | markdownify }}</em></p>
+<p class="link">{{ dealer.link }}</p>
+<p>{{ dealer.description }}</p>
+</div>
+{% if dealer.contact.size > 0 or dealer.city.size > 0 or dealer.state.size > 0 %}
+<p>
+{% if dealer.contact.size > 0 %}
+{% unless dealer.contact == dealer.name %}
+{{dealer.contact}},
+{% endunless %}
+{% endif %}
+{% if dealer.city.size > 0 %}
+{{dealer.city}},
+{% endif %}
+{% if dealer.state.size > 0 %}
+{{dealer.state}}
+{% endif %}
+</p>
+{% endif %}
+{% for file in dealer.images %}
+<div class="gallery-image" 
+role="img"
+aria-label="{{dealer.what_is_sold}} of {{dealer.name}}."
+style="background-image: url('/assets/images/dealers/{{file}}')"
+>
+</div>
+{% endfor %}
+</div>
 </section>
