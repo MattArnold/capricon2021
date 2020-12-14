@@ -11,6 +11,6 @@ order: 7
 
 # Art Show
 
-Welcome to the NASFiC Virtual Art Show! For a closer look at the art, click on gallery images below:
+Welcome to the Capricon Virtual Art Show! For a closer look at the art, click on gallery images below:
 
 {% for artist in site.data.artists %}{% include artist_listing.html %}{% endfor %}

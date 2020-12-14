@@ -9,7 +9,7 @@ order: 6
 ---
 {% include jump_to.html content=site.data.dealers %}
 
-# Online Dealers at NASFiC
+# Online Dealers at Capricon
 
 - possibly "Welcome to the Capricon Virtual Dealer Room!" or something of that nature
 
