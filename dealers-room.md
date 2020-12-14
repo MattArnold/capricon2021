@@ -2,7 +2,7 @@
 title: Dealers Room
 menus: exhibits
 layout: default
-category: room
+category: exhibit
 public: false
 order: 6
 

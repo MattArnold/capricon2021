@@ -88,5 +88,20 @@
     </section>
     {% include footer.html %}
   </main>
+<script>
+  const gallery_images = document.getElementsByClassName("gallery-image");
+
+  var makeLarge = function(e) {
+    const lightbox_images = document.getElementsByClassName("lightbox-image");
+    Array.from(lightbox_images).forEach((img) => {
+      img.classList.remove("lightbox-image");
+    });
+    e.target.classList.add("lightbox-image");
+  };
+
+  Array.from(gallery_images).forEach((img) => {
+    img.addEventListener('click', makeLarge, false);
+  });
+</script>
 </body>
 </html>

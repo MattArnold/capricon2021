@@ -22,7 +22,7 @@
 </p>
 {% endif %}
 {% for file in dealer.images %}
-{% assign folder_path = 'background-image:url(/assets/images/dealers/' %}
+{% assign folder_path = 'background-image:url({{site.baseurl | append: site.url}}/assets/images/dealers/' %}
 <div class="gallery-image"
 role="img"
 aria-label="{{dealer.what_is_sold}} of {{dealer.name}}."
