@@ -6,7 +6,7 @@
 class="floatimage"
 role="img"
 aria-label='A photo of {{ html_safe_name }}.'
-style="margin-top: 1rem; background-image: url('{{site.baseurl | prepend: site.url}}/assets/images/artists/{{ artist.image_of_artist }}');"
+style="margin-top: 1rem; background-image: url('{{site.url}}/{{site.baseurl}}/assets/images/artists/{{ artist.image_of_artist }}');"
 >
 </div>
 {% endif %}
@@ -68,7 +68,7 @@ aria-label="Find this artist on Patreon"
 class="gallery-image"
 role="img"
 aria-label="Art by {{artist.name}}"
-style="background-image: url('{{site.baseurl | prepend: site.url}}/assets/images/artists/{{ file }}')"
+style="background-image: url('{{site.url}}/{{site.baseurl}}/assets/images/artists/{{ file }}')"
 >
 </div>
 {% endfor %}
