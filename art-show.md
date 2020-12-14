@@ -3,7 +3,7 @@ title: Art Show
 menus: exhibits
 layout: default
 category: room
-public: true
+public: false
 order: 7
 
 ---

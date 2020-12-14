@@ -3,7 +3,7 @@ title: Room B
 menus: session-rooms
 layout: default
 category: stream
-public: true
+public: false
 order: 2
 
 ---

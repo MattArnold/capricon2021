@@ -3,7 +3,7 @@ title: Dealers Room
 menus: exhibits
 layout: default
 category: room
-public: true
+public: false
 order: 6
 
 ---

@@ -31,7 +31,6 @@
           <ul class="rooms-menu">
           {% assign rooms = site.pages | sort: "order" %}
           {% for room in rooms %}
-          {% unless room.title == 'Participatory Music' or room.title == "Test" %}
           {% if room.title and room.public == false %}
             {% if room.title == page.title %}
             <li class="this-page room">
@@ -45,7 +44,6 @@
               </a>
             </li>
           {% endif %}
-          {% endunless %}
           {% endfor %}
           </ul>
           <ul class="public-menu">
@@ -78,7 +76,7 @@
     {% endif %}
     {% if page.public %}
     <section class="public-container {{ page_size}}">
-    {% elsif page.category == "room" %}
+    {% elsif page.category == "stream" or page.category == "exhibit" %}
     <!-- <section id="sign-in-first">
       {% include agreement.html %}
     </section> -->
