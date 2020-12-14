@@ -2,7 +2,7 @@
 title: Art Show
 menus: exhibits
 layout: default
-category: room
+category: gallery
 public: false
 order: 7
 
