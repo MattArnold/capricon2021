@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/dealers.yaml
   label: Dealer Listings
-  match: "**/*"
 - type: document
   path: _data/artists.yaml
   label: Artist Listings
@@ -17,8 +16,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: assets/images
+public_path: "/assets/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
