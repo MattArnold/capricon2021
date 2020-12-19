@@ -1,0 +1,26 @@
+---
+label: Artist Data
+hide_body: true
+fields:
+- type: field_group_list
+  name: Artists
+  label: Artists
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: website1
+    label: website1
+  - type: text
+    name: website2
+    label: website2
+  - type: file
+    name: image_of_artist
+    label: image_of_artist
+  - type: image_gallery
+    name: image_filenames
+    label: image_filenames
