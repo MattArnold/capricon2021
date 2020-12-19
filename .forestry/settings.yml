@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: _data/dealers.yaml
+  label: Dealer Listings
+  match: "**/*"
+- type: document
   path: _data/artists.yaml
   label: Artist Listings
 - type: jekyll-pages
