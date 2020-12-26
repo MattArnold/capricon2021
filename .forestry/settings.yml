@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: readme.md
+  label: How to use Forestry
+  match: "**/*"
+  read_only: true
+- type: document
   path: _data/dealers.yaml
   label: Dealer Listings
 - type: document
@@ -12,9 +17,6 @@ sections:
   label: Artist Listings
 - type: jekyll-pages
   label: Pages
-  create: all
-- type: jekyll-posts
-  label: Posts
   create: all
 upload_dir: assets/images
 public_path: "/assets/images"
