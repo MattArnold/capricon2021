@@ -1,0 +1,27 @@
+---
+- name: N. Imaginary Presenter
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/presenters/nimaginarypresenter.jpeg"
+  description: Delete this presenter after we have input some of the real ones.
+  website1: 'https://thispersondoesnotexist.com/'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Nonnie Zistent
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/presenters/nonnie-zistant.jpeg"
+  description: Delete this presenter after we have input some of the real ones.
+  website1: 'https://thispersondoesnotexist.com/'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
