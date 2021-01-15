@@ -1,5 +1,5 @@
 ---
-title: Room B
+title: Willow
 menus: session-rooms
 layout: default
 category: stream
@@ -7,7 +7,7 @@ public: false
 order: 2
 
 ---
-# Room "B"
+# Willow Room
 
 <iframe src="https://vimeo.com/event/550222/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreenclass="convention-video"></iframe>
 
