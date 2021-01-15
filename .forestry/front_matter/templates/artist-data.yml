@@ -11,12 +11,30 @@ fields:
     label: name
   - type: textarea
     name: description
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: description
-  - type: text
-    name: website1
+  - name: website1
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: website1
-  - type: text
-    name: website2
+  - name: website2
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: website2
   - type: file
     name: image_of_artist
@@ -24,3 +42,9 @@ fields:
   - type: image_gallery
     name: image_filenames
     label: image_filenames
+  - name: instagram
+    type: text
+    config:
+      required: false
+    label: instagram
+    description: The segment following instagram.com/
