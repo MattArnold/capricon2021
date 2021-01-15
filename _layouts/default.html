@@ -31,7 +31,6 @@
           <ul class="rooms-menu">
           {% assign rooms = site.pages | sort: "order" %}
           {% for room in rooms %}
-          {% if room.title and room.public == false %}
             {% if room.title == page.title %}
             <li class="this-page room">
             {% else %}
@@ -43,29 +42,6 @@
               {{ room.title }}
               </a>
             </li>
-          {% endif %}
-          {% endfor %}
-          </ul>
-          <ul class="public-menu">
-          {% assign navs = site.pages | sort: "order" %}
-          {% for nav in navs %}
-            {% if nav.public %}
-            {% assign t = nav.title %}
-            {% unless t == "404" or t == "Early Access" %}
-              {% if nav.title == page.title %}
-            <li class="this-page public" >
-              {{ nav.title }}
-              {% else %}
-            <li class="public">
-              <a 
-                href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}"
-              >
-              {{ nav.title }}
-              </a>
-              {% endif %}
-            </li>
-            {% endunless %}
-            {% endif %}
           {% endfor %}
           </ul>
         </nav>
