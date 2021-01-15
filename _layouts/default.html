@@ -31,7 +31,7 @@
           <ul class="rooms-menu">
           {% assign rooms = site.pages | sort: "order" %}
           {% for room in rooms %}
-            {% unless room.title == "404" or room.url contains 'assets' %}
+            {% unless room.url contains "404" or room.url contains 'assets' %}
             {% if room.title == page.title %}
             <li class="this-page room">
             {% else %}
