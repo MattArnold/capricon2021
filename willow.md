@@ -11,6 +11,12 @@ order: 2
 
 <iframe src="https://vimeo.com/event/550222/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="convention-video"></iframe>
 
-<iframe frameborder="0" class="convention-chat" src="https://titanembeds.com/embed/680949000295284757?defaultchannel=742279322726957118">
+<iframe frameborder="0" class="convention-chat">
 </iframe>
+
+<script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
+<script>
+  const even = "788596302753300490";
+  const odd = "798699667629670479";
+</script>
 {% include room_scripts.html %}
