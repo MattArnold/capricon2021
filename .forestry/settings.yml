@@ -5,17 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: README.md
-  label: Readme
-  match: "**/*"
+  path: readme.md
+  label: How to use Forestry
   read_only: true
 - type: document
   path: _data/presenters.yaml
   label: Program Participant Listings
-- type: document
-  path: readme.md
-  label: How to use Forestry
-  read_only: true
 - type: document
   path: _data/dealers.yaml
   label: Dealer Listings
