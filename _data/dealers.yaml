@@ -8,7 +8,7 @@
   description: Ebooks etc description here
   restrictions: 'Cannot etc. '
   images:
-  - "/assets/images/dealer_ljankowski_fromtheashes-ebook.jpg"
+  - dealer_ljankowski_fromtheashes-ebook.jpg
 - name: Made-up Plushie Dealer
   contact: Test Name Person
   city: My City
