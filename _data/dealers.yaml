@@ -1,4 +1,15 @@
 ---
+- name: Lauren Jankowski
+  contact: laurenjankowski27@gmail.com
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: https://laurenjankowski.com/
+  description: Ebooks etc description here
+  restrictions: 'Cannot etc. '
+  images:
+  - "/assets/images/dealer_ljankowski_haunted-ebook.jpg"
+  - dealer_ljankowski_fromtheashes-ebook.jpg
 - name: Made-up Plushie Dealer
   contact: Test Name Person
   city: My City
@@ -8,22 +19,21 @@
   description: Huge selection of plush from aardvark to zebra
   restrictions: ''
   images:
-  - "thedragonslair01.jpg"
-  - "thedragonslair04.jpg"
-  - "thedragonslair05.jpg"
-  - "thedragonslair07.jpg"
-  - "thedragonslair08.jpg"
+  - thedragonslair01.jpg
+  - thedragonslair04.jpg
+  - thedragonslair05.jpg
+  - thedragonslair07.jpg
+  - thedragonslair08.jpg
 - name: Lorem Ipsum Pretend Bookseller
   contact: Mary Notarealperson
   city: Molasses
   state: GA
   what_is_sold: Books
   link: "[Lorem Ipsum on eBay](https://www.ebay.com/)"
-  description: "Online bookstore specializing in signed SF, Fantasy, and Mystery
-    books."
+  description: Online bookstore specializing in signed SF, Fantasy, and Mystery books.
   restrictions: ''
   images:
-  - "esm-books-2.JPG"
-  - "esm-books-3.JPG"
-  - "esm-books-4.JPG"
-  - "esm-books-5.JPG"
+  - esm-books-2.JPG
+  - esm-books-3.JPG
+  - esm-books-4.JPG
+  - esm-books-5.JPG
