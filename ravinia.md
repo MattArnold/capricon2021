@@ -9,9 +9,13 @@ order: 1
 ---
 # Ravinia Room
 
-<iframe src="https://vimeo.com/event/550212/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="convention-video"></iframe>
+<iframe
+  src="https://player.twitch.tv/capricon2021a&parent=virtual.capricon.org"
+  allowfullscreen="allowfullscreen"
+  class="convention-video"
+></iframe>
 
-<iframe frameborder="0" class="convention-chat">
+<iframe class="convention-chat">
 </iframe>
 
 <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>

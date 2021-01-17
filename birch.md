@@ -9,7 +9,11 @@ order: 3
 ---
 # Birch Room
 
-<iframe src="https://vimeo.com/event/550229/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="convention-video"></iframe>
+<iframe
+  src="https://player.twitch.tv/capricon2021c&parent=virtual.capricon.org"
+  allowfullscreen="allowfullscreen"
+  class="convention-video"
+></iframe>
 
 <iframe frameborder="0" class="convention-chat">
 </iframe>
