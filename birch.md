@@ -10,7 +10,7 @@ order: 3
 # Birch Room
 
 <iframe
-  src="https://player.twitch.tv/?video=capricon2021c&parent=virtual.capricon.org"
+  src="https://player.twitch.tv/?channel=capricon2021c&parent=virtual.capricon.org"
   allowfullscreen="true"
   class="convention-video"
 ></iframe>
