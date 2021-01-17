@@ -10,12 +10,12 @@ order: 1
 # Ravinia Room
 
 <iframe
-  src="https://player.twitch.tv/?<capricon2021a>&parent=virtual.capricon.org"
+  src="https://player.twitch.tv/?channel=capricon2021a&parent=virtual.capricon.org"
   allowfullscreen="allowfullscreen"
   class="convention-video"
 ></iframe>
 
-<iframe class="convention-chat">
+<iframe frameborder="0" class="convention-chat">
 </iframe>
 
 <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
