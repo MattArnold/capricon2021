@@ -10,8 +10,8 @@ order: 1
 # Ravinia Room
 
 <iframe
-  src="https://player.twitch.tv/?channel=capricon2021a&parent=virtual.capricon.org"
-  allowfullscreen="allowfullscreen"
+  src="https://player.twitch.tv/?video=capricon2021a&parent=virtual.capricon.org"
+  allowfullscreen="true"
   class="convention-video"
 ></iframe>
 

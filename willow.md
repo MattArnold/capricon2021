@@ -10,8 +10,8 @@ order: 2
 # Willow Room
 
 <iframe
-  src="https://player.twitch.tv/?channel=capricon2021b&parent=virtual.capricon.org"
-  allowfullscreen="allowfullscreen"
+  src="https://player.twitch.tv/?video=capricon2021b&parent=virtual.capricon.org"
+  allowfullscreen="true"
   class="convention-video"
 ></iframe>
 
