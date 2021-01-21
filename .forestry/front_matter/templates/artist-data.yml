@@ -53,3 +53,5 @@ fields:
       required: false
     label: instagram
     description: The segment following instagram.com/
+pages:
+- _data/artists.yaml
