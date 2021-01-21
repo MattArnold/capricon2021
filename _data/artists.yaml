@@ -1,4 +1,13 @@
 ---
+- name: Sarah Clemens
+  description: ''
+  website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
+  website2: '[http://clemensart.com/stoneart.html](http://clemensart.com/stoneart.html
+    "http://clemensart.com/stoneart.html")'
+  website3: http://clemensart.com/paintgal.html
+  image_of_artist: "/assets/images/clemenss.jpg"
+  image_filenames: []
+  instagram: ''
 - name: Sarah Wilkinson
   description: ''
   website1: http://www.studiodesade.com/
