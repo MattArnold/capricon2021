@@ -1,4 +1,13 @@
 ---
+- name: Brandy Stark
+  description: ''
+  website1: '[http://starkimages.etsy.com/](http://starkimages.etsy.com/ "http://starkimages.etsy.com/")'
+  website2: '[https://www.facebook.com/bstarkart](https://www.facebook.com/bstarkart
+    "https://www.facebook.com/bstarkart")'
+  website3: http://www.spiritsofstpete.com/
+  image_of_artist: "/assets/images/starkb.jpg"
+  image_filenames: []
+  instagram: b.starkart
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
