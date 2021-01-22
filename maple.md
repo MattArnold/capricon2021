@@ -4,7 +4,7 @@ menus: exhibits
 layout: default
 category: info
 public: false
-order: 12
+order: 4
 
 ---
 
