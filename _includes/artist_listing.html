@@ -1,15 +1,5 @@
 <section class="artist-listing" id="listing-{{ artist.name | slugify }}">
 <div class="gallery">
-{% if artist.image_of_artist.size > 0 %}
-{% assign html_safe_name = artist.name | replace: '"','' | replace: "'","" %}
-<div
-class="floatimage"
-role="img"
-aria-label='A photo of {{ html_safe_name }}.'
-style="margin-top: 1rem; background-image: url('{{site.url}}/{{site.baseurl}}/assets/images/artists/{{ artist.image_of_artist }}');"
->
-</div>
-{% endif %}
 <div class="artist-info">
 <h2>{{ artist.name }}</h2>
 <ul class="social-links-menu">
@@ -60,6 +50,9 @@ aria-label="Find this artist on Patreon"
 {% if artist.website2.size > 0 %}
 <p class="website2">{{ artist.website2 | markdownify}}</p>
 {% endif %}
+{% if artist.website3.size > 0 %}
+<p class="website3">{{ artist.website3 | markdownify}}</p>
+{% endif %}
 <p>{{ artist.description | markdownify }}</p>
 </div>
 {% if artist.image_filenames.size > 0 %}
@@ -68,7 +61,7 @@ aria-label="Find this artist on Patreon"
 class="gallery-image"
 role="img"
 aria-label="Art by {{artist.name}}"
-style="background-image: url('{{site.url}}/{{site.baseurl}}/assets/images/artists/{{ file }}')"
+style="background-image: url('{{site.url}}/{{site.baseurl}}/assets/images/{{ file }}')"
 >
 </div>
 {% endfor %}

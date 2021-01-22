@@ -1,6 +1,6 @@
 <section>
 
-If you're seeing this, you are staff of Capricon 2021. I added you as an editor of our Virtual NASFiC Access Portal. Forestry.io will serve as a content editing tool for the site. This cannot edit things like colors, layout, fonts, spacing, or other presentational design decisions. Just bold, italic, headlines, links, and lists. That is intentional. This is intended to create, update, and delete only content-- bare words and images. The layout and styling is handled by the site itself. If you would like any styling changes, please describe it to me (Matt Arnold matt.mattarn+capricon@gmail.com), and I will quickly implement it for you.
+If you're seeing this, you are staff of Capricon 2021. I added you as an editor of our Virtual Access Portal. Forestry.io will serve as a content editing tool for the site. This cannot edit things like colors, layout, fonts, spacing, or other presentational design decisions. Just bold, italic, headlines, links, and lists. That is intentional. This is intended to create, update, and delete only content-- bare words and images. The layout and styling is handled by the site itself. If you would like any styling changes, please describe it to me (Matt Arnold matt.mattarn+capricon@gmail.com), and I will quickly implement it for you.
 
 Your work here will be reflected on the site, typically with a delay of a minute or two. The site temporarily is at this domain:
 

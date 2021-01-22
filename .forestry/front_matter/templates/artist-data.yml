@@ -40,6 +40,9 @@ fields:
     type: text
     config:
       required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: website3
   - type: file
     name: image_of_artist
