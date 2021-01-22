@@ -1,4 +1,14 @@
 ---
+- name: Sarah Clemens
+  description: ''
+  website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
+  website2: '[http://clemensart.com/stoneart.html](http://clemensart.com/stoneart.html
+    "http://clemensart.com/stoneart.html")'
+  website3: http://clemensart.com/paintgal.html
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/clemenss.jpg"
+  instagram: ''
 - name: Ingrid Kallick
   description: ''
   website1: '[https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown](https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown
@@ -9,13 +19,14 @@
   image_of_artist: "/assets/images/kallicki.jpg"
   image_filenames: []
   instagram: ''
-- name: Sarah Clemens
+- name: Theresa Mather
   description: ''
-  website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
-  website2: '[http://clemensart.com/stoneart.html](http://clemensart.com/stoneart.html
-    "http://clemensart.com/stoneart.html")'
-  website3: http://clemensart.com/paintgal.html
-  image_of_artist: "/assets/images/clemenss.jpg"
+  website1: '[https://www.theresamatherfantasyshop.com/](https://www.theresamatherfantasyshop.com/
+    "https://www.theresamatherfantasyshop.com/")'
+  website2: '[https://www.facebook.com/theresamatherfantasyart](https://www.facebook.com/theresamatherfantasyart
+    "https://www.facebook.com/theresamatherfantasyart")'
+  website3: ''
+  image_of_artist: "/assets/images/mathert.jpg"
   image_filenames: []
   instagram: ''
 - name: Brandy Stark
@@ -27,16 +38,6 @@
   image_of_artist: "/assets/images/starkb.jpg"
   image_filenames: []
   instagram: b.starkart
-- name: Theresa Mather
-  description: ''
-  website1: '[https://www.theresamatherfantasyshop.com/](https://www.theresamatherfantasyshop.com/
-    "https://www.theresamatherfantasyshop.com/")'
-  website2: '[https://www.facebook.com/theresamatherfantasyart](https://www.facebook.com/theresamatherfantasyart
-    "https://www.facebook.com/theresamatherfantasyart")'
-  website3: ''
-  image_of_artist: "/assets/images/mathert.jpg"
-  image_filenames: []
-  instagram: ''
 - name: Sarah Wilkinson
   description: ''
   website1: http://www.studiodesade.com/
