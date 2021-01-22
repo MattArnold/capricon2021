@@ -1,30 +1,79 @@
 ---
+- name: Ingrid Kallick
+  description: ''
+  website1: '[https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown](https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown
+    "https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown")'
+  website2: '[https://www.patreon.com/user?u=12412664](https://www.patreon.com/user?u=12412664
+    "https://www.patreon.com/user?u=12412664")'
+  website3: http://ikallick.com/shop/
+  image_of_artist: "/assets/images/kallicki.jpg"
+  image_filenames: []
+  instagram: ''
+- name: Sarah Clemens
+  description: ''
+  website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
+  website2: '[http://clemensart.com/stoneart.html](http://clemensart.com/stoneart.html
+    "http://clemensart.com/stoneart.html")'
+  website3: http://clemensart.com/paintgal.html
+  image_of_artist: "/assets/images/clemenss.jpg"
+  image_filenames: []
+  instagram: ''
+- name: Brandy Stark
+  description: ''
+  website1: '[http://starkimages.etsy.com/](http://starkimages.etsy.com/ "http://starkimages.etsy.com/")'
+  website2: '[https://www.facebook.com/bstarkart](https://www.facebook.com/bstarkart
+    "https://www.facebook.com/bstarkart")'
+  website3: http://www.spiritsofstpete.com/
+  image_of_artist: "/assets/images/starkb.jpg"
+  image_filenames: []
+  instagram: b.starkart
+- name: Theresa Mather
+  description: ''
+  website1: '[https://www.theresamatherfantasyshop.com/](https://www.theresamatherfantasyshop.com/
+    "https://www.theresamatherfantasyshop.com/")'
+  website2: '[https://www.facebook.com/theresamatherfantasyart](https://www.facebook.com/theresamatherfantasyart
+    "https://www.facebook.com/theresamatherfantasyart")'
+  website3: ''
+  image_of_artist: "/assets/images/mathert.jpg"
+  image_filenames: []
+  instagram: ''
+- name: Sarah Wilkinson
+  description: ''
+  website1: http://www.studiodesade.com/
+  website2: http://www.etsy.com/shop/SarahWilkinsonArt
+  image_of_artist: "/assets/images/wilkinsons.jpg"
+  image_filenames:
+  - ''
+  instagram: ''
+  website3: http://www.eventeny.com/company/?c=9531
 - name: Made Upaname
-  description: Madelyn, known to her friends as Made for short, is an image 
-    from thispersondoesnotexist.com. She will be featured here until there 
-    are some artists to put here. Lorem ipsum dolor sit amet, consectetur 
-    adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
-    magna aliqua.
+  description: Madelyn, known to her friends as Made for short, is an image from thispersondoesnotexist.com.
+    She will be featured here until there are some artists to put here. Lorem ipsum
+    dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+    ut labore et dolore magna aliqua.
   website1: https://www.madeupartist.com
   website2: https://www.patreon.com/madeupartist
-  image_of_artist: "thispersondoesnotexist1.png"
+  image_of_artist: thispersondoesnotexist1.png
   image_filenames:
-  - "4 - Stephanie Law.jpg"
-  - "allegro2 - Stephanie Law.jpg"
-  - "moongazing - Stephanie Law.jpg"
-  - "transition_fb - Stephanie Law.jpg"
-  - "unicorn_scanphotomerge_fb - Stephanie Law.jpg "
+  - 4 - Stephanie Law.jpg
+  - allegro2 - Stephanie Law.jpg
+  - moongazing - Stephanie Law.jpg
+  - transition_fb - Stephanie Law.jpg
+  - 'unicorn_scanphotomerge_fb - Stephanie Law.jpg '
+  website3: ''
+  instagram: ''
 - name: Lorem Charles Ipsum III, Esquire
-  description: Mr. Ipsum is a Seattle-area artist who blah blah blah.
-    Lorem ipsum dolor sit amet, consectetur 
-    adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
-    magna aliqua.
+  description: Mr. Ipsum is a Seattle-area artist who blah blah blah. Lorem ipsum
+    dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+    ut labore et dolore magna aliqua.
   website1: ''
   website2: ''
   instagram: ''
   image_filenames:
-  - "20200321_175422 - Melanie Unruh.jpg"
-  - "20200321_180133 - Melanie Unruh.jpg"
-  - "20200321_193254 - Melanie Unruh.jpg"
-  - "IMG_20200417_143820 - Melanie Unruh.jpg"
-  - "IMG_20200417_144309 - Melanie Unruh.jpg"
+  - 20200321_175422 - Melanie Unruh.jpg
+  - 20200321_180133 - Melanie Unruh.jpg
+  - 20200321_193254 - Melanie Unruh.jpg
+  - IMG_20200417_143820 - Melanie Unruh.jpg
+  - IMG_20200417_144309 - Melanie Unruh.jpg
+  website3: ''
+  image_of_artist: ''

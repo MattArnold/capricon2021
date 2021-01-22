@@ -36,6 +36,11 @@ fields:
       schema:
         format: markdown
     label: website2
+  - name: website3
+    type: text
+    config:
+      required: false
+    label: website3
   - type: file
     name: image_of_artist
     label: image_of_artist
@@ -48,3 +53,5 @@ fields:
       required: false
     label: instagram
     description: The segment following instagram.com/
+pages:
+- _data/artists.yaml
