@@ -21,6 +21,7 @@ Welcome to the Capricon Virtual Art Show! For a closer look at the art, click on
   frameborder="0"
   id="art-show-chat"
   class="convention-chat"
+  width="100%"
   src = "https://titanembeds.com/embed/788593711851896852?defaultchannel=802221524466794536?css=204"
 >
 </iframe>
