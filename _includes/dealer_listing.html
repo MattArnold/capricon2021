@@ -12,10 +12,12 @@
 <p>{{ dealer.description }}</p>
 </div>
 {% for file in dealer.images %}
-{% assign folder_path = site.url | append: site.baseurl | prepend: 'background-image:url(' | append: '/assets/images/dealers/' %}
+{% assign folder_path = site.url | append: site.baseurl | prepend: 'background-image:url(' | append: '/assets/images/' %}
 <div class="gallery-image"
 role="img"
 aria-label="{{dealer.what_is_sold}} of {{dealer.name}}."
+data-folderpath="{{folder_path}}"
+data-filename="{{file}}"
 style={{ file | prepend: folder_path | append: ')' }}>
 </div>
 {% endfor %}
