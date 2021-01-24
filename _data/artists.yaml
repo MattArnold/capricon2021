@@ -1,13 +1,15 @@
 ---
-- name: Lisa Hertel, The Cogitation Zone
+- name: No Wasted Ink - Original Poetry and Limited Edition Art Prints by Wendy Van
+    Camp
   description: ''
-  website1: '[http://www.cogitation.org/](http://www.cogitation.org/ "http://www.cogitation.org/")'
-  website2: ''
-  website3: ''
+  website1: '[https://www.etsy.com/shop/NoWastedInk](https://www.etsy.com/shop/NoWastedInk
+    "https://www.etsy.com/shop/NoWastedInk")'
+  website2: '[http://nowastedink.com/](http://nowastedink.com/ "http://nowastedink.com/")'
+  website3: https://twitter.com/wvancamp
   image_of_artist: ''
   image_filenames:
-  - "/assets/images/hertell.jpg"
-  instagram: Cogitation_Zone
+  - "/assets/images/vancampw.jpg"
+  instagram: ''
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
@@ -18,6 +20,15 @@
   image_filenames:
   - "/assets/images/clemenss.jpg"
   instagram: ''
+- name: Lisa Hertel, The Cogitation Zone
+  description: ''
+  website1: '[http://www.cogitation.org/](http://www.cogitation.org/ "http://www.cogitation.org/")'
+  website2: ''
+  website3: ''
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/hertell.jpg"
+  instagram: Cogitation_Zone
 - name: "* Kathie Huddleston"
   description: ''
   website1: ''
