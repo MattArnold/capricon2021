@@ -44,8 +44,9 @@
   website2: '[https://www.facebook.com/theresamatherfantasyart](https://www.facebook.com/theresamatherfantasyart
     "https://www.facebook.com/theresamatherfantasyart")'
   website3: ''
-  image_of_artist: "/assets/images/mathert.jpg"
-  image_filenames: []
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/mathert.jpg"
   instagram: ''
 - name: Brandy Stark
   description: ''
