@@ -1,12 +1,13 @@
 ---
-- name: "* Kathie Huddleston"
+- name: Lisa Hertel, The Cogitation Zone
   description: ''
-  website1: ''
+  website1: '[http://www.cogitation.org/](http://www.cogitation.org/ "http://www.cogitation.org/")'
   website2: ''
   website3: ''
   image_of_artist: ''
-  image_filenames: []
-  instagram: ''
+  image_filenames:
+  - "/assets/images/hertell.jpg"
+  instagram: Cogitation_Zone
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
@@ -16,6 +17,14 @@
   image_of_artist: ''
   image_filenames:
   - "/assets/images/clemenss.jpg"
+  instagram: ''
+- name: "* Kathie Huddleston"
+  description: ''
+  website1: ''
+  website2: ''
+  website3: ''
+  image_of_artist: ''
+  image_filenames: []
   instagram: ''
 - name: Ingrid Kallick
   description: ''
