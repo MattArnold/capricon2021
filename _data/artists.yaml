@@ -33,8 +33,9 @@
   website2: '[https://www.patreon.com/user?u=12412664](https://www.patreon.com/user?u=12412664
     "https://www.patreon.com/user?u=12412664")'
   website3: http://ikallick.com/shop/
-  image_of_artist: "/assets/images/kallicki.jpg"
-  image_filenames: []
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/kallicki.jpg"
   instagram: ''
 - name: Theresa Mather
   description: ''
