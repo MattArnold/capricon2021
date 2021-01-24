@@ -72,8 +72,9 @@
   description: ''
   website1: http://www.studiodesade.com/
   website2: http://www.etsy.com/shop/SarahWilkinsonArt
-  image_of_artist: "/assets/images/wilkinsons.jpg"
+  image_of_artist: ''
   image_filenames:
+  - "/assets/images/wilkinsons.jpg"
   - ''
   instagram: ''
   website3: http://www.eventeny.com/company/?c=9531
