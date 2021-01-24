@@ -1,23 +1,15 @@
 ---
-- name: Caitlin McLeod
-  description: ''
-  website1: Society6.com/CaitlinMcLeod
-  website2: ''
-  website3: ''
+- name: Goldeen Ogawa
+  description: '[https://twitter.com/GoldeenOgawa](https://twitter.com/GoldeenOgawa
+    "https://twitter.com/GoldeenOgawa")'
+  website1: '[https://www.goldeenogawa.com/](https://www.goldeenogawa.com/ "https://www.goldeenogawa.com/")'
+  website2: '[https://heliopauseweb.square.site/](https://heliopauseweb.square.site/
+    "https://heliopauseweb.square.site/")'
+  website3: https://www.patreon.com/GoldeenOgawa
   image_of_artist: ''
   image_filenames:
-  - "/assets/images/mcleodc.jpg"
-  instagram: ''
-- name: Tangitude Artworks
-  description: '[https://facebook.com/tangitude](https://facebook.com/tangitude "https://facebook.com/tangitude")'
-  website1: '[http://tangitude.com/](http://tangitude.com/ "http://tangitude.com/")'
-  website2: '[https://society6.com/tangitude?curator=tangitude](https://society6.com/tangitude?curator=tangitude
-    "https://society6.com/tangitude?curator=tangitude")'
-  website3: https://www.etsy.com/shop/TangitudeArtworks
-  image_of_artist: ''
-  image_filenames:
-  - "/assets/images/tangitude.jpg"
-  instagram: ''
+  - "/assets/images/ogawag.jpg"
+  instagram: goldeenogawa
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
@@ -67,6 +59,15 @@
   image_filenames:
   - "/assets/images/mathert.jpg"
   instagram: ''
+- name: Caitlin McLeod
+  description: ''
+  website1: Society6.com/CaitlinMcLeod
+  website2: ''
+  website3: ''
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/mcleodc.jpg"
+  instagram: ''
 - name: Brandy Stark
   description: ''
   website1: '[http://starkimages.etsy.com/](http://starkimages.etsy.com/ "http://starkimages.etsy.com/")'
@@ -77,6 +78,16 @@
   image_filenames:
   - "/assets/images/starkb.jpg"
   instagram: b.starkart
+- name: Tangitude Artworks
+  description: '[https://facebook.com/tangitude](https://facebook.com/tangitude "https://facebook.com/tangitude")'
+  website1: '[http://tangitude.com/](http://tangitude.com/ "http://tangitude.com/")'
+  website2: '[https://society6.com/tangitude?curator=tangitude](https://society6.com/tangitude?curator=tangitude
+    "https://society6.com/tangitude?curator=tangitude")'
+  website3: https://www.etsy.com/shop/TangitudeArtworks
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/tangitude.jpg"
+  instagram: ''
 - name: No Wasted Ink by Wendy Van Camp
   description: Original Poetry and Limited Edition Art Prints
   website1: '[https://www.etsy.com/shop/NoWastedInk](https://www.etsy.com/shop/NoWastedInk
