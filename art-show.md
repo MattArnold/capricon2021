@@ -3,7 +3,7 @@ title: Art Show
 layout: default
 category: gallery
 public: false
-order: "7"
+order: 7
 menu:
   exhibits: {}
 
