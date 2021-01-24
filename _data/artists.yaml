@@ -1,4 +1,13 @@
 ---
+- name: Caitlin McLeod
+  description: ''
+  website1: Society6.com/CaitlinMcLeod
+  website2: ''
+  website3: ''
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/mcleodc.jpg"
+  instagram: ''
 - name: Tangitude Artworks
   description: '[https://facebook.com/tangitude](https://facebook.com/tangitude "https://facebook.com/tangitude")'
   website1: '[http://tangitude.com/](http://tangitude.com/ "http://tangitude.com/")'
