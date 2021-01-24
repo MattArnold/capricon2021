@@ -1,15 +1,4 @@
 ---
-- name: Goldeen Ogawa
-  description: '[https://twitter.com/GoldeenOgawa](https://twitter.com/GoldeenOgawa
-    "https://twitter.com/GoldeenOgawa")'
-  website1: '[https://www.goldeenogawa.com/](https://www.goldeenogawa.com/ "https://www.goldeenogawa.com/")'
-  website2: '[https://heliopauseweb.square.site/](https://heliopauseweb.square.site/
-    "https://heliopauseweb.square.site/")'
-  website3: https://www.patreon.com/GoldeenOgawa
-  image_of_artist: ''
-  image_filenames:
-  - "/assets/images/ogawag.jpg"
-  instagram: goldeenogawa
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
@@ -68,6 +57,17 @@
   image_filenames:
   - "/assets/images/mcleodc.jpg"
   instagram: ''
+- name: Goldeen Ogawa
+  description: '[https://twitter.com/GoldeenOgawa](https://twitter.com/GoldeenOgawa
+    "https://twitter.com/GoldeenOgawa")'
+  website1: '[https://www.goldeenogawa.com/](https://www.goldeenogawa.com/ "https://www.goldeenogawa.com/")'
+  website2: '[https://heliopauseweb.square.site/](https://heliopauseweb.square.site/
+    "https://heliopauseweb.square.site/")'
+  website3: https://www.patreon.com/GoldeenOgawa
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/ogawag.jpg"
+  instagram: goldeenogawa
 - name: Brandy Stark
   description: ''
   website1: '[http://starkimages.etsy.com/](http://starkimages.etsy.com/ "http://starkimages.etsy.com/")'
