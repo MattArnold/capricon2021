@@ -1,4 +1,12 @@
 ---
+- name: "* Kathie Huddleston"
+  description: ''
+  website1: ''
+  website2: ''
+  website3: ''
+  image_of_artist: ''
+  image_filenames: []
+  instagram: ''
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
