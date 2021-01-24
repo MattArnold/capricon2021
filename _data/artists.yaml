@@ -1,4 +1,14 @@
 ---
+- name: Tangitude Artworks
+  description: '[https://facebook.com/tangitude](https://facebook.com/tangitude "https://facebook.com/tangitude")'
+  website1: '[http://tangitude.com/](http://tangitude.com/ "http://tangitude.com/")'
+  website2: '[https://society6.com/tangitude?curator=tangitude](https://society6.com/tangitude?curator=tangitude
+    "https://society6.com/tangitude?curator=tangitude")'
+  website3: https://www.etsy.com/shop/TangitudeArtworks
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/tangitude.jpg"
+  instagram: ''
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
