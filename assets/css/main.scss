@@ -191,14 +191,14 @@ header {
 }
 
 .public-container, .accesscontrol-container {
-  padding: 3rem 1rem;
+  padding: 0.1rem 1rem;
   min-height: calc(100vh - 12rem);
   margin: 0 auto;
   position: relative;
   background: $complement-very-light;
 
   h1, h2 {
-    margin-top: 5rem;
+    margin-top: 1rem;
   }
 
   h1 {
