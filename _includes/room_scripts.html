@@ -2,7 +2,7 @@
   const convention_video = document.getElementsByClassName("convention-video")[0];
   const convention_chat = document.getElementsByClassName("convention-chat")[0];
   const resizeVideoAndChat = () => {
-    console.log(window.innerWidth);
+    console.log(typeof window.innerWidth);
     const third_width = window.innerwidth / 3;
     const video_width = (third_width * 2) - 40;
     const chat_width = third_width - 40;
