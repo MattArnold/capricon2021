@@ -2,11 +2,13 @@
   const convention_video = document.getElementsByClassName("convention-video")[0];
   const convention_chat = document.getElementsByClassName("convention-chat")[0];
   const resizeVideoAndChat = () => {
-    const w = (window.innerWidth / 2) - 40;
+    const third_width = (window.innerwidth / 3);
+    const video_width = third_width * 2 -40;
+    const chat_width = third_width - 40;
     // Maintain a 16-9 aspect ratio
-    const h = (w / 16) * 9;
-    convention_video.style.width = `${w}px`;
-    convention_chat.style.width  = `${w}px`;
+    const h = (video_width / 16) * 9;
+    convention_video.style.width = `${video_width}px`;
+    convention_chat.style.width  = `${chat_width}px`;
     convention_video.style.height = `${h}px`;
     convention_chat.style.height  = `${h}px`;
   } 
