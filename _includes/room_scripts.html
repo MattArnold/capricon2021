@@ -4,8 +4,8 @@
   const resizeVideoAndChat = () => {
     const w = window.innerWidth / 3;
     // Maintain a 16-9 aspect ratio
-    const h = (w / 16) * 9;
-    convention_video.style.width = `${w}px`;
+    const h = ((w * 2) / 16) * 9;
+    convention_video.style.width = `${w * 2}px`;
     convention_chat.style.width  = `${w}px`;
     convention_video.style.height = `${h}px`;
     convention_chat.style.height  = `${h}px`;
