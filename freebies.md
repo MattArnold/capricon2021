@@ -22,7 +22,7 @@ Happy Reading and Listening!
 
 [**Jen Haeger: _Miles from Manistique_ (MP3 audiobook excerpt)**](/assets/images/five-minute-sample_miles-from-manistique.mp3) _Miles from Manistique_ is a paranormal thriller set in Michigan's Upper Peninsula.
 
-**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_ (Aqueduct Press) (PDF excerpt)**
+[**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_ (Aqueduct Press) (PDF excerpt)**](/assets/images/wisconchronicles12.pdf)
 
 [**Lucy A. Snyder: _Halloween Season_ (PDF excerpt**](/assets/images/halloween-season-excerpt.pdf)**)**
 
