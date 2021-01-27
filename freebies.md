@@ -30,4 +30,4 @@ Happy Reading and Listening!
 
 **_Uncanny Magazine_ Issue 28**: Featuring Guests of Honor Michi Trota (Managing / Nonfiction Editor) and Brandon O'Brien (Contributor)
 
-PDF / EPUB / MOBI
+[PDF](/assets/images/uncanny_issue_28.pdf) / EPUB / MOBI
