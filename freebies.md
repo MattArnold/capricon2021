@@ -18,7 +18,7 @@ Happy Reading and Listening!
 
 **S.N. Arly: _Something Familiar (EPUB)_**
 
-**Dark Helix Press: _E-Book Sampler 10 (PDF)_**
+[**Dark Helix Press: _E-Book Sampler 10 (PDF)_**](/assets/images/dark-helix-press-ebook-sampler_final.pdf)
 
 [**Jen Haeger: _Miles from Manistique_ (MP3 audiobook excerpt)**](/assets/images/five-minute-sample_miles-from-manistique.mp3) _Miles from Manistique_ is a paranormal thriller set in Michigan's Upper Peninsula.
 
