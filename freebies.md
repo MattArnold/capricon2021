@@ -20,8 +20,6 @@ Happy Reading and Listening!
 
 **Dark Helix Press: _E-Book Sampler 10_**
 
-[http://darkhelixpress.com/](http://darkhelixpress.com/ "http://darkhelixpress.com/")
-
 **Jen Haeger: _Miles from Manistique_ (audiobook excerpt)**. _Miles from Manistique_ is a paranormal thriller set in Michigan's Upper Peninsula.
 
 **Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_ (Aqueduct Press) (excerpt)**
