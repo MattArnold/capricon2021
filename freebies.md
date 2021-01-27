@@ -24,8 +24,8 @@ Happy Reading and Listening!
 
 **Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_ (Aqueduct Press) (PDF excerpt)**
 
-[**Lucy A. Snyder: _Halloween Season_ (excerpt)**](/assets/images/halloween-season-excerpt.pdf)
+[**Lucy A. Snyder: _Halloween Season_ (PDF excerpt**](/assets/images/halloween-season-excerpt.pdf)**)**
 
-[**Bill Thomasson: _The Whip of Abadur_ (excerpt)**](/assets/images/whip-of-abadur-prologue-chapter.pdf)
+[**Bill Thomasson: _The Whip of Abadur_ (PDF excerpt)**](/assets/images/whip-of-abadur-prologue-chapter.pdf)
 
-**_Uncanny Magazine_ Issue 28**: Featuring Guests of Honor Michi Trota (Managing / Nonfiction Editor) and Brandon O'Brien (Contributor)   [PDF](/assets/images/uncanny_issue_28.pdf) / [EPUB](/assets/images/uncanny_issue_28.epub) / [MOBI](/assets/images/uncanny_issue_28.mobi)
+**_Uncanny Magazine_ Issue 28**: Featuring Guests of Honor Michi Trota (Managing / Nonfiction Editor) and Brandon O'Brien (Contributor)   [**PDF**](/assets/images/uncanny_issue_28.pdf) **/** [**EPUB**](/assets/images/uncanny_issue_28.epub) **/** [**MOBI**](/assets/images/uncanny_issue_28.mobi)
