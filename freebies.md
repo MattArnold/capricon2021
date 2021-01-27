@@ -20,12 +20,14 @@ Happy Reading and Listening!
 
 **Dark Helix Press: _E-Book Sampler 10_**
 
-**Jen Haeger: _Miles from Manistique_ (audiobook excerpt)**. _Miles from Manistique_ is a paranormal thriller set in Michigan's Upper Peninsula.
+[**Jen Haeger: _Miles from Manistique_ (audiobook excerpt)**.](/assets/images/five-minute-sample_miles-from-manistique.mp3) _Miles from Manistique_ is a paranormal thriller set in Michigan's Upper Peninsula.
 
 **Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_ (Aqueduct Press) (excerpt)**
 
-**Lucy A. Snyder: _Halloween Season_ (excerpt)**
+[**Lucy A. Snyder: _Halloween Season_ (excerpt)**](/assets/images/halloween-season-excerpt.pdf)
 
-**Bill Thomasson: _The Whip of Abadur_ (excerpt)**
+[**Bill Thomasson: _The Whip of Abadur_ (excerpt)**](/assets/images/whip-of-abadur-prologue-chapter.pdf)
 
 **_Uncanny Magazine_ Issue 28**: Featuring Guests of Honor Michi Trota (Managing / Nonfiction Editor) and Brandon O'Brien (Contributor)
+
+PDF / EPUB / MOBI
