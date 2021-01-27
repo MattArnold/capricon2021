@@ -3,7 +3,7 @@ title: Freebies
 layout: default
 category: info
 public: false
-order: "10"
+order: 10
 menu:
   exhibits: {}
 
