@@ -3,7 +3,7 @@ title: Freebies
 layout: default
 category: info
 public: false
-order: 10
+order: "10"
 menu:
   exhibits: {}
 
@@ -16,6 +16,18 @@ Several authors have generously donated either full works or excerpts from their
 
 Happy Reading and Listening!
 
-Jen Haeger: _Miles from Manistique_ (audiobook excerpt)
+**S.N. Arly: _Something Familiar_**
 
-_Miles from Manistique_ is a paranormal thriller set in Michigan's Upper Peninsula.
+**Dark Helix Press: _E-Book Sampler 10_**
+
+[http://darkhelixpress.com/](http://darkhelixpress.com/ "http://darkhelixpress.com/")
+
+**Jen Haeger: _Miles from Manistique_ (audiobook excerpt)**. _Miles from Manistique_ is a paranormal thriller set in Michigan's Upper Peninsula.
+
+**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_ (Aqueduct Press) (excerpt)**
+
+**Lucy A. Snyder: _Halloween Season_ (excerpt)**
+
+**Bill Thomasson: _The Whip of Abadur_ (excerpt)**
+
+**_Uncanny Magazine_ Issue 28**: Featuring Guests of Honor Michi Trota (Managing / Nonfiction Editor) and Brandon O'Brien (Contributor)
