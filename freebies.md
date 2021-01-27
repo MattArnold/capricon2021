@@ -16,7 +16,7 @@ Several authors have generously donated either full works or excerpts from their
 
 Happy Reading and Listening!
 
-**S.N. Arly: _Something Familiar (EPUB)_**
+[**S.N. Arly: _Something Familiar (EPUB)_**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub)
 
 [**Dark Helix Press: _E-Book Sampler 10 (PDF)_**](/assets/images/dark-helix-press-ebook-sampler_final.pdf)
 
