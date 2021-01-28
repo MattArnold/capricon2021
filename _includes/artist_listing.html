@@ -1,5 +1,17 @@
 <section class="artist-listing" id="listing-{{ artist.name | slugify }}">
 <div class="gallery">
+  {% if artist.image_filenames.size > 0 %}
+  {% for file in artist.image_filenames %}
+  <div
+  class="gallery-image"
+  role="img"
+  aria-label="Art by {{artist.name}}"
+  style="background-image: url('{{site.url}}{{site.baseurl}}{{file}}')"
+  >
+</div>
+{% endfor %}
+{% endif %}
+</div>
 <div class="artist-info">
 <h2>{{ artist.name }}</h2>
 <ul class="social-links-menu">
@@ -54,17 +66,5 @@ aria-label="Find this artist on Patreon"
 <p class="website3">{{ artist.website3 | markdownify}}</p>
 {% endif %}
 <p>{{ artist.description | markdownify }}</p>
-</div>
-{% if artist.image_filenames.size > 0 %}
-{% for file in artist.image_filenames %}
-<div
-class="gallery-image"
-role="img"
-aria-label="Art by {{artist.name}}"
-style="background-image: url('{{site.url}}{{site.baseurl}}{{file}}')"
->
-</div>
-{% endfor %}
-{% endif %}
 </div>
 </section>
