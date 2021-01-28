@@ -1,15 +1,13 @@
 ---
-- name: Silver Owl Creations
-  description: '[https://www.etsy.com/shop/silverowlcreations](https://www.etsy.com/shop/silverowlcreations
-    "https://www.etsy.com/shop/silverowlcreations")'
-  website1: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
-    "https://www.patreon.com/silverowlcreations")'
-  website2: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
-    "https://www.patreon.com/silverowlcreations")'
-  website3: https://www.facebook.com/SilverOwlCreations/
-  image_of_artist: ''
-  image_filenames:
-  - "/assets/images/silverowlcreations.jpg"
+- image_filenames:
+  - "/assets/images/oldhame.jpg"
+  name: Elaine Oldham
+  description: ''
+  website1: '[https://www.dreamlightgraphics.com/](https://www.dreamlightgraphics.com/
+    "https://www.dreamlightgraphics.com/")'
+  website2: '[https://www.dreamlightgraphics.com/store](https://www.dreamlightgraphics.com/store
+    "https://www.dreamlightgraphics.com/store")'
+  website3: https://www.facebook.com/FantasyArtByElaineCOldham
   instagram: ''
 - name: Sarah Clemens
   description: ''
@@ -80,6 +78,18 @@
   image_filenames:
   - "/assets/images/ogawag.jpg"
   instagram: goldeenogawa
+- name: Silver Owl Creations
+  description: '[https://www.etsy.com/shop/silverowlcreations](https://www.etsy.com/shop/silverowlcreations
+    "https://www.etsy.com/shop/silverowlcreations")'
+  website1: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
+    "https://www.patreon.com/silverowlcreations")'
+  website2: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
+    "https://www.patreon.com/silverowlcreations")'
+  website3: https://www.facebook.com/SilverOwlCreations/
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/silverowlcreations.jpg"
+  instagram: ''
 - name: Brandy Stark
   description: ''
   website1: '[http://starkimages.etsy.com/](http://starkimages.etsy.com/ "http://starkimages.etsy.com/")'
