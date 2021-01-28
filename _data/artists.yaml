@@ -1,4 +1,16 @@
 ---
+- name: Silver Owl Creations
+  description: '[https://www.etsy.com/shop/silverowlcreations](https://www.etsy.com/shop/silverowlcreations
+    "https://www.etsy.com/shop/silverowlcreations")'
+  website1: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
+    "https://www.patreon.com/silverowlcreations")'
+  website2: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
+    "https://www.patreon.com/silverowlcreations")'
+  website3: https://www.facebook.com/SilverOwlCreations/
+  image_of_artist: ''
+  image_filenames:
+  - "/assets/images/silverowlcreations.jpg"
+  instagram: ''
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
