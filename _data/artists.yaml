@@ -1,14 +1,5 @@
 ---
 - image_filenames:
-  - "/assets/images/monsterhedz.jpg"
-  name: MonsterhedZ
-  description: Can be found on Facebook, Twitter, & Tumblr as MonsterhedZ.
-  website1: '[https://urbanartsgallery.square.site/shop/monsterhedz/15](https://urbanartsgallery.square.site/shop/monsterhedz/15
-    "https://urbanartsgallery.square.site/shop/monsterhedz/15")'
-  website2: ''
-  website3: ''
-  instagram: MonsterheadZ
-- image_filenames:
   - "/assets/images/akosuaa.jpg"
   name: Asha Akosua
   description: ''
@@ -74,6 +65,15 @@
   image_filenames:
   - "/assets/images/mcleodc.jpg"
   instagram: ''
+- image_filenames:
+  - "/assets/images/monsterhedz.jpg"
+  name: MonsterhedZ
+  description: Can be found on Facebook, Twitter, & Tumblr as MonsterhedZ.
+  website1: '[https://urbanartsgallery.square.site/shop/monsterhedz/15](https://urbanartsgallery.square.site/shop/monsterhedz/15
+    "https://urbanartsgallery.square.site/shop/monsterhedz/15")'
+  website2: ''
+  website3: ''
+  instagram: MonsterheadZ
 - name: Goldeen Ogawa
   description: '[https://twitter.com/GoldeenOgawa](https://twitter.com/GoldeenOgawa
     "https://twitter.com/GoldeenOgawa")'
