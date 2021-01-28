@@ -1,14 +1,13 @@
 ---
 - image_filenames:
-  - "/assets/images/vantillburgr.jpg"
-  name: Raymond VanTillburg
-  website1: '[https://www.etsy.com/shop/ArtofRayVanTilburg](https://www.etsy.com/shop/ArtofRayVanTilburg
-    "https://www.etsy.com/shop/ArtofRayVanTilburg")'
-  website2: '[https://www.facebook.com/RayVanTilburgArt](https://www.facebook.com/RayVanTilburgArt
-    "https://www.facebook.com/RayVanTilburgArt")'
-  website3: https://www.reddit.com/user/Aircool66
+  - "/assets/images/saden.jpg"
+  name: Nigel Sade
+  website1: '[http://www.studiodesade.com/](http://www.studiodesade.com/ "http://www.studiodesade.com/")'
+  website2: '[http://www.eventeny.com/company/?c=9531](http://www.eventeny.com/company/?c=9531
+    "http://www.eventeny.com/company/?c=9531")'
+  website3: https://www.redbubble.com/people/Nigelsade/shop?asc=u
   description: ''
-  instagram: aircool66
+  instagram: ''
 - image_filenames:
   - "/assets/images/akosuaa.jpg"
   name: Asha Akosua
@@ -147,6 +146,16 @@
   image_filenames:
   - "/assets/images/vancampw.jpg"
   instagram: ''
+- image_filenames:
+  - "/assets/images/vantillburgr.jpg"
+  name: Raymond VanTillburg
+  website1: '[https://www.etsy.com/shop/ArtofRayVanTilburg](https://www.etsy.com/shop/ArtofRayVanTilburg
+    "https://www.etsy.com/shop/ArtofRayVanTilburg")'
+  website2: '[https://www.facebook.com/RayVanTilburgArt](https://www.facebook.com/RayVanTilburgArt
+    "https://www.facebook.com/RayVanTilburgArt")'
+  website3: https://www.reddit.com/user/Aircool66
+  description: ''
+  instagram: aircool66
 - name: Sarah Wilkinson
   description: ''
   website1: http://www.studiodesade.com/
