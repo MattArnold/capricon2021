@@ -1,4 +1,12 @@
 ---
+- image_filenames:
+  - "/assets/images/akosuaa.jpg"
+  name: Asha Akosua
+  description: ''
+  website1: '[https://facebook.com/AshaAkosua](https://facebook.com/AshaAkosua "https://facebook.com/AshaAkosua")'
+  website2: '[https://twitter.com/akosuaasha](https://twitter.com/akosuaasha "https://twitter.com/akosuaasha")'
+  website3: ''
+  instagram: ashaakosua
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
