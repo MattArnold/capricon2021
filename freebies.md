@@ -24,6 +24,8 @@ Happy Reading and Listening!
 
 [**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_ (Aqueduct Press) (PDF excerpt)**](/assets/images/wisconchronicles12.pdf)
 
+**Steven H. Silver: _Well of Tranquility_** (short story) with a bonus selection of Armenian recipes. [**EPUB**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.epub) **/** [**MOBI**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.mobi)
+
 [**Lucy A. Snyder: _Halloween Season_ (PDF excerpt**](/assets/images/halloween-season-excerpt.pdf)**)**
 
 [**Bill Thomasson: _The Whip of Abadur_ (PDF excerpt)**](/assets/images/whip-of-abadur-prologue-chapter.pdf)
