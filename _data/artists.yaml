@@ -1,14 +1,5 @@
 ---
 - image_filenames:
-  - "/assets/images/kelleya.jpeg"
-  name: Alessandra Kelley
-  website1: '[http://www.alessandrakelley.com/](http://www.alessandrakelley.com/ "http://www.alessandrakelley.com/")'
-  website2: '[https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt](https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt
-    "https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt")'
-  website3: https://twitter.com/AchronalA
-  description: ''
-  instagram: achronalart
-- image_filenames:
   - "/assets/images/akosuaa.jpg"
   name: Asha Akosua
   description: ''
@@ -63,6 +54,15 @@
   image_filenames:
   - "/assets/images/kallicki.jpg"
   instagram: ''
+- image_filenames:
+  - "/assets/images/kelleya.jpeg"
+  name: Alessandra Kelley
+  website1: '[http://www.alessandrakelley.com/](http://www.alessandrakelley.com/ "http://www.alessandrakelley.com/")'
+  website2: '[https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt](https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt
+    "https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt")'
+  website3: https://twitter.com/AchronalA
+  description: ''
+  instagram: achronalart
 - name: Theresa Mather
   description: ''
   website1: '[https://www.theresamatherfantasyshop.com/](https://www.theresamatherfantasyshop.com/
