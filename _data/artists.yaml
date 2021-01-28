@@ -1,14 +1,4 @@
 ---
-- image_filenames:
-  - "/assets/images/oldhame.jpg"
-  name: Elaine Oldham
-  description: ''
-  website1: '[https://www.dreamlightgraphics.com/](https://www.dreamlightgraphics.com/
-    "https://www.dreamlightgraphics.com/")'
-  website2: '[https://www.dreamlightgraphics.com/store](https://www.dreamlightgraphics.com/store
-    "https://www.dreamlightgraphics.com/store")'
-  website3: https://www.facebook.com/FantasyArtByElaineCOldham
-  instagram: ''
 - name: Sarah Clemens
   description: ''
   website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
@@ -78,6 +68,16 @@
   image_filenames:
   - "/assets/images/ogawag.jpg"
   instagram: goldeenogawa
+- image_filenames:
+  - "/assets/images/oldhame.jpg"
+  name: Elaine Oldham
+  description: ''
+  website1: '[https://www.dreamlightgraphics.com/](https://www.dreamlightgraphics.com/
+    "https://www.dreamlightgraphics.com/")'
+  website2: '[https://www.dreamlightgraphics.com/store](https://www.dreamlightgraphics.com/store
+    "https://www.dreamlightgraphics.com/store")'
+  website3: https://www.facebook.com/FantasyArtByElaineCOldham
+  instagram: ''
 - name: Silver Owl Creations
   description: '[https://www.etsy.com/shop/silverowlcreations](https://www.etsy.com/shop/silverowlcreations
     "https://www.etsy.com/shop/silverowlcreations")'
