@@ -58,15 +58,38 @@
     <section id="sign-in-first">
       {% include agreement.html %}
     </section>
-    <section class="accesscontrol-container room-container">
+    <section class="accesscontrol-container room-container" style="display: none">
     {% else %}
-    <section class="accesscontrol-container">
+    <section class="accesscontrol-container" style="display: none">
     {% endif %}
       {{ content }}
     </section>
     {% include footer.html %}
   </main>
 <script>
+  const agreement = localStorage.getItem('Capricon_2021_agreement');
+  const agreement_container = document.getElementsByClassName('agreement-container')[0];
+  if (agreement) {
+    const sign_in_first = document.getElementById('sign-in-first');
+    if (sign_in_first) {
+      sign_in_first.style.display = "none";
+    }
+    const accesscontainer = document.getElementsByClassName("accesscontrol-container")[0];
+    if (accesscontainer) {
+      accesscontainer.style.display = "block";
+    }
+    const accesscontrolnav = document.getElementsByClassName('rooms-menu')[0];
+    if (accesscontrolnav) {
+      accesscontrolnav.style.display = "flex";
+    }
+  }
+  if (window.document.documentMode) {
+    var main = document.getElementsByClassName('main')[0];
+    var iesupportmsg = document.createElement('div');
+    iesupportmsg.innerText = "We're sorry, but Internet Explorer is not supported."
+    main.appendChild(iesupportmsg);
+  }
+
   const gallery_images = document.getElementsByClassName("gallery-image");
 
   var makeLarge = function(e) {
