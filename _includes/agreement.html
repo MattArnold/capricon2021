@@ -1,33 +1,40 @@
-<script type="text/javascript" >
+<script type="text/javascript">
   let capricon_agreement_submitted = false;
 </script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-  onload=""></iframe>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload=""></iframe>
 <section class="agreement-container">
-  <form
-    id="agreement-form"
-    action="https://docs.google.com/forms/d/e/1FAIpQLSfPMhfK1i3gUqqsiYjbErhB40u2KB4VnLfrOCQrfvhhqUMS_A/formResponse" 
-    method="post"
-    target="hidden_iframe"
-    onsubmit="capricon_agreement_submitted=true; localStorage.setItem('Capricon_2020_agreement', true); setTimeout(()=> { location.reload(false) }, 500);"
-  >
-  <input class="agreement-checkbox" id="coc-agreement" type="checkbox" name="entry.424891793_sentinel" hidden required />
-  <label class="agreement button" for="coc-agreement" data-caption="Please click here:">I agree to abide by the Code Of Conduct.</label>
-  <input class="agreement-checkbox" id="recording-agreement" type="checkbox" name="entry.1821752882_sentinel" hidden required />
-  <label class="agreement button" for="recording-agreement" data-caption="... and check here:">
-    I grant permission to Capricon 2021 to record my
-    participation in the online activities of this convention, and to
-    distribute the recordings under a Creative Commons Attribution
-    Non-Commercial 4.0 license.
-  </label>
-  <input class="agreement-checkbox" id="agreement-signature" type="checkbox" aria-hidden="true" name="entry.416960257_sentinel" hidden />
-  <label class="agreement" for="agreement-name" data-caption="Please enter your name in our logs:">Your name:</label>
-  <input id="agreement-name" name="entry.602310442" required />
-  <button id="submit-agreement-btn" type="submit" disabled>Submit Form And Access Site</button>
-</form>
+  <form id="agreement-form"
+    action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSe0u5MKoCKcjJTF5bHx8auSFFL7BrE2vuQLYEc6lWp_6U825g/formResponse"
+    method="post" target="hidden_iframe"
+    onsubmit="capricon_agreement_submitted=true; localStorage.setItem('Capricon_2020_agreement', true); setTimeout(()=> { location.reload(false) }, 500);">
+    <label class="agreement" for="agreement-name" data-caption="Enter the password Capricon emailed to you:">Enter the
+      secret word Capricon emailed to you:</label>
+    <input id="secret-word" name="entry.1516217376" required />
+
+    <input class="agreement-checkbox" id="coc-agreement" type="checkbox" name="entry.1283385470_sentinel" hidden
+      required />
+    <label class="agreement button" for="coc-agreement" data-caption="Please click here:">I agree to abide by the Code
+      Of Conduct.</label>
+    <input class="agreement-checkbox" id="recording-agreement" type="checkbox" name="entry.1437344676_sentinel" hidden
+      required />
+    <label class="agreement button" for="recording-agreement" data-caption="... and check here:">
+      I grant permission to Capricon 2021 to record my
+      participation in the online activities of this convention, and to
+      distribute the recordings under a Creative Commons Attribution
+      Non-Commercial 4.0 license.
+    </label>
+    <input class="agreement-checkbox" id="agreement-signature" type="checkbox" aria-hidden="true"
+      name="entry.781653011_sentinel" hidden />
+    <label class="agreement" for="agreement-name" data-caption="Please enter your name in our logs:">Your name:</label>
+    <input id="agreement-name" name="entry.395157454" required />
+    <button id="submit-agreement-btn" type="submit" disabled>Submit Form And Access Site</button>
+  </form>
 </section>
 <script>
   var submit_agreement_btn = document.getElementById("submit-agreement-btn");
+  var secret_word = document.getElementById("secret-word");
+  var word_entered = false;
+  var word_checkbox = document.getElementById("word-signature");
   var coc_checkbox = document.getElementById("coc-agreement");
   var coc_checked = false;
   var recording_checkbox = document.getElementById("recording-agreement");
@@ -35,6 +42,13 @@
   var agreement_name = document.getElementById("agreement-name");
   var name_checkbox = document.getElementById("agreement-signature");
   var name_entered = false;
+  secret_word.addEventListener("keyup", function (e) {
+    var word = e.target.value;
+    word_entered = word.toLowerCase() === "hamster";
+    secret_word_checkbox.checked = word_entered;
+    validate();
+  });
+
   coc_checkbox.addEventListener("change", function (e) {
     coc_checked = e.target.checked;
     validate();
@@ -51,6 +65,6 @@
   });
 
   const validate = () => {
-    submit_agreement_btn.disabled = !(coc_checked && recording_checked && name_entered); 
+    submit_agreement_btn.disabled = !(coc_checked && recording_checked && name_entered);
   }
 </script>
