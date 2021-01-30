@@ -1,4 +1,22 @@
 ---
+- name: Cardz Xtcetera
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: https://www.cosplayconventioncenter.com/results/merchants/cardz_xtcetera/
+  description: We sell geeky bookmarks, Anime, Manga, collectibles and Asian snacks.
+  restrictions: ''
+  images: ''
+- name: ''
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: ''
+  description: ''
+  restrictions: ''
+  images: ''
 - name: Studio de Sade
   contact: ''
   city: ''
@@ -37,30 +55,3 @@
   - "/assets/images/dealers_lj_serefromthegreen-ebook.jpg"
   - "/assets/images/dealers_lj_fromtheashes-ebook.jpg"
   - "/assets/images/dealers_lj_haunted-ebook.jpg"
-- name: Made-up Plushie Dealer
-  contact: Test Name Person
-  city: My City
-  state: WI
-  what_is_sold: Plush
-  link: "[www.fakeurl.biz](https://www.fakeurl.biz)"
-  description: Huge selection of plush from aardvark to zebra
-  restrictions: ''
-  images:
-  - thedragonslair01.jpg
-  - thedragonslair04.jpg
-  - thedragonslair05.jpg
-  - thedragonslair07.jpg
-  - thedragonslair08.jpg
-- name: Lorem Ipsum Pretend Bookseller
-  contact: Mary Notarealperson
-  city: Molasses
-  state: GA
-  what_is_sold: Books
-  link: "[Lorem Ipsum on eBay](https://www.ebay.com/)"
-  description: Online bookstore specializing in signed SF, Fantasy, and Mystery books.
-  restrictions: ''
-  images:
-  - esm-books-2.JPG
-  - esm-books-3.JPG
-  - esm-books-4.JPG
-  - esm-books-5.JPG
