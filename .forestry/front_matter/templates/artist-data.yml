@@ -38,6 +38,15 @@ fields:
       schema:
         format: markdown
     label: website3
+  - name: website4
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: website4
   - type: textarea
     name: description
     default: ''
