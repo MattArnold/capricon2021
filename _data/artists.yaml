@@ -1,12 +1,4 @@
 ---
-- image_filenames:
-  - "/assets/images/unicoherent.jpg"
-  name: Unicoherent Art
-  website1: '[https://www.unicoherent.com/](https://www.unicoherent.com/ "https://www.unicoherent.com/")'
-  website2: ''
-  website3: ''
-  description: ''
-  instagram: ''
 - name: Asha Akosua
   description: ''
   website1: '[https://facebook.com/AshaAkosua](https://facebook.com/AshaAkosua "https://facebook.com/AshaAkosua")'
@@ -33,7 +25,7 @@
   instagram: ''
   image_filenames: []
   single_image: "/assets/images/dragonlady.jpeg"
-- name: Lisa Hertel, The Cogitation Zone
+- name: The Cogitation Zone by Lisa Hertel
   description: ''
   website1: '[http://www.cogitation.org/](http://www.cogitation.org/ "http://www.cogitation.org/")'
   website2: ''
@@ -108,6 +100,15 @@
   single_image: "/assets/images/ogawag.jpg"
   image_filenames: []
   instagram: goldeenogawa
+- name: No Wasted Ink by Wendy Van Camp
+  description: Original Poetry and Limited Edition Art Prints
+  website1: '[https://www.etsy.com/shop/NoWastedInk](https://www.etsy.com/shop/NoWastedInk
+    "https://www.etsy.com/shop/NoWastedInk")'
+  website2: '[http://nowastedink.com/](http://nowastedink.com/ "http://nowastedink.com/")'
+  website3: https://twitter.com/wvancamp
+  single_image: "/assets/images/vancampw.jpg"
+  image_filenames: []
+  instagram: ''
 - name: Elaine Oldham
   description: ''
   website1: '[https://www.dreamlightgraphics.com/](https://www.dreamlightgraphics.com/
@@ -157,14 +158,13 @@
   single_image: "/assets/images/tangitude.jpg"
   image_filenames: []
   instagram: ''
-- name: No Wasted Ink by Wendy Van Camp
-  description: Original Poetry and Limited Edition Art Prints
-  website1: '[https://www.etsy.com/shop/NoWastedInk](https://www.etsy.com/shop/NoWastedInk
-    "https://www.etsy.com/shop/NoWastedInk")'
-  website2: '[http://nowastedink.com/](http://nowastedink.com/ "http://nowastedink.com/")'
-  website3: https://twitter.com/wvancamp
-  single_image: "/assets/images/vancampw.jpg"
-  image_filenames: []
+- image_filenames:
+  - "/assets/images/unicoherent.jpg"
+  name: Unicoherent Art
+  website1: '[https://www.unicoherent.com/](https://www.unicoherent.com/ "https://www.unicoherent.com/")'
+  website2: ''
+  website3: ''
+  description: ''
   instagram: ''
 - name: Raymond VanTillburg
   website1: '[https://www.etsy.com/shop/ArtofRayVanTilburg](https://www.etsy.com/shop/ArtofRayVanTilburg
