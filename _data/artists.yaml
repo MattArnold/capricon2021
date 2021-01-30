@@ -42,6 +42,14 @@
   instagram: sillysarasue
   single_image: "/assets/images/artshow_felixs.jpg"
   image_filenames: []
+- image_filenames:
+  - "/assets/images/hollingsworthk.jpg"
+  name: Karen Hollingsworth
+  website1: '[https://www.wrenditions.com/](https://www.wrenditions.com/ "https://www.wrenditions.com/")'
+  website2: ''
+  website3: ''
+  description: ''
+  instagram: ''
 - name: Ingrid Kallick
   description: ''
   website1: '[https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown](https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown
@@ -127,6 +135,15 @@
   single_image: "/assets/images/artshow_oldhame.jpg"
   image_filenames: []
   instagram: ''
+- image_filenames:
+  - "/assets/images/presss.webp"
+  name: SamHain Press
+  website1: '[http://samhainpress.com](http://samhainpress.com "http://samhainpress.com")'
+  website2: '[https://www.facebook.com/samhainpress/](https://www.facebook.com/samhainpress/
+    "https://www.facebook.com/samhainpress/")'
+  website3: ''
+  description: ''
+  instagram: samhainpress
 - name: Nigel Sade
   website1: '[http://www.studiodesade.com/](http://www.studiodesade.com/ "http://www.studiodesade.com/")'
   website2: '[http://www.etsy.com/shop/SarahWilkinsonArt](http://www.etsy.com/shop/SarahWilkinsonArt
