@@ -1,10 +1,8 @@
 ---
 title: Ravinia
-menus: session-rooms
 layout: default
 category: stream
 public: false
-order: 1
 
 ---
 # Ravinia Room

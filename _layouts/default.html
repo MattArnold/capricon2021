@@ -29,9 +29,7 @@
         <h2>Capricon 41, February 4 - 7, 2021</h2>
         <nav>
           <ul class="rooms-menu">
-          {% assign rooms = site.pages | sort: "order" %}
-          {% for room in rooms %}
-            {% unless room.url contains "404" or room.url contains 'assets' %}
+          {% for room in site.menus.header %}
             {% if room.title == page.title %}
             <li class="this-page room">
             {% else %}
@@ -43,7 +41,6 @@
               {{ room.title }}
               </a>
             </li>
-            {% endunless %}
           {% endfor %}
           </ul>
         </nav>

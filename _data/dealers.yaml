@@ -1,4 +1,25 @@
 ---
+- name: Ravenwing Wearable Art
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: www.ravenwingwearableart.etsy.com
+  description: Jewelry, including ear cuffs, ear wraps, earrings, bracelets, necklaces
+    and various bead and feather and sterling silver jewelry.
+  restrictions: ''
+  images:
+  - "/assets/images/dealer_rwa_img_7233.JPG"
+  - "/assets/images/dealer_rwa_img_7193-1.JPG"
+  - "/assets/images/dealer_rwa_img_3932.JPG"
+  - "/assets/images/dealer_rwa_img_7243.JPG"
+  - "/assets/images/dealer_rwa_img_7257.JPG"
+  - "/assets/images/dealer_rwa_img_7251.JPG"
+  - "/assets/images/dealer_rwa_img_7253.JPG"
+  - "/assets/images/dealer_rwa_img_7191.JPG"
+  - "/assets/images/dealer_rwa_img_7222.JPG"
+  - "/assets/images/dealer_rwa_img_7201-1.JPG"
+  - "/assets/images/dealer_rwa_img_7138.JPG"
 - name: Cardz Xtcetera
   contact: ''
   city: ''
@@ -23,15 +44,6 @@
   - "/assets/images/dealers_cx_hi-chew-flavors.jpg"
   - "/assets/images/dealers_cx_bookmarks.jpg"
   - "/assets/images/dealers_cx_black-black.jpg"
-- name: ''
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: ''
-  description: ''
-  restrictions: ''
-  images: ''
 - name: Studio de Sade
   contact: ''
   city: ''

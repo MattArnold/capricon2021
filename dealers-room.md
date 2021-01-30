@@ -1,10 +1,8 @@
 ---
 title: Dealers Room
-menus: exhibits
 layout: default
 category: gallery
 public: false
-order: 6
 
 ---
 {% include jump_to.html content=site.data.dealers %}

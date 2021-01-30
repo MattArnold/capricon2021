@@ -3,9 +3,6 @@ title: Art Show
 layout: default
 category: gallery
 public: false
-order: 7
-menu:
-  exhibits: {}
 
 ---
 {% include jump_to.html content=site.data.artists %}
