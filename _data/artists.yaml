@@ -33,16 +33,6 @@
   single_image: "/assets/images/hertell.jpg"
   image_filenames: []
   instagram: Cogitation_Zone
-- name: Kat's Magical Jewelry and Other Creations by Kat Huddleston
-  description: ''
-  website1: '[http://www.kathuddleston.com/](http://www.kathuddleston.com/ "http://www.kathuddleston.com/")'
-  website2: '[https://www.facebook.com/FusedGlassByKathie](https://www.facebook.com/FusedGlassByKathie
-    "https://www.facebook.com/FusedGlassByKathie")'
-  website3: ''
-  single_image: ''
-  image_filenames:
-  - "/assets/images/huddlestonk.jpg"
-  instagram: scifikathie
 - name: Ingrid Kallick
   description: ''
   website1: '[https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown](https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown
@@ -53,6 +43,16 @@
   single_image: "/assets/images/kallicki.jpg"
   image_filenames: []
   instagram: ''
+- name: Kat's Magical Jewelry and Other Creations by Kat Huddleston
+  description: ''
+  website1: '[http://www.kathuddleston.com/](http://www.kathuddleston.com/ "http://www.kathuddleston.com/")'
+  website2: '[https://www.facebook.com/FusedGlassByKathie](https://www.facebook.com/FusedGlassByKathie
+    "https://www.facebook.com/FusedGlassByKathie")'
+  website3: ''
+  single_image: ''
+  image_filenames:
+  - "/assets/images/huddlestonk.jpg"
+  instagram: scifikathie
 - name: Alessandra Kelley
   website1: '[http://www.alessandrakelley.com/](http://www.alessandrakelley.com/ "http://www.alessandrakelley.com/")'
   website2: '[https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt](https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt
