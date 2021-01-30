@@ -7,7 +7,22 @@
   link: https://www.cosplayconventioncenter.com/results/merchants/cardz_xtcetera/
   description: We sell geeky bookmarks, Anime, Manga, collectibles and Asian snacks.
   restrictions: ''
-  images: ''
+  images:
+  - "/assets/images/dealers_cx_ramune.jpg"
+  - "/assets/images/dealers_cx_kit-kat-strawberry.jpg"
+  - "/assets/images/dealers_cx_poke-marbles.jpg"
+  - "/assets/images/dealers_cx_table-pic-plush.jpg"
+  - "/assets/images/dealers_cx_table-pic-4.jpg"
+  - "/assets/images/dealers_cx_table-pic-snacks.jpg"
+  - "/assets/images/dealers_cx_star-wars-laserdisc.jpg"
+  - "/assets/images/dealers_cx_nbc-vhs.jpg"
+  - "/assets/images/dealers_cx_dw-vhs.jpg"
+  - "/assets/images/dealers_cx_cah-base-game.jpg"
+  - "/assets/images/dealers_cx_hp-mug.jpg"
+  - "/assets/images/dealers_cx_jyhad-ccg.jpg"
+  - "/assets/images/dealers_cx_hi-chew-flavors.jpg"
+  - "/assets/images/dealers_cx_bookmarks.jpg"
+  - "/assets/images/dealers_cx_black-black.jpg"
 - name: ''
   contact: ''
   city: ''
