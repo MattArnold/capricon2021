@@ -48,6 +48,18 @@
     </header>
     {% if page.title == "Home" %}
     {% include full_width_image.html filename="Cap41art.png" height="50rem" %}
+    {% assign rooms = site.pages %}
+    {% for room in rooms %}
+      {% unless room.url contains "404" or room.url contains 'assets' %}
+      <li class="room">
+        <a
+          href="{{ room.url | prepend: site.baseurl | prepend: site.url }}"
+        >
+        {{ room.title }}
+        </a>
+      </li>
+      {% endunless %}
+    {% endfor %}
     {% endif %}
     {% if page.public %}
     <section class="public-container {{ page_size}}">
