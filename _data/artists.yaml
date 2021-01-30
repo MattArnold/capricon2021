@@ -23,8 +23,7 @@
   website2: ''
   website3: ''
   single_image: "/assets/images/artshow_clemenss.jpg"
-  image_filenames:
-  - "/assets/images/artshow_clemenss.jpg"
+  image_filenames: []
   instagram: ''
   website4: ''
 - name: The Cogitation Zone by Lisa Hertel
