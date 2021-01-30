@@ -8,7 +8,21 @@
   description: A Columbus, OH-based, fine art studio featuring original gallery art
     as well as art-deco inspired interpretations of pop-culture concepts
   restrictions: ''
-  images: ''
+  images:
+  - "/assets/images/dealer_sds_studio-de-sade-art-samples.jpg"
+  - "/assets/images/dealer_sds_screenshot_20190712-122242_gallery.jpg"
+  - "/assets/images/dealer_sds_persistence-of-hope-oe-10x20.jpg"
+  - "/assets/images/dealer_sds_aim-to-misbehave-oe-10x20.jpg"
+  - "/assets/images/dealer_sds_im-a-leaf-on-the-wind-oe-10x20.jpg"
+  - "/assets/images/dealer_sds_osirus.jpg"
+  - "/assets/images/dealer_sds_i-know-what-i-have-to-do-10x20.jpg"
+  - "/assets/images/dealer_sds_turn-your-face-to-the-sun-take-two-10x20.jpg"
+  - "/assets/images/dealer_sds_rebuttaltomoderndayatrocities16x20.jpg"
+  - "/assets/images/dealer_sds_merciful-minerva-15x30.jpg"
+  - "/assets/images/dealer_sds_il_1140xn-2611526943_qenj.jpg"
+  - "/assets/images/dealer_sds_all-of-this-happened-before-1x3-ratio24x72max.jpg"
+  - "/assets/images/dealer_sds_10896325_629657213812963_7420808972374329324_o.jpg"
+  - "/assets/images/dealer_sds_11950172_741812969264053_8695854523477135113_o.jpg"
 - name: Lauren Jankowski
   contact: laurenjankowski27@gmail.com
   city: ''
