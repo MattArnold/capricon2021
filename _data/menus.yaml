@@ -1,39 +1,38 @@
 ---
-header:
-  - url: /
-    title: Home
-    identifier: home
-  - url: /ravinia
-    title: Ravinia
-    identifier: ravinia
-  - url: /willow
-    title: Willow
-    identifier: willow
-  - url: /birch
-    title: Birch
-    identifier: birch
-  - url: /maple
-    title: Maple
-    identifier: maple
-  - url: /cafe
-    title: Cafe
-    identifier: cafe
-  - url: /dealers-room
-    title: Dealers Room
-    identifier: dealers-room
-  - url: /art-show
-    title: Art Show
-    identifier: art-show
-  - url: /gaming
-    title: Gaming
-    identifier: gaming
-  - url: /films
-    title: Films
-    identifier: films
-  - url: /freebies
-    title: Freebies
-    identifier: freebies
-  - url: /kids
-    title: Kids
-    identifier: kids
+- url: /
+  title: Home
+  identifier: home
+- url: /ravinia
+  title: Ravinia
+  identifier: ravinia
+- url: /willow
+  title: Willow
+  identifier: willow
+- url: /birch
+  title: Birch
+  identifier: birch
+- url: /maple
+  title: Maple
+  identifier: maple
+- url: /cafe
+  title: Cafe
+  identifier: cafe
+- url: /dealers-room
+  title: Dealers Room
+  identifier: dealers-room
+- url: /art-show
+  title: Art Show
+  identifier: art-show
+- url: /gaming
+  title: Gaming
+  identifier: gaming
+- url: /films
+  title: Films
+  identifier: films
+- url: /freebies
+  title: Freebies
+  identifier: freebies
+- url: /kids
+  title: Kids
+  identifier: kids
 ---

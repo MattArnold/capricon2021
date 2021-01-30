@@ -1,4 +1,2 @@
 markdown: CommonMarkGhPages
 theme: jekyll-theme-minimal
-plugins:
-- jekyll-menus

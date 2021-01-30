@@ -29,13 +29,13 @@
         <h2>Capricon 41, February 4 - 7, 2021</h2>
         <nav>
           <ul class="rooms-menu">
-          {% for room in site.menus.header %}
+          {% for room in site.data.menus %}
             {% if room.title == page.title %}
             <li class="this-page room">
             {% else %}
             <li class="room">
             {% endif %}
-              <a
+              <a title="{{room.identifier}}"
                 href="{{ room.url | prepend: site.baseurl | prepend: site.url }}"
               >
               {{ room.title }}
