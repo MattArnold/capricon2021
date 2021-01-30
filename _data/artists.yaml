@@ -1,19 +1,4 @@
 ---
-- image_filenames: []
-  name: "* SamHain Press"
-  website1: '[http://samhainpress.com](http://samhainpress.com "http://samhainpress.com")'
-  website2: '[https://www.facebook.com/samhainpress/](https://www.facebook.com/samhainpress/
-    "https://www.facebook.com/samhainpress/")'
-  website3: ''
-  description: ''
-  instagram: samhainpress
-- image_filenames: []
-  name: "* Karen Hollingsworth"
-  website1: ''
-  website2: ''
-  website3: ''
-  description: ''
-  instagram: ''
 - name: Asha Akosua
   description: ''
   website1: '[https://facebook.com/AshaAkosua](https://facebook.com/AshaAkosua "https://facebook.com/AshaAkosua")'
@@ -57,6 +42,13 @@
   instagram: sillysarasue
   single_image: "/assets/images/artshow_felixs.jpg"
   image_filenames: []
+- image_filenames: []
+  name: "* Karen Hollingsworth"
+  website1: ''
+  website2: ''
+  website3: ''
+  description: ''
+  instagram: ''
 - name: Ingrid Kallick
   description: ''
   website1: '[https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown](https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown
@@ -142,6 +134,14 @@
   single_image: "/assets/images/artshow_oldhame.jpg"
   image_filenames: []
   instagram: ''
+- image_filenames: []
+  name: "* SamHain Press"
+  website1: '[http://samhainpress.com](http://samhainpress.com "http://samhainpress.com")'
+  website2: '[https://www.facebook.com/samhainpress/](https://www.facebook.com/samhainpress/
+    "https://www.facebook.com/samhainpress/")'
+  website3: ''
+  description: ''
+  instagram: samhainpress
 - name: Nigel Sade
   website1: '[http://www.studiodesade.com/](http://www.studiodesade.com/ "http://www.studiodesade.com/")'
   website2: '[http://www.etsy.com/shop/SarahWilkinsonArt](http://www.etsy.com/shop/SarahWilkinsonArt
