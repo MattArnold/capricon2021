@@ -20,10 +20,9 @@
   website4: ''
 - name: Sarah Clemens
   description: ''
-  website1: '[http://clemensart.com/prints.htm](http://clemensart.com/prints.htm "http://clemensart.com/prints.htm")'
-  website2: '[http://clemensart.com/stoneart.html](http://clemensart.com/stoneart.html
-    "Online Storefront")'
-  website3: http://clemensart.com/paintgal.html
+  website1: "[Website](http://clemensart.com)"
+  website2: ''
+  website3: ''
   single_image: "/assets/images/artshow_clemenss.jpg"
   image_filenames: []
   instagram: ''
