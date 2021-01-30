@@ -3,7 +3,7 @@ title: Maple
 layout: default
 category: info
 public: false
-order: "4"
+order: 4
 menu:
   exhibits: {}
 
