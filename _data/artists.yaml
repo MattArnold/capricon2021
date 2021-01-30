@@ -15,8 +15,7 @@
   website3: ''
   instagram: ashaakosua
   single_image: "/assets/images/artshow_akosuaa.jpg"
-  image_filenames:
-  - "/assets/images/artshow_akosuaa.jpg"
+  image_filenames: []
   website4: ''
 - name: Sarah Clemens
   description: ''
@@ -30,7 +29,7 @@
   website4: ''
 - name: The Cogitation Zone by Lisa Hertel
   description: ''
-  website1: '[http://www.cogitation.org/](http://www.cogitation.org/ "http://www.cogitation.org/")'
+  website1: "[Website](http://www.cogitation.org/)"
   website2: ''
   website3: ''
   single_image: "/assets/images/artshow_hertell.jpg"
