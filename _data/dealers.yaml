@@ -62,7 +62,14 @@
   link: www.hmnetwork.com
   description: Ambient electronic music on CD.
   restrictions: ''
-  images: ''
+  images:
+  - "/assets/images/dealers_hm_hmnetworkcom.gif"
+  - "/assets/images/dealers_hm_dance-of-shadows-artwork.jpg"
+  - "/assets/images/dealers_hm_mythical-pursuit-artwork.jpg"
+  - "/assets/images/dealers_hm_mundus-subterraneus-artwork.jpg"
+  - "/assets/images/dealers_hm_zanzi-artwork.jpg"
+  - "/assets/images/dealers_hm_space-artwork.jpg"
+  - "/assets/images/dealers_hm_cantus-umbrarum-artwork.jpg"
 - name: Lauren Jankowski
   contact: ''
   city: ''
