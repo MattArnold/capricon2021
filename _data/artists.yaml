@@ -5,7 +5,7 @@
   website2: '[https://twitter.com/akosuaasha](https://twitter.com/akosuaasha "https://twitter.com/akosuaasha")'
   website3: ''
   instagram: ashaakosua
-  single_image: "/assets/images/artshow_akosuaa.jpg"
+  single_image: "/assets/images/akosuaa.jpg"
   image_filenames: []
 - name: Sarah Clemens
   description: ''
@@ -13,7 +13,7 @@
   website2: '[http://clemensart.com/stoneart.html](http://clemensart.com/stoneart.html
     "Online Storefront")'
   website3: http://clemensart.com/paintgal.html
-  single_image: "/assets/images/artshow_clemenss.jpg"
+  single_image: "/assets/images/clemenss.jpg"
   image_filenames: []
   instagram: ''
 - name: The Dragon Lady
@@ -24,13 +24,13 @@
   description: ''
   instagram: ''
   image_filenames: []
-  single_image: "/assets/images/artshow_dragonlady.jpeg"
+  single_image: "/assets/images/dragonlady.jpeg"
 - name: Lisa Hertel, The Cogitation Zone
   description: ''
   website1: '[http://www.cogitation.org/](http://www.cogitation.org/ "http://www.cogitation.org/")'
   website2: ''
   website3: ''
-  single_image: "/assets/images/artshow_hertell.jpg"
+  single_image: "/assets/images/hertell.jpg"
   image_filenames: []
   instagram: Cogitation_Zone
 - name: "* Kathie Huddleston"
@@ -48,7 +48,7 @@
   website2: '[https://www.patreon.com/user?u=12412664](https://www.patreon.com/user?u=12412664
     "https://www.patreon.com/user?u=12412664")'
   website3: http://ikallick.com/shop/
-  single_image: "/assets/images/artshow_kallicki.jpg"
+  single_image: "/assets/images/kallicki.jpg"
   image_filenames: []
   instagram: ''
 - name: Alessandra Kelley
@@ -58,7 +58,7 @@
   website3: https://twitter.com/AchronalA
   description: ''
   instagram: achronalart
-  single_image: "/assets/images/artshow_kelleya.jpeg"
+  single_image: "/assets/images/kelleya.jpeg"
   image_filenames: []
 - name: Theresa Mather
   description: ''
@@ -67,7 +67,7 @@
   website2: '[https://www.facebook.com/theresamatherfantasyart](https://www.facebook.com/theresamatherfantasyart
     "https://www.facebook.com/theresamatherfantasyart")'
   website3: ''
-  single_image: "/assets/images/artshow_mathert.jpg"
+  single_image: "/assets/images/mathert.jpg"
   image_filenames: []
   instagram: ''
 - name: Caitlin McLeod
@@ -76,7 +76,7 @@
     "http://Society6.com/CaitlinMcLeod")'
   website2: ''
   website3: ''
-  single_image: "/assets/images/artshow_mcleodc.jpg"
+  single_image: "/assets/images/mcleodc.jpg"
   image_filenames: []
   instagram: ''
 - name: MonsterhedZ
@@ -86,7 +86,7 @@
   website2: ''
   website3: ''
   instagram: MonsterheadZ
-  single_image: "/assets/images/artshow_monsterhedz.jpg"
+  single_image: "/assets/images/monsterhedz.jpg"
   image_filenames: []
 - name: Goldeen Ogawa
   description: '[https://twitter.com/GoldeenOgawa](https://twitter.com/GoldeenOgawa
@@ -95,7 +95,7 @@
   website2: '[https://heliopauseweb.square.site/](https://heliopauseweb.square.site/
     "https://heliopauseweb.square.site/")'
   website3: https://www.patreon.com/GoldeenOgawa
-  single_image: "/assets/images/artshow_ogawag.jpg"
+  single_image: "/assets/images/ogawag.jpg"
   image_filenames: []
   instagram: goldeenogawa
 - name: Elaine Oldham
@@ -105,8 +105,9 @@
   website2: '[https://www.dreamlightgraphics.com/store](https://www.dreamlightgraphics.com/store
     "https://www.dreamlightgraphics.com/store")'
   website3: https://www.facebook.com/FantasyArtByElaineCOldham
-  single_image: "/assets/images/artshow_oldhame.jpg"
+  single_image: "/assets/images/oldhame.jpg"
   image_filenames: []
+  instagram: ''
 - name: Nigel Sade
   website1: '[http://www.studiodesade.com/](http://www.studiodesade.com/ "http://www.studiodesade.com/")'
   website2: '[http://www.etsy.com/shop/SarahWilkinsonArt](http://www.etsy.com/shop/SarahWilkinsonArt
@@ -115,7 +116,7 @@
   description: '[https://www.redbubble.com/people/Nigelsade/shop?asc=u](https://www.redbubble.com/people/Nigelsade/shop?asc=u
     "https://www.redbubble.com/people/Nigelsade/shop?asc=u")'
   instagram: ''
-  single_image: "/assets/images/artshow_saden.jpg"
+  single_image: "/assets/images/saden.jpg"
   image_filenames: []
 - name: Silver Owl Creations
   description: '[https://www.etsy.com/shop/silverowlcreations](https://www.etsy.com/shop/silverowlcreations
@@ -125,7 +126,7 @@
   website2: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
     "https://www.patreon.com/silverowlcreations")'
   website3: https://www.facebook.com/SilverOwlCreations/
-  single_image: "/assets/images/artshow_silverowlcreations.jpg"
+  single_image: "/assets/images/silverowlcreations.jpg"
   image_filenames: []
   instagram: ''
 - name: Brandy Stark
@@ -134,7 +135,7 @@
   website2: '[https://www.facebook.com/bstarkart](https://www.facebook.com/bstarkart
     "https://www.facebook.com/bstarkart")'
   website3: http://www.spiritsofstpete.com/
-  single_image: "/assets/images/artshow_starkb.jpg"
+  single_image: "/assets/images/starkb.jpg"
   image_filenames: []
   instagram: b.starkart
 - name: Tangitude Artworks
@@ -143,7 +144,7 @@
   website2: '[https://society6.com/tangitude?curator=tangitude](https://society6.com/tangitude?curator=tangitude
     "https://society6.com/tangitude?curator=tangitude")'
   website3: https://www.etsy.com/shop/TangitudeArtworks
-  single_image: "/assets/images/artshow_tangitude.jpg"
+  single_image: "/assets/images/tangitude.jpg"
   image_filenames: []
   instagram: ''
 - name: No Wasted Ink by Wendy Van Camp
@@ -152,7 +153,7 @@
     "https://www.etsy.com/shop/NoWastedInk")'
   website2: '[http://nowastedink.com/](http://nowastedink.com/ "http://nowastedink.com/")'
   website3: https://twitter.com/wvancamp
-  single_image: "/assets/images/artshow_vancampw.jpg"
+  single_image: "/assets/images/vancampw.jpg"
   image_filenames: []
   instagram: ''
 - name: Raymond VanTillburg
@@ -163,13 +164,13 @@
   website3: https://www.reddit.com/user/Aircool66
   description: ''
   instagram: aircool66
-  single_image: "/assets/images/artshow_vantillburgr.jpg"
+  single_image: "/assets/images/vantillburgr.jpg"
   image_filenames: []
 - name: Sarah Wilkinson
   description: ''
   website1: http://www.studiodesade.com/
   website2: http://www.etsy.com/shop/SarahWilkinsonArt
-  single_image: "/assets/images/artshow_wilkinsons.jpg"
+  single_image: "/assets/images/wilkinsons.jpg"
   image_filenames: []
   instagram: ''
   website3: http://www.eventeny.com/company/?c=9531
