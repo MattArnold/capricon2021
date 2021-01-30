@@ -46,9 +46,6 @@
         </nav>
       </div>
     </header>
-    {% if page.title == "Home" %}
-    {% include full_width_image.html filename="Cap41art.png" height="50rem" %}
-    {% endif %}
     {% if page.public %}
     <section class="public-container {{ page_size}}">
     {% elsif page.category == "stream" or page.category == "gallery" or page.category == "info" %}
@@ -58,6 +55,9 @@
     <section class="accesscontrol-container room-container" style="display: none">
     {% else %}
     <section class="accesscontrol-container" style="display: none">
+    {% endif %}
+    {% if page.title == "Home" %}
+    {% include full_width_image.html filename="Cap41art.png" height="50rem" %}
     {% endif %}
       {{ content }}
     </section>
