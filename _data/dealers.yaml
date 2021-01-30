@@ -1,4 +1,14 @@
 ---
+- name: Studio de Sade
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: https://www.studiodesade.com/
+  description: A Columbus, OH-based, fine art studio featuring original gallery art
+    as well as art-deco inspired interpretations of pop-culture concepts
+  restrictions: ''
+  images: ''
 - name: Lauren Jankowski
   contact: laurenjankowski27@gmail.com
   city: ''
