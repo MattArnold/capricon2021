@@ -16,6 +16,6 @@ public: false
 <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
 <script>
   const even = "788596302753300490";
-  const odd = "798699667629670479";
+  const odd = "788596302753300490";
 </script>
 {% include room_scripts.html %}
