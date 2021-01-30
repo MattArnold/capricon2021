@@ -35,7 +35,7 @@
             {% else %}
             <li class="room">
             {% endif %}
-              <a title="{{room.identifier}}"
+              <a title="{{room.title | slugify}}"
                 href="{{ room.url | prepend: site.baseurl | prepend: site.url }}"
               >
               {{ room.title }}
