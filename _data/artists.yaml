@@ -135,8 +135,9 @@
   single_image: "/assets/images/artshow_oldhame.jpg"
   image_filenames: []
   instagram: ''
-- image_filenames: []
-  name: "* SamHain Press"
+- image_filenames:
+  - "/assets/images/presss.webp"
+  name: SamHain Press
   website1: '[http://samhainpress.com](http://samhainpress.com "http://samhainpress.com")'
   website2: '[https://www.facebook.com/samhainpress/](https://www.facebook.com/samhainpress/
     "https://www.facebook.com/samhainpress/")'
