@@ -16,6 +16,14 @@
   single_image: "/assets/images/clemenss.jpg"
   image_filenames: []
   instagram: ''
+- name: The Cogitation Zone by Lisa Hertel
+  description: ''
+  website1: '[http://www.cogitation.org/](http://www.cogitation.org/ "http://www.cogitation.org/")'
+  website2: ''
+  website3: ''
+  single_image: "/assets/images/hertell.jpg"
+  image_filenames: []
+  instagram: Cogitation_Zone
 - name: The Dragon Lady
   website1: '[https://www.facebook.com/pages/The-Dragon-Lady/484118554980404](https://www.facebook.com/pages/The-Dragon-Lady/484118554980404
     "https://www.facebook.com/pages/The-Dragon-Lady/484118554980404")'
@@ -25,14 +33,15 @@
   instagram: ''
   image_filenames: []
   single_image: "/assets/images/dragonlady.jpeg"
-- name: The Cogitation Zone by Lisa Hertel
-  description: ''
-  website1: '[http://www.cogitation.org/](http://www.cogitation.org/ "http://www.cogitation.org/")'
-  website2: ''
+- image_filenames:
+  - "/assets/images/felixs.jpg"
+  name: Sara Felix
+  website1: '[http://www.sarafelix.com/](http://www.sarafelix.com/ "http://www.sarafelix.com/")'
+  website2: '[https://www.youtube.com/channel/UCk7KiTK0gh-sUTRphBQPyQA](https://www.youtube.com/channel/UCk7KiTK0gh-sUTRphBQPyQA
+    "https://www.youtube.com/channel/UCk7KiTK0gh-sUTRphBQPyQA")'
   website3: ''
-  single_image: "/assets/images/hertell.jpg"
-  image_filenames: []
-  instagram: Cogitation_Zone
+  description: ''
+  instagram: sillysarasue
 - name: Ingrid Kallick
   description: ''
   website1: '[https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown](https://www.redbubble.com/people/ingridkallick?ref=account-nav-dropdown
@@ -90,6 +99,15 @@
   instagram: MonsterheadZ
   single_image: "/assets/images/monsterhedz.jpg"
   image_filenames: []
+- name: No Wasted Ink by Wendy Van Camp
+  description: Original Poetry and Limited Edition Art Prints
+  website1: '[https://www.etsy.com/shop/NoWastedInk](https://www.etsy.com/shop/NoWastedInk
+    "https://www.etsy.com/shop/NoWastedInk")'
+  website2: '[http://nowastedink.com/](http://nowastedink.com/ "http://nowastedink.com/")'
+  website3: https://twitter.com/wvancamp
+  single_image: "/assets/images/vancampw.jpg"
+  image_filenames: []
+  instagram: ''
 - name: Goldeen Ogawa
   description: '[https://twitter.com/GoldeenOgawa](https://twitter.com/GoldeenOgawa
     "https://twitter.com/GoldeenOgawa")'
@@ -100,15 +118,6 @@
   single_image: "/assets/images/ogawag.jpg"
   image_filenames: []
   instagram: goldeenogawa
-- name: No Wasted Ink by Wendy Van Camp
-  description: Original Poetry and Limited Edition Art Prints
-  website1: '[https://www.etsy.com/shop/NoWastedInk](https://www.etsy.com/shop/NoWastedInk
-    "https://www.etsy.com/shop/NoWastedInk")'
-  website2: '[http://nowastedink.com/](http://nowastedink.com/ "http://nowastedink.com/")'
-  website3: https://twitter.com/wvancamp
-  single_image: "/assets/images/vancampw.jpg"
-  image_filenames: []
-  instagram: ''
 - name: Elaine Oldham
   description: ''
   website1: '[https://www.dreamlightgraphics.com/](https://www.dreamlightgraphics.com/
