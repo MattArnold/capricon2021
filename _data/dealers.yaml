@@ -31,7 +31,12 @@
   link: https://laurenjankowski.com/
   description: ''
   restrictions: ''
-  images: []
+  images:
+  - "/assets/images/dealers_lj_thedwellingofekhidna-ebook.jpg"
+  - "/assets/images/dealers_lj_throughstormandnight-ebook.jpg"
+  - "/assets/images/dealers_lj_serefromthegreen-ebook.jpg"
+  - "/assets/images/dealers_lj_fromtheashes-ebook.jpg"
+  - "/assets/images/dealers_lj_haunted-ebook.jpg"
 - name: Made-up Plushie Dealer
   contact: Test Name Person
   city: My City
