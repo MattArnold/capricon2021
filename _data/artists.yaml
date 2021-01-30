@@ -1,5 +1,13 @@
 ---
 - image_filenames: []
+  name: "* SamHain Press"
+  website1: '[http://samhainpress.com](http://samhainpress.com "http://samhainpress.com")'
+  website2: '[https://www.facebook.com/samhainpress/](https://www.facebook.com/samhainpress/
+    "https://www.facebook.com/samhainpress/")'
+  website3: ''
+  description: ''
+  instagram: samhainpress
+- image_filenames: []
   name: "* Karen Hollingsworth"
   website1: ''
   website2: ''
