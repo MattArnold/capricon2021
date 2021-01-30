@@ -24,13 +24,13 @@
   - "/assets/images/dealer_sds_10896325_629657213812963_7420808972374329324_o.jpg"
   - "/assets/images/dealer_sds_11950172_741812969264053_8695854523477135113_o.jpg"
 - name: Lauren Jankowski
-  contact: laurenjankowski27@gmail.com
+  contact: ''
   city: ''
   state: ''
   what_is_sold: ''
   link: https://laurenjankowski.com/
-  description: Ebooks etc description here
-  restrictions: 'Cannot etc. '
+  description: ''
+  restrictions: ''
   images:
   - dealer_ljankowski_fromtheashes-ebook.jpg
 - name: Made-up Plushie Dealer
