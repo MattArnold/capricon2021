@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/menus.yaml
   label: Menu
-  match: "**/*"
 - type: document
   path: readme.md
   label: How to use Forestry
