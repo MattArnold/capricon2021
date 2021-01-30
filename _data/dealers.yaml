@@ -30,27 +30,6 @@
   - "/assets/images/dealer_cbsq_download-4.png"
   - "/assets/images/dealer_cbsq_download-2.png"
   - "/assets/images/dealer_cbsq_20201230_114217.jpg"
-- name: Ravenwing Wearable Art
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: www.ravenwingwearableart.etsy.com
-  description: Jewelry, including ear cuffs, ear wraps, earrings, bracelets, necklaces
-    and various bead and feather and sterling silver jewelry.
-  restrictions: ''
-  images:
-  - "/assets/images/dealer_rwa_img_7233.JPG"
-  - "/assets/images/dealer_rwa_img_7193-1.JPG"
-  - "/assets/images/dealer_rwa_img_3932.JPG"
-  - "/assets/images/dealer_rwa_img_7243.JPG"
-  - "/assets/images/dealer_rwa_img_7257.JPG"
-  - "/assets/images/dealer_rwa_img_7251.JPG"
-  - "/assets/images/dealer_rwa_img_7253.JPG"
-  - "/assets/images/dealer_rwa_img_7191.JPG"
-  - "/assets/images/dealer_rwa_img_7222.JPG"
-  - "/assets/images/dealer_rwa_img_7201-1.JPG"
-  - "/assets/images/dealer_rwa_img_7138.JPG"
 - name: Cardz Xtcetera
   contact: ''
   city: ''
@@ -75,6 +54,20 @@
   - "/assets/images/dealers_cx_hi-chew-flavors.jpg"
   - "/assets/images/dealers_cx_bookmarks.jpg"
   - "/assets/images/dealers_cx_black-black.jpg"
+- name: Lauren Jankowski
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: https://laurenjankowski.com/
+  description: ''
+  restrictions: ''
+  images:
+  - "/assets/images/dealers_lj_thedwellingofekhidna-ebook.jpg"
+  - "/assets/images/dealers_lj_throughstormandnight-ebook.jpg"
+  - "/assets/images/dealers_lj_serefromthegreen-ebook.jpg"
+  - "/assets/images/dealers_lj_fromtheashes-ebook.jpg"
+  - "/assets/images/dealers_lj_haunted-ebook.jpg"
 - name: Studio de Sade
   contact: ''
   city: ''
@@ -99,17 +92,24 @@
   - "/assets/images/dealer_sds_all-of-this-happened-before-1x3-ratio24x72max.jpg"
   - "/assets/images/dealer_sds_10896325_629657213812963_7420808972374329324_o.jpg"
   - "/assets/images/dealer_sds_11950172_741812969264053_8695854523477135113_o.jpg"
-- name: Lauren Jankowski
+- name: Ravenwing Wearable Art
   contact: ''
   city: ''
   state: ''
   what_is_sold: ''
-  link: https://laurenjankowski.com/
-  description: ''
+  link: www.ravenwingwearableart.etsy.com
+  description: Jewelry, including ear cuffs, ear wraps, earrings, bracelets, necklaces
+    and various bead and feather and sterling silver jewelry.
   restrictions: ''
   images:
-  - "/assets/images/dealers_lj_thedwellingofekhidna-ebook.jpg"
-  - "/assets/images/dealers_lj_throughstormandnight-ebook.jpg"
-  - "/assets/images/dealers_lj_serefromthegreen-ebook.jpg"
-  - "/assets/images/dealers_lj_fromtheashes-ebook.jpg"
-  - "/assets/images/dealers_lj_haunted-ebook.jpg"
+  - "/assets/images/dealer_rwa_img_7233.JPG"
+  - "/assets/images/dealer_rwa_img_7193-1.JPG"
+  - "/assets/images/dealer_rwa_img_3932.JPG"
+  - "/assets/images/dealer_rwa_img_7243.JPG"
+  - "/assets/images/dealer_rwa_img_7257.JPG"
+  - "/assets/images/dealer_rwa_img_7251.JPG"
+  - "/assets/images/dealer_rwa_img_7253.JPG"
+  - "/assets/images/dealer_rwa_img_7191.JPG"
+  - "/assets/images/dealer_rwa_img_7222.JPG"
+  - "/assets/images/dealer_rwa_img_7201-1.JPG"
+  - "/assets/images/dealer_rwa_img_7138.JPG"
