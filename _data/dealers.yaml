@@ -1,13 +1,4 @@
 ---
-- name: Horizon Music
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: ''
-  description: ''
-  restrictions: ''
-  images: ''
 - name: CB Squared Crafts
   contact: ''
   city: ''
@@ -63,6 +54,15 @@
   - "/assets/images/dealers_cx_hi-chew-flavors.jpg"
   - "/assets/images/dealers_cx_bookmarks.jpg"
   - "/assets/images/dealers_cx_black-black.jpg"
+- name: Horizon Music
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: www.hmnetwork.com
+  description: Ambient electronic music on CD.
+  restrictions: ''
+  images: ''
 - name: Lauren Jankowski
   contact: ''
   city: ''
