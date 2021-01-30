@@ -12,11 +12,13 @@ public: false
 
 # Art Show
 
-Welcome to the Capricon Virtual Art Show! 
+Welcome to the Capricon Virtual Art Show!
 
 We have a variety of art-related programming during the convention - [click here](https://guide.capricon.org/#prog/tag:Track%3AArt) to see a list of what's available.  To participate in our live Discord channel, click on the button above that says "Art Show Discord Chat" or scroll to the bottom of this page.
 
 In the meantime, feel free to browse the artists participating in our virtual Art Show this year - you can click on any image to expand it.
+
+We encourage you to visit each artist's page(s) and buy art directly from them - and to vote for the Best in (Virtual) Show Award by [clicking here](https://forms.gle/9PVgvJWxxDhAuGBPA) and filling out the form.
 
 {% for artist in site.data.artists %}{% include artist_listing.html %}{% endfor %}
 <iframe
