@@ -45,12 +45,11 @@
   single_image: "/assets/images/artshow_dragonlady.jpeg"
   website4: ''
 - name: Sara Felix
-  website1: '[http://www.sarafelix.com/](http://www.sarafelix.com/ "http://www.sarafelix.com/")'
-  website2: '[https://www.youtube.com/channel/UCk7KiTK0gh-sUTRphBQPyQA](https://www.youtube.com/channel/UCk7KiTK0gh-sUTRphBQPyQA
-    "https://www.youtube.com/channel/UCk7KiTK0gh-sUTRphBQPyQA")'
+  website1: "[Website](http://www.sarafelix.com/)"
+  website2: "[YouTube](https://www.youtube.com/channel/UCk7KiTK0gh-sUTRphBQPyQA)"
   website3: ''
-  description: ''
-  instagram: sillysarasue
+  description: "[Instagram](https://www.instagram.com/sillysarasue/)"
+  instagram: ''
   single_image: "/assets/images/artshow_felixs.jpg"
   image_filenames: []
   website4: ''
