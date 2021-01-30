@@ -3,7 +3,6 @@ title: Home
 layout: default
 category: info
 public: true
-order: 1
 
 ---
 # Capricon is Going Virtual!

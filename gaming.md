@@ -1,10 +1,8 @@
 ---
 title: Gaming
-menus: exhibits
 layout: default
 category: info
 public: false
-order: 8
 
 ---
 

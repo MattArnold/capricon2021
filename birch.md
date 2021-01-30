@@ -1,10 +1,8 @@
 ---
 title: Birch
-menus: session-rooms
 layout: default
 category: stream
 public: false
-order: 3
 
 ---
 # Birch Room

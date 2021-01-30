@@ -3,9 +3,6 @@ title: Freebies
 layout: default
 category: info
 public: false
-order: 10
-menu:
-  exhibits: {}
 
 ---
 # Freebies
