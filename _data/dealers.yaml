@@ -1,4 +1,29 @@
 ---
+- name: ''
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: ''
+  description: ''
+  restrictions: ''
+  images: ''
+- name: CB Squared Crafts
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: https://www.etsy.com/shop/CBSquaredCrafts
+  description: We specialize in handcrafted pop culture items as well as 3D printed
+    gaming accessories and other 3D printed items. Some of our more popular items
+    include carved wooden "Accorded Neutral Territory" signs , inspired by the Dresden
+    Files books written by Jim Butcher. We also have many 3D printed items suitable
+    for all ages that include dice rolling towers, articulated animals and pop culture
+    items. These are all listed on our Etsy store and if needed we also take commission
+    3D printer orders.
+  restrictions: ''
+  images:
+  - "/assets/images/dealer_cbsq_20201230_114217.jpg"
 - name: Ravenwing Wearable Art
   contact: ''
   city: ''
