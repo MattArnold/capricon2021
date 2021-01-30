@@ -59,7 +59,7 @@
   });
   agreement_name.addEventListener("keyup", function (e) {
     var name = e.target.value;
-    name_entered = name.length > 2 && name.includes(" ") && name.slice(-1) != " ";
+    name_entered = name.length > 2;
     name_checkbox.checked = name_entered;
     validate();
   });
