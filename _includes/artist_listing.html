@@ -2,7 +2,7 @@
 <div class="gallery">
 {% if artist.single_image.size > 0 %}
 <div
-  class="floatimage"
+  class="floatimage gallery-image"
   role="img"
   aria-label="Art by {{artist.name}}"
   style="margin-top: 1rem; background-image: url('{{ site.url | append: site.baseurl }}{{ artist.single_image }}')"
