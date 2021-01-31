@@ -1,4 +1,40 @@
 ---
+- name: 'Geeky Endeavors '
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[www.tinyurl.com/GeekyEndeavors](www.tinyurl.com/GeekyEndeavors)"
+  description: We specialize in all things geek!  Especially enamel pins from artists
+    all over the world.  No bootlegs here!  As well as art prints (hand signed), pouches,
+    all types of unique earrings and more!
+  restrictions: ''
+  images: ''
+- name: Artwork by Shauna Aura Knight
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[https://shaunaauraknight.storenvy.com](https://shaunaauraknight.storenvy.com)"
+  description: 'Shauna Aura Knight creates mythically-inspired artwork. Her paintings,
+    jewelry, and decorated tote bags and shirts evoke stories of heroes and magic,
+    of fairytales and fantasy, and gods and goddesses. Her work uses lush colors,
+    metallic paint, raised textures, faceted jewels, metal embellishments and other
+    found pieces. Imagery includes dragons, phoenixes, swords, grails, faeries, keys,
+    butterflies, ravens, roses, stags, the tree of life, lions, griffins, snakes,
+    runes, and imagery from various '
+  restrictions: ''
+  images: ''
+- name: The Black Sheep's Friend
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[https://theblacksheepsfriend.square.site/](https://theblacksheepsfriend.square.site/)"
+  description: 'Sewn and embroidered bags, accessories  and home items. Commissions
+    welcomed. '
+  restrictions: ''
+  images: ''
 - name: CB Squared Crafts
   contact: ''
   city: ''
@@ -54,6 +90,15 @@
   - "/assets/images/dealers_cx_hi-chew-flavors.jpg"
   - "/assets/images/dealers_cx_bookmarks.jpg"
   - "/assets/images/dealers_cx_black-black.jpg"
+- name: DreamHaven Books
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[http://dreamhavenbooks.com/](http://dreamhavenbooks.com/)"
+  description: The second oldest SF specialty store in the US. 42 years and counting.
+  restrictions: ''
+  images: ''
 - name: Horizon Music
   contact: ''
   city: ''
