@@ -1,6 +1,8 @@
 ---
 - title: Info
   url: /
+- title: Schedule
+  url: /schedule
 - title: Ravinia
   url: /ravinia
 - title: Willow
