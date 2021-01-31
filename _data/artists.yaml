@@ -83,11 +83,10 @@
   instagram: ''
   website4: ''
 - name: Alessandra Kelley
-  website1: '[http://www.alessandrakelley.com/](http://www.alessandrakelley.com/ "http://www.alessandrakelley.com/")'
-  website2: '[https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt](https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt
-    "https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt")'
-  website3: https://twitter.com/AchronalA
-  description: ''
+  website1: "[Website](http://www.alessandrakelley.com/)"
+  website2: "[RedBubble](https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt)"
+  website3: ''
+  description: "[Twitter](https://twitter.com/AchronalA)"
   instagram: achronalart
   single_image: "/assets/images/artshow_kelleya.jpeg"
   image_filenames: []
