@@ -1,4 +1,13 @@
 ---
+- name: Peter Bremer
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: ''
+  description: ''
+  restrictions: ''
+  images: ''
 - name: CB Squared Crafts
   contact: ''
   city: ''
