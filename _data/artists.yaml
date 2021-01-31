@@ -138,15 +138,18 @@
   instagram: ''
   website4: ''
 - name: Goldeen Ogawa
-  description: '[https://twitter.com/GoldeenOgawa](https://twitter.com/GoldeenOgawa
-    "https://twitter.com/GoldeenOgawa")'
-  website1: '[https://www.goldeenogawa.com/](https://www.goldeenogawa.com/ "https://www.goldeenogawa.com/")'
-  website2: '[https://heliopauseweb.square.site/](https://heliopauseweb.square.site/
-    "https://heliopauseweb.square.site/")'
-  website3: https://www.patreon.com/GoldeenOgawa
+  description: |-
+    [Patreon](https://www.patreon.com/GoldeenOgawa)
+
+    [Twitter](https://twitter.com/GoldeenOgawa)
+
+    [Instagram](instagram.com/goldeenogawa)
+  website1: "[Website](https://www.goldeenogawa.com/)"
+  website2: "[Storefront](https://heliopauseweb.square.site/)"
+  website3: ''
   single_image: "/assets/images/artshow_ogawag.jpg"
   image_filenames: []
-  instagram: goldeenogawa
+  instagram: ''
   website4: ''
 - name: Elaine Oldham
   description: ''
