@@ -110,12 +110,18 @@
   instagram: ''
   website4: ''
 - name: MonsterhedZ
-  description: Can be found on Facebook, Twitter, & Tumblr as MonsterhedZ.
-  website1: '[https://urbanartsgallery.square.site/shop/monsterhedz/15](https://urbanartsgallery.square.site/shop/monsterhedz/15
-    "https://urbanartsgallery.square.site/shop/monsterhedz/15")'
+  description: |-
+    [Facebook](https://www.facebook.com/MonsterhedZ/)
+
+    [Instagram](instagram.com/monsterheadz)
+
+    [Twitter](twitter.com/monsterhedz)
+
+    [Tumblr](http://monsterhedz.tumblr.com/)
+  website1: '[Storefront]( "https://urbanartsgallery.square.site/shop/monsterhedz/15")'
   website2: ''
   website3: ''
-  instagram: MonsterheadZ
+  instagram: ''
   single_image: "/assets/images/artshow_monsterhedz.jpg"
   image_filenames: []
   website4: ''
