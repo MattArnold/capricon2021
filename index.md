@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Info
 layout: default
 category: info
 public: false
