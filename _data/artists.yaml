@@ -170,12 +170,13 @@
   single_image: "/assets/images/presss.webp"
   image_filenames: []
 - name: Nigel Sade
-  website1: '[http://www.studiodesade.com/](http://www.studiodesade.com/ "http://www.studiodesade.com/")'
-  website2: '[http://www.etsy.com/shop/SarahWilkinsonArt](http://www.etsy.com/shop/SarahWilkinsonArt
-    "http://www.etsy.com/shop/SarahWilkinsonArt")'
-  website3: http://www.eventeny.com/company/?c=9531
-  description: '[https://www.redbubble.com/people/Nigelsade/shop?asc=u](https://www.redbubble.com/people/Nigelsade/shop?asc=u
-    "https://www.redbubble.com/people/Nigelsade/shop?asc=u")'
+  website1: "[Website](http://www.studiodesade.com/)"
+  website2: "[Etsy](http://www.etsy.com/shop/SarahWilkinsonArt)"
+  website3: ''
+  description: |-
+    [Eventeny](http://www.eventeny.com/company/?c=9531)
+
+    [RedBubble](https://www.redbubble.com/people/Nigelsade/shop?asc=u)
   instagram: ''
   single_image: "/assets/images/artshow_saden.jpg"
   image_filenames: []
