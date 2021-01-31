@@ -42,5 +42,10 @@ fields:
       schema:
         format: markdown
     label: description
+  - name: image_filenames
+    type: image_gallery
+    config: {}
+    label: image_filenames
+    description: A gallery of multiple images
 pages:
 - _data/artists.yaml
