@@ -54,16 +54,15 @@
   single_image: "/assets/images/artshow_felixs.jpg"
   image_filenames: []
   website4: ''
-- image_filenames:
-  - "/assets/images/hollingsworthk.jpg"
-  name: Karen Hollingsworth
+- name: Karen Hollingsworth
   website1: "[Website](https://www.wrenditions.com/)"
   website2: ''
   website3: ''
   description: ''
   instagram: ''
   website4: ''
-  single_image: ''
+  single_image: "/assets/images/hollingsworthk.jpg"
+  image_filenames: []
 - name: Ingrid Kallick
   description: "[Storefront](http://ikallick.com/shop/)"
   website1: "[RedBubble](https://www.redbubble.com/people/ingridkallick)"
@@ -155,9 +154,7 @@
   image_filenames: []
   instagram: ''
   website4: ''
-- image_filenames:
-  - "/assets/images/presss.webp"
-  name: SamHain Press
+- name: SamHain Press
   website1: '[http://samhainpress.com](http://samhainpress.com "http://samhainpress.com")'
   website2: '[https://www.facebook.com/samhainpress/](https://www.facebook.com/samhainpress/
     "https://www.facebook.com/samhainpress/")'
@@ -165,7 +162,8 @@
   description: ''
   instagram: samhainpress
   website4: ''
-  single_image: ''
+  single_image: "/assets/images/presss.webp"
+  image_filenames: []
 - name: Nigel Sade
   website1: '[http://www.studiodesade.com/](http://www.studiodesade.com/ "http://www.studiodesade.com/")'
   website2: '[http://www.etsy.com/shop/SarahWilkinsonArt](http://www.etsy.com/shop/SarahWilkinsonArt
