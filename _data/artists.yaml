@@ -180,13 +180,10 @@
   image_filenames: []
   website4: ''
 - name: Silver Owl Creations
-  description: '[https://www.etsy.com/shop/silverowlcreations](https://www.etsy.com/shop/silverowlcreations
-    "https://www.etsy.com/shop/silverowlcreations")'
-  website1: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
-    "https://www.patreon.com/silverowlcreations")'
-  website2: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
-    "https://www.patreon.com/silverowlcreations")'
-  website3: https://www.facebook.com/SilverOwlCreations/
+  description: "[Facebook](https://www.facebook.com/SilverOwlCreations/)"
+  website1: "[Etsy](https://www.patreon.com/silverowlcreations)"
+  website2: "[Patreon](https://www.patreon.com/silverowlcreations)"
+  website3: ''
   single_image: "/assets/images/artshow_silverowlcreations.jpg"
   image_filenames: []
   instagram: ''
