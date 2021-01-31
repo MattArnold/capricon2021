@@ -1,4 +1,19 @@
 ---
+- name: Artwork by Shauna Aura Knight
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[https://shaunaauraknight.storenvy.com](https://shaunaauraknight.storenvy.com)"
+  description: 'Shauna Aura Knight creates mythically-inspired artwork. Her paintings,
+    jewelry, and decorated tote bags and shirts evoke stories of heroes and magic,
+    of fairytales and fantasy, and gods and goddesses. Her work uses lush colors,
+    metallic paint, raised textures, faceted jewels, metal embellishments and other
+    found pieces. Imagery includes dragons, phoenixes, swords, grails, faeries, keys,
+    butterflies, ravens, roses, stags, the tree of life, lions, griffins, snakes,
+    runes, and imagery from various '
+  restrictions: ''
+  images: ''
 - name: CB Squared Crafts
   contact: ''
   city: ''
