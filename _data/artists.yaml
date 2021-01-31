@@ -93,10 +93,8 @@
   website4: ''
 - name: Theresa Mather
   description: ''
-  website1: '[https://www.theresamatherfantasyshop.com/](https://www.theresamatherfantasyshop.com/
-    "https://www.theresamatherfantasyshop.com/")'
-  website2: '[https://www.facebook.com/theresamatherfantasyart](https://www.facebook.com/theresamatherfantasyart
-    "https://www.facebook.com/theresamatherfantasyart")'
+  website1: "[Website](https://www.theresamatherfantasyshop.com/)"
+  website2: "[Facebook](https://www.facebook.com/theresamatherfantasyart)"
   website3: ''
   single_image: "/assets/images/artshow_mathert.jpg"
   image_filenames: []
