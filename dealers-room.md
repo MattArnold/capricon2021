@@ -11,7 +11,7 @@ public: false
 
 * Welcome to the Capricon Virtual Dealer Room!
 * Our dealers have provided a selection of their goods for you to review. See something you like? Click the link and buy it! 
-* Many of our dealers accept custom orders! Look at those beautiful handmade creations. You know you want something *made just for you.*
+* Many of our dealers accept custom orders! Look at those beautiful handmade creations. You know you want something  *made just for you.*
 * Browse away and enjoy all the goodies on offer! 
 * Just click on one of these pictures to take a closer look:
 
