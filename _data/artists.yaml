@@ -8,6 +8,7 @@
   description: ''
   instagram: ''
   website4: ''
+  single_image: ''
 - name: Asha Akosua
   description: "[Instagram](instagram.com/ashaakosua)"
   website1: '[Facebook](https://facebook.com/AshaAkosua "https://facebook.com/AshaAkosua")'
@@ -29,11 +30,11 @@
 - name: The Cogitation Zone by Lisa Hertel
   description: ''
   website1: "[Website](http://www.cogitation.org/)"
-  website2: ''
+  website2: "[Instagram](instagram.com/Cogitation_Zone)"
   website3: ''
   single_image: "/assets/images/artshow_hertell.jpg"
   image_filenames: []
-  instagram: Cogitation_Zone
+  instagram: ''
   website4: ''
 - name: The Dragon Lady
   website1: "[Facebook](https://www.facebook.com/pages/The-Dragon-Lady/484118554980404)"
@@ -62,6 +63,7 @@
   description: ''
   instagram: ''
   website4: ''
+  single_image: ''
 - name: Ingrid Kallick
   description: "[Storefront](http://ikallick.com/shop/)"
   website1: "[RedBubble](https://www.redbubble.com/people/ingridkallick)"
@@ -163,6 +165,7 @@
   description: ''
   instagram: samhainpress
   website4: ''
+  single_image: ''
 - name: Nigel Sade
   website1: '[http://www.studiodesade.com/](http://www.studiodesade.com/ "http://www.studiodesade.com/")'
   website2: '[http://www.etsy.com/shop/SarahWilkinsonArt](http://www.etsy.com/shop/SarahWilkinsonArt
