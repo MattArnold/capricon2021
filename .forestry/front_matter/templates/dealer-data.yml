@@ -30,6 +30,7 @@ fields:
   - type: text
     name: restrictions
     label: restrictions
-  - type: text
-    name: images
+  - name: images
+    type: image_gallery
+    config: {}
     label: images
