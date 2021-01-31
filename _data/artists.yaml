@@ -100,8 +100,7 @@
   website4: ''
 - name: Caitlin McLeod
   description: ''
-  website1: '[http://Society6.com/CaitlinMcLeod](http://Society6.com/CaitlinMcLeod
-    "http://Society6.com/CaitlinMcLeod")'
+  website1: "[Society6](http://Society6.com/CaitlinMcLeod)"
   website2: ''
   website3: ''
   single_image: "/assets/images/artshow_mcleodc.jpg"
@@ -109,64 +108,73 @@
   instagram: ''
   website4: ''
 - name: MonsterhedZ
-  description: Can be found on Facebook, Twitter, & Tumblr as MonsterhedZ.
-  website1: '[https://urbanartsgallery.square.site/shop/monsterhedz/15](https://urbanartsgallery.square.site/shop/monsterhedz/15
-    "https://urbanartsgallery.square.site/shop/monsterhedz/15")'
+  description: |-
+    [Facebook](https://www.facebook.com/MonsterhedZ/)
+
+    [Instagram](instagram.com/monsterheadz)
+
+    [Twitter](twitter.com/monsterhedz)
+
+    [Tumblr](http://monsterhedz.tumblr.com/)
+  website1: '[Storefront]( "https://urbanartsgallery.square.site/shop/monsterhedz/15")'
   website2: ''
   website3: ''
-  instagram: MonsterheadZ
+  instagram: ''
   single_image: "/assets/images/artshow_monsterhedz.jpg"
   image_filenames: []
   website4: ''
 - name: No Wasted Ink by Wendy Van Camp
-  description: Original Poetry and Limited Edition Art Prints
-  website1: '[https://www.etsy.com/shop/NoWastedInk](https://www.etsy.com/shop/NoWastedInk
-    "https://www.etsy.com/shop/NoWastedInk")'
-  website2: '[http://nowastedink.com/](http://nowastedink.com/ "http://nowastedink.com/")'
-  website3: https://twitter.com/wvancamp
+  description: |-
+    [Twitter](https://twitter.com/wvancamp)
+
+    Original Poetry and Limited Edition Art Prints
+  website1: "[Etsy](https://www.etsy.com/shop/NoWastedInk)"
+  website2: "[Website](http://nowastedink.com/)"
+  website3: ''
   single_image: "/assets/images/artshow_vancampw.jpg"
   image_filenames: []
   instagram: ''
   website4: ''
 - name: Goldeen Ogawa
-  description: '[https://twitter.com/GoldeenOgawa](https://twitter.com/GoldeenOgawa
-    "https://twitter.com/GoldeenOgawa")'
-  website1: '[https://www.goldeenogawa.com/](https://www.goldeenogawa.com/ "https://www.goldeenogawa.com/")'
-  website2: '[https://heliopauseweb.square.site/](https://heliopauseweb.square.site/
-    "https://heliopauseweb.square.site/")'
-  website3: https://www.patreon.com/GoldeenOgawa
+  description: |-
+    [Patreon](https://www.patreon.com/GoldeenOgawa)
+
+    [Twitter](https://twitter.com/GoldeenOgawa)
+
+    [Instagram](instagram.com/goldeenogawa)
+  website1: "[Website](https://www.goldeenogawa.com/)"
+  website2: "[Storefront](https://heliopauseweb.square.site/)"
+  website3: ''
   single_image: "/assets/images/artshow_ogawag.jpg"
   image_filenames: []
-  instagram: goldeenogawa
+  instagram: ''
   website4: ''
 - name: Elaine Oldham
   description: ''
-  website1: '[https://www.dreamlightgraphics.com/](https://www.dreamlightgraphics.com/
-    "https://www.dreamlightgraphics.com/")'
-  website2: '[https://www.dreamlightgraphics.com/store](https://www.dreamlightgraphics.com/store
-    "https://www.dreamlightgraphics.com/store")'
-  website3: https://www.facebook.com/FantasyArtByElaineCOldham
+  website1: "[Website](https://www.dreamlightgraphics.com/)"
+  website2: "[Facebook](https://www.facebook.com/FantasyArtByElaineCOldham)"
+  website3: ''
   single_image: "/assets/images/artshow_oldhame.jpg"
   image_filenames: []
   instagram: ''
   website4: ''
 - name: SamHain Press
-  website1: '[http://samhainpress.com](http://samhainpress.com "http://samhainpress.com")'
-  website2: '[https://www.facebook.com/samhainpress/](https://www.facebook.com/samhainpress/
-    "https://www.facebook.com/samhainpress/")'
+  website1: "[Website](http://samhainpress.com)"
+  website2: "[Facebook](https://www.facebook.com/samhainpress/)"
   website3: ''
-  description: ''
-  instagram: samhainpress
+  description: "[Instagram](instagram.com/samhainpress)"
+  instagram: ''
   website4: ''
   single_image: "/assets/images/presss.webp"
   image_filenames: []
 - name: Nigel Sade
-  website1: '[http://www.studiodesade.com/](http://www.studiodesade.com/ "http://www.studiodesade.com/")'
-  website2: '[http://www.etsy.com/shop/SarahWilkinsonArt](http://www.etsy.com/shop/SarahWilkinsonArt
-    "http://www.etsy.com/shop/SarahWilkinsonArt")'
-  website3: http://www.eventeny.com/company/?c=9531
-  description: '[https://www.redbubble.com/people/Nigelsade/shop?asc=u](https://www.redbubble.com/people/Nigelsade/shop?asc=u
-    "https://www.redbubble.com/people/Nigelsade/shop?asc=u")'
+  website1: "[Website](http://www.studiodesade.com/)"
+  website2: "[Etsy](http://www.etsy.com/shop/SarahWilkinsonArt)"
+  website3: ''
+  description: |-
+    [Eventeny](http://www.eventeny.com/company/?c=9531)
+
+    [RedBubble](https://www.redbubble.com/people/Nigelsade/shop?asc=u)
   instagram: ''
   single_image: "/assets/images/artshow_saden.jpg"
   image_filenames: []
