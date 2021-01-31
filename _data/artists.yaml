@@ -54,7 +54,9 @@
   single_image: "/assets/images/artshow_felixs.jpg"
   image_filenames: []
   website4: ''
-- name: Karen Hollingsworth
+- image_filenames:
+  - "/assets/images/hollingsworthk.jpg"
+  name: Karen Hollingsworth
   website1: "[Website](https://www.wrenditions.com/)"
   website2: ''
   website3: ''
@@ -62,7 +64,6 @@
   instagram: ''
   website4: ''
   single_image: "/assets/images/hollingsworthk.jpg"
-  image_filenames: []
 - name: Ingrid Kallick
   description: "[Storefront](http://ikallick.com/shop/)"
   website1: "[RedBubble](https://www.redbubble.com/people/ingridkallick)"
