@@ -1,13 +1,12 @@
 ---
-- name: 'Geeky Endeavors '
+- name: 'Meg''s Crafty Creations '
   contact: ''
   city: ''
   state: ''
   what_is_sold: ''
-  link: "[www.tinyurl.com/GeekyEndeavors](www.tinyurl.com/GeekyEndeavors)"
-  description: We specialize in all things geek!  Especially enamel pins from artists
-    all over the world.  No bootlegs here!  As well as art prints (hand signed), pouches,
-    all types of unique earrings and more!
+  link: "[jedimeg16.deviantart.com](jedimeg16.deviantart.com)"
+  description: 'Handmade business focused on crocheted amigurumis, embroidered keychains,
+    and sewn purses and accessories '
   restrictions: ''
   images: ''
 - name: Artwork by Shauna Aura Knight
@@ -97,6 +96,17 @@
   what_is_sold: ''
   link: "[http://dreamhavenbooks.com/](http://dreamhavenbooks.com/)"
   description: The second oldest SF specialty store in the US. 42 years and counting.
+  restrictions: ''
+  images: ''
+- name: 'Geeky Endeavors '
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[www.tinyurl.com/GeekyEndeavors](www.tinyurl.com/GeekyEndeavors)"
+  description: We specialize in all things geek!  Especially enamel pins from artists
+    all over the world.  No bootlegs here!  As well as art prints (hand signed), pouches,
+    all types of unique earrings and more!
   restrictions: ''
   images: ''
 - name: Horizon Music
