@@ -4,7 +4,8 @@
   city: ''
   state: ''
   what_is_sold: ''
-  link: "[https://shaunaauraknight.storenvy.com](https://shaunaauraknight.storenvy.com)"
+  link: "[https://shaunaauraknight.storenvy.com](https://shaunaauraknight.storenvy.com)
+    [ www.shaunaauraknight.com]( www.shaunaauraknight.com)"
   description: 'Shauna Aura Knight creates mythically-inspired artwork. Her paintings,
     jewelry, and decorated tote bags and shirts evoke stories of heroes and magic,
     of fairytales and fantasy, and gods and goddesses. Her work uses lush colors,
@@ -231,6 +232,16 @@
   - "/assets/images/dealer_rwa_img_7222.JPG"
   - "/assets/images/dealer_rwa_img_7201-1.JPG"
   - "/assets/images/dealer_rwa_img_7138.JPG"
+- name: Unusual Frequency
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[https://www.etsy.com/ca/shop/UnusualFrequency](https://www.etsy.com/ca/shop/UnusualFrequency)"
+  description: Embroidered hoodies, bags, and other bits and bobs on fannish themes,
+    and the home for official merchandise for the Terra Ignota books by Ada Palmer
+  restrictions: ''
+  images: ''
 - name: Vault 0
   contact: ''
   city: ''
