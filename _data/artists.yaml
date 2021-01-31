@@ -54,9 +54,7 @@
   single_image: "/assets/images/artshow_felixs.jpg"
   image_filenames: []
   website4: ''
-- image_filenames:
-  - "/assets/images/hollingsworthk.jpg"
-  name: Karen Hollingsworth
+- name: Karen Hollingsworth
   website1: "[Website](https://www.wrenditions.com/)"
   website2: ''
   website3: ''
