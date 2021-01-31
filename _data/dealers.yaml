@@ -1,12 +1,11 @@
 ---
-- name: 'Meg''s Crafty Creations '
+- name: Vault 0
   contact: ''
   city: ''
   state: ''
   what_is_sold: ''
-  link: "[jedimeg16.deviantart.com](jedimeg16.deviantart.com)"
-  description: 'Handmade business focused on crocheted amigurumis, embroidered keychains,
-    and sewn purses and accessories '
+  link: "[https://www.vault0.com/](https://www.vault0.com/)"
+  description: Selling costumes and cosplay accessories
   restrictions: ''
   images: ''
 - name: Artwork by Shauna Aura Knight
@@ -139,6 +138,16 @@
   - "/assets/images/dealers_lj_serefromthegreen-ebook.jpg"
   - "/assets/images/dealers_lj_fromtheashes-ebook.jpg"
   - "/assets/images/dealers_lj_haunted-ebook.jpg"
+- name: 'Meg''s Crafty Creations '
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[jedimeg16.deviantart.com](jedimeg16.deviantart.com)"
+  description: 'Handmade business focused on crocheted amigurumis, embroidered keychains,
+    and sewn purses and accessories '
+  restrictions: ''
+  images: ''
 - name: OffWorld Designs, Inc.
   contact: ''
   city: ''
