@@ -126,11 +126,13 @@
   image_filenames: []
   website4: ''
 - name: No Wasted Ink by Wendy Van Camp
-  description: Original Poetry and Limited Edition Art Prints
-  website1: '[https://www.etsy.com/shop/NoWastedInk](https://www.etsy.com/shop/NoWastedInk
-    "https://www.etsy.com/shop/NoWastedInk")'
-  website2: '[http://nowastedink.com/](http://nowastedink.com/ "http://nowastedink.com/")'
-  website3: https://twitter.com/wvancamp
+  description: |-
+    [Twitter](https://twitter.com/wvancamp)
+
+    Original Poetry and Limited Edition Art Prints
+  website1: "[Etsy](https://www.etsy.com/shop/NoWastedInk)"
+  website2: "[Website](http://nowastedink.com/)"
+  website3: ''
   single_image: "/assets/images/artshow_vancampw.jpg"
   image_filenames: []
   instagram: ''
