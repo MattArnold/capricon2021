@@ -5,7 +5,7 @@ category: info
 public: false
 
 ---
-# Café
+# Creating the Café We Want
 
 This year our Café expands into multiple realms. You can still find the welcoming atmosphere and lively discussions in our Discord channels, and thanks to our partnership with the British filkcon Long(Distance) Play (aka LdP) you can enjoy a greatly expanded variety of performances and workshops on our zoom 'stage'. Even our puzzle table returns (for details, see our #puzzle-table channel)! And while we cannot serve our delicious foods and beverages, don't forget to ask Café-Bot for your favorite drink or treat.
 
