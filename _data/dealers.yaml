@@ -1,4 +1,14 @@
 ---
+- name: 'Meg''s Crafty Creations '
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[jedimeg16.deviantart.com](jedimeg16.deviantart.com)"
+  description: 'Handmade business focused on crocheted amigurumis, embroidered keychains,
+    and sewn purses and accessories '
+  restrictions: ''
+  images: ''
 - name: Artwork by Shauna Aura Knight
   contact: ''
   city: ''
