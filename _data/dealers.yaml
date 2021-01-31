@@ -1,13 +1,4 @@
 ---
-- name: Peter Bremer
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: ''
-  description: ''
-  restrictions: ''
-  images: ''
 - name: CB Squared Crafts
   contact: ''
   city: ''
@@ -120,6 +111,15 @@
   restrictions: ''
   images:
   - "/assets/images/dealer_owd_retirement-sale-capricon.jpg"
+- name: Peter Bremer
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[https://peterbremer.weebly.com/](https://peterbremer.weebly.com/)"
+  description: Author of the environmental fantasy Treetops.
+  restrictions: ''
+  images: ''
 - name: Studio de Sade
   contact: ''
   city: ''
