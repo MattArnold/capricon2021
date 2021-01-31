@@ -771,15 +771,14 @@ ul.social-links-menu {
     justify-content: space-between;
   }
 
-  .agreement-container {
-    .half-width-image, form {
-      margin: 1vw;
-      background-size: contain;
-      background-repeat: no-repeat;
-      max-width: 45vw;
-      min-width: 30vw;
-      min-height: 25vw;
-    }
+  .agreement-container>form, .half-width-image {
+    margin: 1vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: contain;
+    max-width: 45vw;
+    min-width: 30vw;
+    min-height: 25vw;
   }
 
   .gallery-image {
