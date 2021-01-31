@@ -5,6 +5,7 @@ category: info
 public: false
 
 ---
+{% include full_width_image.html filename="Cap41art.png" height="50rem" %}
 # Capricon is Going Virtual!
 
 The Board of Directors have decided, in an abundance of caution, that Capricon will be a virtual convention in 2021. While the state moves ahead with the Restore Illinois phased openings, it is in the best interest of everyone to be cautious in these unprecedented times. We see what is happening across the country and do not wish to gamble with the health of our members, our staff, or our guests.
