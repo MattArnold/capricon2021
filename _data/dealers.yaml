@@ -109,7 +109,8 @@
     you for your business over the years.  To the artists, event staff and volunteers
     we’ve worked with, you have been a joy.  Together, we’ve produced a lot of smiles.\n"
   restrictions: ''
-  images: ''
+  images:
+  - "/assets/images/dealer_owd_retirement-sale-capricon.jpg"
 - name: Studio de Sade
   contact: ''
   city: ''
