@@ -79,6 +79,15 @@
   - "/assets/images/dealers_cx_hi-chew-flavors.jpg"
   - "/assets/images/dealers_cx_bookmarks.jpg"
   - "/assets/images/dealers_cx_black-black.jpg"
+- name: DreamHaven Books
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[http://dreamhavenbooks.com/](http://dreamhavenbooks.com/)"
+  description: The second oldest SF specialty store in the US. 42 years and counting.
+  restrictions: ''
+  images: ''
 - name: Horizon Music
   contact: ''
   city: ''
