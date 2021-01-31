@@ -6,12 +6,15 @@ fields:
   name: Artists
   label: Artists
   fields:
-  - type: image_gallery
-    name: image_filenames
-    label: image_filenames
   - type: text
     name: name
     label: name
+  - name: single_image
+    type: file
+    config:
+      maxSize: 64
+    label: single_image
+    description: The image to the left of the artist info.
   - name: website1
     type: textarea
     default: ''
