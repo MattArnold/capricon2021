@@ -47,5 +47,23 @@ fields:
     config: {}
     label: image_filenames
     description: A gallery of multiple images
+  - name: website3
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: website3
+  - name: website4
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: website4
 pages:
 - _data/artists.yaml
