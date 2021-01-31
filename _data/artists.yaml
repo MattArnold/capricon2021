@@ -219,13 +219,14 @@
   image_filenames: []
   website4: ''
 - name: Raymond VanTillburg
-  website1: '[https://www.etsy.com/shop/ArtofRayVanTilburg](https://www.etsy.com/shop/ArtofRayVanTilburg
-    "https://www.etsy.com/shop/ArtofRayVanTilburg")'
-  website2: '[https://www.facebook.com/RayVanTilburgArt](https://www.facebook.com/RayVanTilburgArt
-    "https://www.facebook.com/RayVanTilburgArt")'
-  website3: https://www.reddit.com/user/Aircool66
-  description: ''
-  instagram: aircool66
+  website1: "[Etsy](https://www.etsy.com/shop/ArtofRayVanTilburg)"
+  website2: "[Facebook](https://www.facebook.com/RayVanTilburgArt)"
+  website3: ''
+  description: |-
+    [Reddit](https://www.reddit.com/user/Aircool66)
+
+    [Instagram](instagram.com/aircool66)
+  instagram: ''
   single_image: "/assets/images/artshow_vantillburgr.jpg"
   image_filenames: []
   website4: ''
