@@ -1,21 +1,13 @@
 ---
-- name: "* John Jennings - Guest of Honor"
-  website1: '[https://profiles.ucr.edu/app/home/profile/johnj](https://profiles.ucr.edu/app/home/profile/johnj
-    "https://profiles.ucr.edu/app/home/profile/johnj")'
+- image_filenames: []
+  name: John Jennings - Guest of Honor
+  website1: "[Profile Site](https://profiles.ucr.edu/app/home/profile/johnj)"
   website2: ''
   website3: ''
   description: ''
   instagram: ''
   website4: ''
-  single_image: ''
-  image_filenames:
-    - '/assets/images/artshow_JenningsJ-01.png'
-    - '/assets/images/artshow_JenningsJ-02.png'
-    - '/assets/images/artshow_JenningsJ-03.png'
-    - '/assets/images/artshow_JenningsJ-04.png'
-    - '/assets/images/artshow_JenningsJ-05.png'
-    - '/assets/images/artshow_JenningsJ-06.png'
-    - '/assets/images/artshow_JenningsJ-07.png'
+  single_image: "/assets/images/artshow_jenningsj-01.png"
 - name: Asha Akosua
   description: "[Instagram](instagram.com/ashaakosua)"
   website1: '[Facebook](https://facebook.com/AshaAkosua "https://facebook.com/AshaAkosua")'
@@ -69,6 +61,7 @@
   instagram: ''
   website4: ''
   single_image: "/assets/images/hollingsworthk.jpg"
+  image_filenames: []
 - name: Ingrid Kallick
   description: "[Storefront](http://ikallick.com/shop/)"
   website1: "[RedBubble](https://www.redbubble.com/people/ingridkallick)"
@@ -90,9 +83,9 @@
 - name: Alessandra Kelley
   website1: "[Website](http://www.alessandrakelley.com/)"
   website2: "[RedBubble](https://www.redbubble.com/people/achronalart/shop?artistUserName=AchronalArt)"
-  website3: "[Instagram](https://www.instagram.com/achronalart/)"
+  website3: ''
   description: "[Twitter](https://twitter.com/AchronalA)"
-  instagram: ''
+  instagram: achronalart
   single_image: "/assets/images/artshow_kelleya.jpeg"
   image_filenames: []
   website4: ''
@@ -106,9 +99,9 @@
   instagram: ''
   website4: ''
 - name: Caitlin McLeod
-  description: ''
+  description: "[Instagram](https://www.instagram.com/caitlinmcleoddesign/)"
   website1: "[Society6](http://Society6.com/CaitlinMcLeod)"
-  website2: ''
+  website2: "[Etsy](https://www.etsy.com/shop/CaitlinMcLeodDesign)"
   website3: ''
   single_image: "/assets/images/artshow_mcleodc.jpg"
   image_filenames: []
@@ -187,39 +180,37 @@
   image_filenames: []
   website4: ''
 - name: Silver Owl Creations
-  description: '[https://www.etsy.com/shop/silverowlcreations](https://www.etsy.com/shop/silverowlcreations
-    "https://www.etsy.com/shop/silverowlcreations")'
-  website1: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
-    "https://www.patreon.com/silverowlcreations")'
-  website2: '[https://www.patreon.com/silverowlcreations](https://www.patreon.com/silverowlcreations
-    "https://www.patreon.com/silverowlcreations")'
-  website3: https://www.facebook.com/SilverOwlCreations/
+  description: "[Facebook](https://www.facebook.com/SilverOwlCreations/)"
+  website1: "[Etsy](https://www.patreon.com/silverowlcreations)"
+  website2: "[Patreon](https://www.patreon.com/silverowlcreations)"
+  website3: ''
   single_image: "/assets/images/artshow_silverowlcreations.jpg"
   image_filenames: []
   instagram: ''
   website4: ''
 - name: Brandy Stark
-  description: ''
-  website1: '[http://starkimages.etsy.com/](http://starkimages.etsy.com/ "http://starkimages.etsy.com/")'
-  website2: '[https://www.facebook.com/bstarkart](https://www.facebook.com/bstarkart
-    "https://www.facebook.com/bstarkart")'
-  website3: http://www.spiritsofstpete.com/
+  description: |-
+    [Spirits of St. Petersburg](http://www.spiritsofstpete.com/)
+
+    [Instagram](instagram.com/b.starkart)
+  website1: "[Etsy](http://starkimages.etsy.com/)"
+  website2: "[Facebook](https://www.facebook.com/bstarkart)"
+  website3: ''
   single_image: "/assets/images/artshow_starkb.jpg"
   image_filenames: []
-  instagram: b.starkart
+  instagram: ''
   website4: ''
 - name: Tangitude Artworks
-  description: '[https://facebook.com/tangitude](https://facebook.com/tangitude "https://facebook.com/tangitude")'
-  website1: '[http://tangitude.com/](http://tangitude.com/ "http://tangitude.com/")'
-  website2: '[https://society6.com/tangitude?curator=tangitude](https://society6.com/tangitude?curator=tangitude
-    "https://society6.com/tangitude?curator=tangitude")'
+  description: "[Facebook](https://facebook.com/tangitude)"
+  website1: "[Website](http://tangitude.com/)"
+  website2: "[Society6](https://society6.com/tangitude?curator=tangitude)"
   website3: https://www.etsy.com/shop/TangitudeArtworks
   single_image: "/assets/images/artshow_tangitude.jpg"
   image_filenames: []
   instagram: ''
   website4: ''
 - name: Unicoherent Art
-  website1: '[https://www.unicoherent.com/](https://www.unicoherent.com/ "https://www.unicoherent.com/")'
+  website1: "[Website](https://www.unicoherent.com/)"
   website2: ''
   website3: ''
   description: ''
@@ -228,22 +219,23 @@
   image_filenames: []
   website4: ''
 - name: Raymond VanTillburg
-  website1: '[https://www.etsy.com/shop/ArtofRayVanTilburg](https://www.etsy.com/shop/ArtofRayVanTilburg
-    "https://www.etsy.com/shop/ArtofRayVanTilburg")'
-  website2: '[https://www.facebook.com/RayVanTilburgArt](https://www.facebook.com/RayVanTilburgArt
-    "https://www.facebook.com/RayVanTilburgArt")'
-  website3: https://www.reddit.com/user/Aircool66
-  description: ''
-  instagram: aircool66
+  website1: "[Etsy](https://www.etsy.com/shop/ArtofRayVanTilburg)"
+  website2: "[Facebook](https://www.facebook.com/RayVanTilburgArt)"
+  website3: ''
+  description: |-
+    [Reddit](https://www.reddit.com/user/Aircool66)
+
+    [Instagram](instagram.com/aircool66)
+  instagram: ''
   single_image: "/assets/images/artshow_vantillburgr.jpg"
   image_filenames: []
   website4: ''
 - name: Sarah Wilkinson
-  description: ''
-  website1: http://www.studiodesade.com/
-  website2: http://www.etsy.com/shop/SarahWilkinsonArt
+  description: "[Eventeny](http://www.eventeny.com/company/?c=9531)"
+  website1: "[Website](http://www.studiodesade.com/)"
+  website2: "[Etsy](http://www.etsy.com/shop/SarahWilkinsonArt)"
   single_image: "/assets/images/artshow_wilkinsons.jpg"
   image_filenames: []
   instagram: ''
-  website3: http://www.eventeny.com/company/?c=9531
+  website3: ''
   website4: ''
