@@ -1,15 +1,4 @@
 ---
-- name: Unicoherent Art
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: "[https://www.unicoherent.com/](https://www.unicoherent.com/)"
-  description: 'Eclectic Art: Prints, Jewelry, Color-shift Paintings, Circuit-board
-    Embroidery,  Repurposed Bookfolding Sculptures, Artisanal Game Sets, Thermochromic
-    Pigment Resin-Art, Metal Mandalas, Mixed Media, and more! Commissions Available.'
-  restrictions: ''
-  images: ''
 - name: Artwork by Shauna Aura Knight
   contact: ''
   city: ''
@@ -243,6 +232,17 @@
   - "/assets/images/dealer_rwa_img_7222.JPG"
   - "/assets/images/dealer_rwa_img_7201-1.JPG"
   - "/assets/images/dealer_rwa_img_7138.JPG"
+- name: Unicoherent Art
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: "[https://www.unicoherent.com/](https://www.unicoherent.com/)"
+  description: 'Eclectic Art: Prints, Jewelry, Color-shift Paintings, Circuit-board
+    Embroidery,  Repurposed Bookfolding Sculptures, Artisanal Game Sets, Thermochromic
+    Pigment Resin-Art, Metal Mandalas, Mixed Media, and more! Commissions Available.'
+  restrictions: ''
+  images: ''
 - name: Unusual Frequency
   contact: ''
   city: ''
