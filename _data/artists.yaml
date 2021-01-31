@@ -203,7 +203,10 @@
 - name: Tangitude Artworks
   description: "[Facebook](https://facebook.com/tangitude)"
   website1: "[Website](http://tangitude.com/)"
-  website2: "[Society6](https://society6.com/tangitude?curator=tangitude)"
+  website2: |-
+    [Society6](https://society6.com/tangitude?curator=tangitude)
+
+    [Etsy](https://www.etsy.com/shop/TangitudeArtworks)
   website3: https://www.etsy.com/shop/TangitudeArtworks
   single_image: "/assets/images/artshow_tangitude.jpg"
   image_filenames: []
