@@ -189,14 +189,16 @@
   instagram: ''
   website4: ''
 - name: Brandy Stark
-  description: ''
-  website1: '[http://starkimages.etsy.com/](http://starkimages.etsy.com/ "http://starkimages.etsy.com/")'
-  website2: '[https://www.facebook.com/bstarkart](https://www.facebook.com/bstarkart
-    "https://www.facebook.com/bstarkart")'
-  website3: http://www.spiritsofstpete.com/
+  description: |-
+    [Spirits of St. Petersburg](http://www.spiritsofstpete.com/)
+
+    [Instagram](instagram.com/b.starkart)
+  website1: "[Etsy](http://starkimages.etsy.com/)"
+  website2: "[Facebook](https://www.facebook.com/bstarkart)"
+  website3: ''
   single_image: "/assets/images/artshow_starkb.jpg"
   image_filenames: []
-  instagram: b.starkart
+  instagram: ''
   website4: ''
 - name: Tangitude Artworks
   description: '[https://facebook.com/tangitude](https://facebook.com/tangitude "https://facebook.com/tangitude")'
