@@ -446,6 +446,8 @@ footer {
 }
 .full-width-image {
   width: 100%;
+}
+.full-width-image, .half-width-image {
   margin: 1rem 0;
   background-size: contain;
   background-repeat: no-repeat;
