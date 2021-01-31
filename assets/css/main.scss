@@ -452,6 +452,10 @@ footer {
   background-size: contain;
   background-repeat: no-repeat;
 }
+.half-width-image {
+  min-width: 45rem;
+  min-height: 25rem;
+}
 .floatimage > span.bottom {
     position: absolute;
     bottom: 0;
@@ -775,6 +779,7 @@ ul.social-links-menu {
 
   .agreement-container > form {
     width: 30rem;
+    min-width: 75vw;
   }
 
   .gallery-image {
