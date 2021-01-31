@@ -33,23 +33,6 @@ fields:
       schema:
         format: markdown
     label: website2
-  - name: website3
-    type: text
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: markdown
-    label: website3
-  - name: website4
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: website4
   - type: textarea
     name: description
     default: ''
@@ -59,11 +42,5 @@ fields:
       schema:
         format: markdown
     label: description
-  - name: instagram
-    type: text
-    config:
-      required: false
-    label: instagram
-    description: The segment following instagram.com/
 pages:
 - _data/artists.yaml
