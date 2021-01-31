@@ -201,10 +201,9 @@
   instagram: ''
   website4: ''
 - name: Tangitude Artworks
-  description: '[https://facebook.com/tangitude](https://facebook.com/tangitude "https://facebook.com/tangitude")'
-  website1: '[http://tangitude.com/](http://tangitude.com/ "http://tangitude.com/")'
-  website2: '[https://society6.com/tangitude?curator=tangitude](https://society6.com/tangitude?curator=tangitude
-    "https://society6.com/tangitude?curator=tangitude")'
+  description: "[Facebook](https://facebook.com/tangitude)"
+  website1: "[Website](http://tangitude.com/)"
+  website2: "[Society6](https://society6.com/tangitude?curator=tangitude)"
   website3: https://www.etsy.com/shop/TangitudeArtworks
   single_image: "/assets/images/artshow_tangitude.jpg"
   image_filenames: []
