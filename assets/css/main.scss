@@ -446,15 +446,9 @@ footer {
 }
 .full-width-image {
   width: 100%;
-}
-.full-width-image, .half-width-image {
   margin: 1rem 0;
   background-size: contain;
   background-repeat: no-repeat;
-}
-.half-width-image {
-  min-width: 45rem;
-  min-height: 25rem;
 }
 .floatimage > span.bottom {
     position: absolute;
@@ -777,9 +771,15 @@ ul.social-links-menu {
     justify-content: space-between;
   }
 
-  .agreement-container > form {
-    max-width: 30rem;
-    min-width: 50vw;
+  .agreement-container {
+    .half-width-image, form {
+      margin: 1vw;
+      background-size: contain;
+      background-repeat: no-repeat;
+      max-width: 45vw;
+      min-width: 30vw;
+      min-height: 25vw;
+    }
   }
 
   .gallery-image {
