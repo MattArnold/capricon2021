@@ -72,14 +72,13 @@
   instagram: ''
   website4: ''
 - name: Kat's Magical Jewelry and Other Creations by Kat Huddleston
-  description: ''
-  website1: '[http://www.kathuddleston.com/](http://www.kathuddleston.com/ "http://www.kathuddleston.com/")'
-  website2: '[https://www.facebook.com/FusedGlassByKathie](https://www.facebook.com/FusedGlassByKathie
-    "https://www.facebook.com/FusedGlassByKathie")'
+  description: "[Instagram](instagram.com/scifikathie)"
+  website1: "[Website](http://www.kathuddleston.com/)"
+  website2: "[Facebook](https://www.facebook.com/FusedGlassByKathie)"
   website3: ''
   single_image: "/assets/images/artshow_huddlestonk.jpg"
   image_filenames: []
-  instagram: scifikathie
+  instagram: ''
   website4: ''
 - name: Alessandra Kelley
   website1: '[http://www.alessandrakelley.com/](http://www.alessandrakelley.com/ "http://www.alessandrakelley.com/")'
