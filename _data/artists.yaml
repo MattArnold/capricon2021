@@ -153,11 +153,9 @@
   website4: ''
 - name: Elaine Oldham
   description: ''
-  website1: '[https://www.dreamlightgraphics.com/](https://www.dreamlightgraphics.com/
-    "https://www.dreamlightgraphics.com/")'
-  website2: '[https://www.dreamlightgraphics.com/store](https://www.dreamlightgraphics.com/store
-    "https://www.dreamlightgraphics.com/store")'
-  website3: https://www.facebook.com/FantasyArtByElaineCOldham
+  website1: "[Website](https://www.dreamlightgraphics.com/)"
+  website2: "[Facebook](https://www.facebook.com/FantasyArtByElaineCOldham)"
+  website3: ''
   single_image: "/assets/images/artshow_oldhame.jpg"
   image_filenames: []
   instagram: ''
