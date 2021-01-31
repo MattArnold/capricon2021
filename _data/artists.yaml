@@ -62,6 +62,7 @@
   instagram: ''
   website4: ''
   single_image: "/assets/images/hollingsworthk.jpg"
+  image_filenames: []
 - name: Ingrid Kallick
   description: "[Storefront](http://ikallick.com/shop/)"
   website1: "[RedBubble](https://www.redbubble.com/people/ingridkallick)"
@@ -99,9 +100,9 @@
   instagram: ''
   website4: ''
 - name: Caitlin McLeod
-  description: ''
+  description: "[Instagram](https://www.instagram.com/caitlinmcleoddesign/)"
   website1: "[Society6](http://Society6.com/CaitlinMcLeod)"
-  website2: ''
+  website2: "[Etsy](https://www.etsy.com/shop/CaitlinMcLeodDesign)"
   website3: ''
   single_image: "/assets/images/artshow_mcleodc.jpg"
   image_filenames: []
