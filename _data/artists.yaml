@@ -161,12 +161,11 @@
   instagram: ''
   website4: ''
 - name: SamHain Press
-  website1: '[http://samhainpress.com](http://samhainpress.com "http://samhainpress.com")'
-  website2: '[https://www.facebook.com/samhainpress/](https://www.facebook.com/samhainpress/
-    "https://www.facebook.com/samhainpress/")'
+  website1: "[Website](http://samhainpress.com)"
+  website2: "[Facebook](https://www.facebook.com/samhainpress/)"
   website3: ''
-  description: ''
-  instagram: samhainpress
+  description: "[Instagram](instagram.com/samhainpress)"
+  instagram: ''
   website4: ''
   single_image: "/assets/images/presss.webp"
   image_filenames: []
