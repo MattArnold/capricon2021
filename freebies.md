@@ -9,15 +9,15 @@ public: false
 
 Welcome to the Capricon 41 Freebies Table!
 
-Several authors have generously donated either full works or excerpts from their works for your downloading and enjoyment. Please feel free to download as many of the works as you wish, but we do ask that you only download once and do not share the files publicly.
+Several authors and publishers have generously donated either full works or excerpts from their works for your downloading and enjoyment. Please feel free to download as many of the works as you wish, but we do ask that you only download once and do not share the files publicly.
 
 Happy Reading and Listening!
 
-Coupons and Sales!
+**COUPONS AND SALES FOR CAPRICON MEMBERS**
 
-Patrick J. O'Connor
+Patrick J. O'Connor 
 
-Download Here!
+**DOWNLOAD HERE!**
 
 **S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub)
 
