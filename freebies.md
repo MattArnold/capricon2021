@@ -15,13 +15,11 @@ Happy Reading and Listening!
 
 **COUPONS AND SALES ON OTHER SITES FOR CAPRICON MEMBERS!**
 
-**Patrick J. O'Connor: _Murder on the Orbital Express_** [https://www.amazon.com/dp/B07GSB4VTJ](https://www.amazon.com/dp/B07GSB4VTJ "https://www.amazon.com/dp/B07GSB4VTJ") - free during Capricon weekend!
-
-**Patrick J. O'Connor: _Good Vibrations_** [https://www.amazon.com/dp/B003OQUNAO](https://www.amazon.com/dp/B003OQUNAO "https://www.amazon.com/dp/B003OQUNAO") - free during Capricon weekend!
+Patrick J. O'Connor: Murder on the Orbital
 
 **DOWNLOAD HERE!**
 
-**S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub) **/ PDF**
+**S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub) **/** [**PDF**](/assets/images/something-familiar-pdf-with-cover-s-n-arly.pdf)
 
 **Aliette de Bodard: _The Days of the War, as Red as Blood, as Dark as Bile_** (short story from Subterranean Press) [**PDF**](/assets/images/the-days-of-the-war-as-red-as-blood-as-dark-as-bile_subpress.pdf)
 
