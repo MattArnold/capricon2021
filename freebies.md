@@ -21,17 +21,17 @@ Patrick J. O'Connor
 
 **S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub)
 
-**Aliette de Bodard: _The Days of the War, as Red as Blood, as Dark as Bile_** (short story) **PDF**
+**Aliette de Bodard: _The Days of the War, as Red as Blood, as Dark as Bile_** (short story from Subterranean Press) [**PDF**](/assets/images/the-days-of-the-war-as-red-as-blood-as-dark-as-bile_subpress.pdf)
 
 **Dark Helix Press: _E-Book Sampler 10_** [**PDF**](/assets/images/dark-helix-press-ebook-sampler_final.pdf)
 
-**_Drink Tank Volume 420: Reading in the Time of COVID-19_** - Fanzine edited by Chris Garcia, Alissa McKersie, and Chuck Serface. Cover art by Vanessa Applegate. **PDF**
+**_Drink Tank Volume 420: Reading in the Time of COVID-19_** - Fanzine edited by Chris Garcia, Alissa McKersie, and Chuck Serface. Cover art by Vanessa Applegate. [**PDF**](/assets/images/drinktank420.pdf)
 
 **Jen Haeger: _Miles from Manistique_** is a paranormal thriller set in Michigan's Upper Peninsula. [**MP3 audiobook excerpt**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
 
 **_Journey Planet Volume 53: The Future of Policing_** - Hugo Award winning fanzine published by James Bacon and Chris Garcia. This issue edited by Erin Underwood and Errick Nunnally. Cover Art by Afua Richardson. [**PDF**](/assets/images/journeyplanet53.pdf)
 
-**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_** (excerpt) [**PDF**](/assets/images/wisconchronicles12.pdf)
+**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_** (excerpt from Aqueduct Press) [**PDF**](/assets/images/wisconchronicles12.pdf)
 
 **Short Story, Short Podcast: _If You Were a Dinosaur, My Love_** - Chris Garcia and Kristy Baxter [**MP3**](/assets/images/ifyouwereadinosaur.mp3)
 
