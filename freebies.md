@@ -13,13 +13,19 @@ Several authors have generously donated either full works or excerpts from their
 
 Happy Reading and Listening!
 
+Coupons and Sales!
+
+Patrick J. O'Connor
+
+Download Here!
+
 **S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub)
 
 **Dark Helix Press: _E-Book Sampler 10_** [**PDF**](/assets/images/dark-helix-press-ebook-sampler_final.pdf)
 
-**Jen Haeger: _Miles from Manistique _**is a paranormal thriller set in Michigan's Upper Peninsula. [**MP3 audiobook excerpt**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
+\**Jen Haeger: _Miles from Manistique _**is a paranormal thriller set in Michigan's Upper Peninsula. [**MP3 audiobook excerpt**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
 
-**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_** (excerpt) [**PDF **](/assets/images/wisconchronicles12.pdf)
+**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_** (excerpt) [**PDF**](/assets/images/wisconchronicles12.pdf)
 
 **Steven H. Silver: _Well of Tranquility_** (short story) with a bonus selection of Armenian recipes. [**EPUB**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.epub) **/** [**MOBI**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.mobi)
 
