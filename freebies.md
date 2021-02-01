@@ -23,7 +23,9 @@ Patrick J. O'Connor
 
 **Dark Helix Press: _E-Book Sampler 10_** [**PDF**](/assets/images/dark-helix-press-ebook-sampler_final.pdf)
 
-\**Jen Haeger: _Miles from Manistique _**is a paranormal thriller set in Michigan's Upper Peninsula. [**MP3 audiobook excerpt**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
+**Jen Haeger: _Miles from Manistique_** is a paranormal thriller set in Michigan's Upper Peninsula. [**MP3 audiobook excerpt**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
+
+**_Journey Planet Volume 53: The Future of Policing_** - Hugo Award winning fanzine published by James Bacon and Chris Garcia. This issue edited by Erin Underwood and Errick Nunnally. Cover Art by Afua Richardson. PDF
 
 **Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_** (excerpt) [**PDF**](/assets/images/wisconchronicles12.pdf)
 
