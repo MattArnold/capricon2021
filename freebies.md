@@ -46,3 +46,5 @@ Happy Reading and Listening!
 **Bill Thomasson: _The Whip of Abadur_** (excerpt) [**PDF**](/assets/images/whip-of-abadur-prologue-chapter.pdf)
 
 **_Uncanny Magazine_ Issue 28** Featuring Guests of Honor Michi Trota (Managing / Nonfiction Editor) and Brandon O'Brien (Contributor)   [**PDF**](/assets/images/uncanny_issue_28.pdf) **/** [**EPUB**](/assets/images/uncanny_issue_28.epub) **/** [**MOBI**](/assets/images/uncanny_issue_28.mobi)
+
+**Regina Kanyu Wang: _The Language Sheath_** (short story) [**PDF**](/assets/images/the-language-sheath_for-capricon.pdf)
