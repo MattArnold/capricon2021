@@ -23,7 +23,7 @@ Happy Reading and Listening!
 
 **Steven H. Silver: _Well of Tranquility_** (short story) with a bonus selection of Armenian recipes. [**EPUB**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.epub) **/** [**MOBI**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.mobi)
 
-**Lucy A. Snyder: _Halloween Season _**[**PDF**](/assets/images/halloween-season-excerpt.pdf)
+**Lucy A. Snyder: _Halloween Season_** (excerpt) [**PDF**](/assets/images/halloween-season-excerpt.pdf)
 
 **Bill Thomasson: _The Whip of Abadur_** (excerpt) [**PDF**](/assets/images/whip-of-abadur-prologue-chapter.pdf)
 
