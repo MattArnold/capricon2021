@@ -19,6 +19,8 @@ Happy Reading and Listening!
 
 **Patrick J. O'Connor: _Good Vibrations_** [https://www.amazon.com/dp/B003OQUNAO](https://www.amazon.com/dp/B003OQUNAO "https://www.amazon.com/dp/B003OQUNAO") - free during Capricon weekend!
 
+**Ravenwing Wearable Art**: [https://www.etsy.com/shop/ravenwingwearableart/](https://www.etsy.com/shop/ravenwingwearableart/ "https://www.etsy.com/shop/ravenwingwearableart/") Enter CAP21 for 10% off your purchase! Any order over $35 after discount also ships for free!
+
 **DOWNLOAD HERE!**
 
 **S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub) **/** [**PDF**](/assets/images/something-familiar-pdf-with-cover-s-n-arly.pdf)
