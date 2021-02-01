@@ -19,7 +19,6 @@ Friday, February 5, 5:00 pm CST to 11:00 pm CST
 
 Saturday, February 6, noon CST to 11:00 pm CST
 
-  
 Click [the link](https://us02web.zoom.us/j/82810906354?pwd=WTBVNXlaVDhiQkU2NDZYZE5XWWZNQT09) to drop in and play a game from the list anytime. Or come and play one of these scheduled sessions:
 
 Fri @6PM Jackbox Party Packs 1-7 (Not Family Friendly)
