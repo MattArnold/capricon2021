@@ -15,7 +15,7 @@ Happy Reading and Listening!
 
 **COUPONS AND SALES ON OTHER SITES FOR CAPRICON MEMBERS!**
 
-Patrick J. O'Connor 
+Patrick J. O'Connor
 
 **DOWNLOAD HERE!**
 
@@ -33,7 +33,7 @@ Patrick J. O'Connor
 
 **Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_** (excerpt) [**PDF**](/assets/images/wisconchronicles12.pdf)
 
-**Short Story, Short Podcast: _If You Were a Dinosaur, My Love_** - Chris Garcia and Kristy 
+**Short Story, Short Podcast: _If You Were a Dinosaur, My Love_** - Chris Garcia and Kristy Baxter [**MP3**](/assets/images/ifyouwereadinosaur.mp3)
 
 **Steven H. Silver: _Well of Tranquility_** (short story) with a bonus selection of Armenian recipes. [**EPUB**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.epub) **/** [**MOBI**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.mobi)
 
