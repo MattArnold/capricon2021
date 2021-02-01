@@ -15,9 +15,9 @@ Happy Reading and Listening!
 
 **COUPONS AND SALES ON OTHER SITES FOR CAPRICON MEMBERS!**
 
-Patrick J. O'Connor: Murder on the Orbital Express [https://www.amazon.com/dp/B07GSB4VTJ](https://www.amazon.com/dp/B07GSB4VTJ "https://www.amazon.com/dp/B07GSB4VTJ") - free during Capricon weekend!
+**Patrick J. O'Connor: _Murder on the Orbital Express_** [https://www.amazon.com/dp/B07GSB4VTJ](https://www.amazon.com/dp/B07GSB4VTJ "https://www.amazon.com/dp/B07GSB4VTJ") - free during Capricon weekend!
 
-Patrick J. O'Connor: Good Vibrations [https://www.amazon.com/dp/B003OQUNAO](https://www.amazon.com/dp/B003OQUNAO "https://www.amazon.com/dp/B003OQUNAO") - free during Capricon weekend!
+**Patrick J. O'Connor: _Good Vibrations_** [https://www.amazon.com/dp/B003OQUNAO](https://www.amazon.com/dp/B003OQUNAO "https://www.amazon.com/dp/B003OQUNAO") - free during Capricon weekend!
 
 **DOWNLOAD HERE!**
 
