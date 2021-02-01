@@ -13,18 +13,18 @@ Several authors have generously donated either full works or excerpts from their
 
 Happy Reading and Listening!
 
-[**S.N. Arly: _Something Familiar (EPUB)_**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub)
+**S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub)
 
-[**Dark Helix Press: _E-Book Sampler 10 (PDF)_**](/assets/images/dark-helix-press-ebook-sampler_final.pdf)
+**Dark Helix Press: _E-Book Sampler 10_** [**PDF**](/assets/images/dark-helix-press-ebook-sampler_final.pdf)
 
-[**Jen Haeger: _Miles from Manistique_ (MP3 audiobook excerpt)**](/assets/images/five-minute-sample_miles-from-manistique.mp3) _Miles from Manistique_ is a paranormal thriller set in Michigan's Upper Peninsula.
+**Jen Haeger: _Miles from Manistique _**is a paranormal thriller set in Michigan's Upper Peninsula. [**MP3 audiobook excerpt**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
 
-[**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_ (Aqueduct Press) (PDF excerpt)**](/assets/images/wisconchronicles12.pdf)
+**Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_** (excerpt) [**PDF **](/assets/images/wisconchronicles12.pdf)
 
 **Steven H. Silver: _Well of Tranquility_** (short story) with a bonus selection of Armenian recipes. [**EPUB**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.epub) **/** [**MOBI**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.mobi)
 
-[**Lucy A. Snyder: _Halloween Season_ (PDF excerpt**](/assets/images/halloween-season-excerpt.pdf)**)**
+**Lucy A. Snyder: _Halloween Season _**[**PDF**](/assets/images/halloween-season-excerpt.pdf)
 
-[**Bill Thomasson: _The Whip of Abadur_ (PDF excerpt)**](/assets/images/whip-of-abadur-prologue-chapter.pdf)
+**Bill Thomasson: _The Whip of Abadur_** (excerpt) [**PDF**](/assets/images/whip-of-abadur-prologue-chapter.pdf)
 
-**_Uncanny Magazine_ Issue 28**: Featuring Guests of Honor Michi Trota (Managing / Nonfiction Editor) and Brandon O'Brien (Contributor)   [**PDF**](/assets/images/uncanny_issue_28.pdf) **/** [**EPUB**](/assets/images/uncanny_issue_28.epub) **/** [**MOBI**](/assets/images/uncanny_issue_28.mobi)
+**_Uncanny Magazine_ Issue 28** Featuring Guests of Honor Michi Trota (Managing / Nonfiction Editor) and Brandon O'Brien (Contributor)   [**PDF**](/assets/images/uncanny_issue_28.pdf) **/** [**EPUB**](/assets/images/uncanny_issue_28.epub) **/** [**MOBI**](/assets/images/uncanny_issue_28.mobi)
