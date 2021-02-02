@@ -33,7 +33,7 @@ This website is only half of the convention. To experience the entire thing, you
 
 The link to the Party Zoom will change every day. Check the #parties channel on Discord or check back here for the new link when it is posted.
 
-[Thursday parties](https://us02web.zoom.us/j/85266003970?pwd=Tk04eTdGbVA4eWFwUGJuOFowTHdXdz09), 9:00 pm CST to ?? 
+[Thursday parties](https://us02web.zoom.us/j/85266003970?pwd=Tk04eTdGbVA4eWFwUGJuOFowTHdXdz09), 9:00 pm CST to ??
 
 **Program Items scheduled in Party Zoom:**
 
