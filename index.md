@@ -13,12 +13,12 @@ This website is only half of the convention. To experience the entire thing, you
 
 ## How to Use this Website
 
-* Visit the [Schedule](/schedule) tab to find out what's on.
+* Visit the Schedule tab to find out what's on.
 * Items are scheduled in rooms, just like at an in-person convention.
 * Go to the room tab to attend the panel. If you have questions for the panelists, you can enter them into the chat window. Those chats also appear on the Discord.  If you'd like to continue the conversation after the panel, visit the Discord "hallway" channel associated with that room.
-* Items taking place in [Maple](https://virtual.capricon.org/maple), [Cafe](https://virtual.capricon.org/cafe), [Gaming](https://virtual.capricon.org/gaming) and [Kids Program](https://virtual.capricon.org/kids) happen directly in Zoom meetings. You will find direct links to those meetings on those pages.
-* The [film room](https://virtual.capricon.org/films) will host Capricon TV: KPRC-N, Channel 41! Check it out for a festival of old time Science Fiction, Fantasy, and Horror classics, as well as an assortment of new short films by some of the world’s best film makers.
-* Don't forget to visit the artists and dealers you'll find in the [Art Show](https://virtual.capricon.org/art-show) and [Dealers Room](https://virtual.capricon.org/dealers-room) - they are really struggling right now and need our support!
+* Items taking place in Maple, Cafe, Gaming and Kids Program happen directly in Zoom meetings. You will find direct links to those meetings on those pages.
+* The film room will host Capricon TV: KPRC-N, Channel 41! Check it out for a festival of old time Science Fiction, Fantasy, and Horror classics, as well as an assortment of new short films by some of the world’s best film makers.
+* Don't forget to visit the artists and dealers you'll find in the Art Show and Dealers Room - they are really struggling right now and need our support!
 
 ## Other Useful Information
 
