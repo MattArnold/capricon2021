@@ -5,6 +5,8 @@ category: info
 public: false
 
 ---
+{% include float_right_image.html filename="Cap41art.jpg" height="20rem" %}
+
 # Welcome to Virtual Capricon
 
 Thank you for joining us at our virtual convention, we're happy to have you here!
