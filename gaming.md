@@ -9,7 +9,7 @@ public: false
 
 ## Game with the Navy!
 
-{% include float_right_image.html filename="trmn-logo-new-manticore-sm.png" height="10rem" width="10rem" %}
+{% include float_right_image.html filename="trmn-logo-new-manticore.png" height="24rem" width="24rem" %}
 
 The Royal Manticoran Navy has shipped in a container of online family friendly games. Our list includes Artemis Starship Bridge Simulator, Jackbox, Among Us, Catan Universe, Ticket to Ride, Clue and other board games.
 
