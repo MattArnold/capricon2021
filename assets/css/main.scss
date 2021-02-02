@@ -38,6 +38,7 @@ body {
   margin: 0;
   background-color: $very-light;
   background-image: url('{{ site.baseurl }}/assets/images/brick-tile.png');
+  background-size: 15vw;
 }
 
 h1 {
@@ -229,7 +230,6 @@ header {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   background-color: $very-light;
   padding: 1rem;
 
@@ -707,7 +707,8 @@ ul.social-links-menu {
   }
 
   #sign-in-first {
-    margin: 10rem;
+    display: flex;
+    justify-content: space-around;
   }
 
   .disclaimers {
@@ -777,8 +778,8 @@ ul.social-links-menu {
     background-repeat: no-repeat;
     background-size: contain;
     max-width: 45vw;
-    min-width: 30vw;
-    min-height: 25vw;
+    min-width: 40vw;
+    min-height: 85vh;
   }
 
   .gallery-image {
