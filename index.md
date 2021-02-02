@@ -11,7 +11,7 @@ Thank you for joining us at our virtual convention, we're happy to have you here
 
 This website is only half of the convention. To experience the entire thing, you need to [join our Discord server](https://discord.gg/Hra39Zkrhf). Note that you must have logged into Discord and accepted the Code of Conduct in order to participate in panel chat via the website.
 
-## How to Use this Website
+### How to Use this Website
 
 * Visit the Schedule tab to find out what's on.
 * Items are scheduled in rooms, just like at an in-person convention.
