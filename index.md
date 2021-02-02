@@ -5,7 +5,7 @@ category: info
 public: false
 
 ---
-{% include float_right_image.html filename="Cap41art.jpg" height="24rem" width="40rem" %}
+{% include float_right_image.html filename="Cap41art.png" height="24rem" width="40rem" %}
 
 # Welcome to Virtual Capricon
 
