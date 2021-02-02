@@ -7,7 +7,7 @@ public: false
 ---
 # Gaming
 
-## Game with the Navy!
+### Game with the Navy!
 
 {% include float_right_image.html filename="trmn-logo-new-manticore.png" height="24rem" width="24rem" %}
 
@@ -39,6 +39,6 @@ Sat @8PM AmongUs
 
 Some games can be played in your browser. Others will require downloading an app, with a one-time cost for the some games. Check out [this link](https://drive.google.com/file/d/1sDp_Sbb8shnTFdQYIckLGl2hR_6rru1C/view?usp=sharing) for more information about the games and what you'll need to play.
 
-## Ardham Interlude Virtual Escape Room
+### Ardham Interlude Virtual Escape Room
 
 You receive a strange inheritance, left to you in trust by Atticus Freeman. Find out what you are the heir to and solve its mysteries before time runs out. This horrific virtual escape room is inspired by the book and television series Lovecraft Country. Due to the intense nature of the material, this game is suitable for adults and teens only. Space is limited, [sign up in advance](https://forms.gle/rP3GX8k5CJ1ZJGY59). You'll receive a link to download your clue kit and be sent a Zoom link directly.
