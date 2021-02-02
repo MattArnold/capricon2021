@@ -16,6 +16,7 @@ Capricon 41 presents Capricon TV: KPRC-N, Channel 41! Come join us in a festival
   frameborder="0"
   allow="autoplay; fullscreen; picture-in-picture"
   allowfullscreen
+  class="convention-video"
 ></iframe>
 
 <iframe frameborder="0" class="convention-chat">
