@@ -1,16 +1,16 @@
 ---
 - image_filenames: []
   name: John Jennings - Guest of Honor
-  website1: "[Instagram](http://instagram.com/johnjenningsart)"
+  website1: |-
+    Prints of Blues Collection, "[Thief at the Crossroads](https://printcollection.com/collections/exclusive-thief-at-the-crossroads)"
+
+    [Instagram](http://instagram.com/johnjenningsart)
   website2: |-
     [Profile Site](https://profiles.ucr.edu/app/home/profile/johnj)
 
     [Twitter](https://twitter.com/JIJennings)
   website3: ''
-  description: |-
-    [Author Website on Amazon](https://www.amazon.com/John-Jennings/e/B00R5MF56A?ref=dbs_m_cmx_rwt_byln)
-
-    Blues Collection, "[Thief at the Crossroads](https://printcollection.com/collections/exclusive-thief-at-the-crossroads)"
+  description: "[Author Website on Amazon](https://www.amazon.com/John-Jennings/e/B00R5MF56A?ref=dbs_m_cmx_rwt_byln)"
   instagram: ''
   website4: ''
   single_image: "/assets/images/artshow_JenningsJ-01.png"
