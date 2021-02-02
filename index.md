@@ -31,4 +31,12 @@ This website is only half of the convention. To experience the entire thing, you
 
 The link to the Party Zoom will change every day. Check the #parties channel on Discord or check back here for the new link when it is posted.
 
-Thursday parties, 9 pm to ??  (Link to come)
+[Thursday parties](https://us02web.zoom.us/j/85266003970?pwd=Tk04eTdGbVA4eWFwUGJuOFowTHdXdz09), 9:00 pm CST to ?? 
+
+**Program Items scheduled in party space:**
+
+Saturday 10:00 am CST	[History of Day Drinking](https://us02web.zoom.us/j/87158298740?pwd=NWtOdk9IVWtpazlMdW11alhneVRCQT09) (with brunch drinks mix-along) (download recipes [here](https://drive.google.com/file/d/1jPnK1DTKnrcbJcjN7s1GGFOuj459l7GM/view))
+
+Saturday 7:00 pm CST	Ardham Interlude Virtual Escape Room. Space is limited, [sign up in advance](https://forms.gle/rP3GX8k5CJ1ZJGY59). You'll receive a link to download your clue kit and be sent a Zoom link directly.
+
+Sunday 11:00 am CST	[Coffee with Command (Barfleet)](https://www.google.com/url?q=https://us02web.zoom.us/j/81593046291?pwd%3DVkx3cURMbFM1VmlheHhLV1d5S0l2Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw2LuDss0PshWLFttyYx4xkd) (2 hours)
