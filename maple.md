@@ -49,9 +49,9 @@ Welcome to the Maple Room! Items in this room are more interactive, so are held 
 
 9:00a CST	[Art Demonstration: Relief Block Prints](https://us02web.zoom.us/j/82739243563?pwd=eC9nb2hhS3h4SUlrZUpIS0lmcnlVQT09)
 
-10:00a CST	Kaffeeklatsch: Henry Spencer (signup required)
+10:00a CST	Kaffeeklatsch: Henry Spencer ([signup required](https://us02web.zoom.us/meeting/register/tZAlcOCgrjguGd0YrY0jllTSD2eOBGlQxhRS))
 
-10:00a CST	History of Day Drinking (with brunch drinks mix-along) (download recipes [here](https://drive.google.com/file/d/1jPnK1DTKnrcbJcjN7s1GGFOuj459l7GM/view))
+10:00a CST	[History of Day Drinking](https://us02web.zoom.us/j/87158298740?pwd=NWtOdk9IVWtpazlMdW11alhneVRCQT09) (with brunch drinks mix-along) (download recipes [here](https://drive.google.com/file/d/1jPnK1DTKnrcbJcjN7s1GGFOuj459l7GM/view))
 
 11:00a CST	[Art Demonstration: Wire Wrapping](https://us02web.zoom.us/j/81117068020?pwd=d3JwK0Y0OTJ6RTVlVEJ6RzcwRWE2QT09)
 
