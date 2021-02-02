@@ -444,7 +444,7 @@ footer {
     height: 100%;
   }
 }
-.full-width-image {
+.full-width-image, .float-right-image {
   width: 100%;
   margin: 1rem 0;
   background-size: contain;
@@ -701,6 +701,10 @@ ul.social-links-menu {
         }
       }
     }
+  }
+
+  .float-right-image {
+    float: right;
   }
 
   .public-container:not(.room-container), .accesscontrol-container:not(.room-container) {
