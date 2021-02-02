@@ -16,8 +16,8 @@ This website is only half of the convention. To experience the entire thing, you
 * Visit the [Schedule](/schedule) tab to find out what's on.
 * Items are scheduled in rooms, just like at an in-person convention.
 * Go to the room tab to attend the panel. If you have questions for the panelists, you can enter them into the chat window. Those chats also appear on the Discord.  If you'd like to continue the conversation after the panel, visit the Discord "hallway" channel associated with that room.
-* Items taking place in Maple, Cafe, Gaming and Kids Program happen directly in Zoom meetings. You will find direct links to those meetings on those pages.
-* The film room will host Capricon TV: KPRC-N, Channel 41! Check it out for a festival of old time Science Fiction, Fantasy, and Horror classics, as well as an assortment of new short films by some of the world’s best film makers.
+* Items taking place in [Maple](/maple), [Cafe](/cafe), [Gaming ](/gaming)and [Kids Program](/kids) happen directly in Zoom meetings. You will find direct links to those meetings on those pages.
+* The [film room](/films) will host Capricon TV: KPRC-N, Channel 41! Check it out for a festival of old time Science Fiction, Fantasy, and Horror classics, as well as an assortment of new short films by some of the world’s best film makers.
 * Don't forget to visit the artists and dealers you'll find in the Art Show and Dealers Room - they are really struggling right now and need our support!
 
 ### Other Useful Information
