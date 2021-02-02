@@ -11,14 +11,17 @@ public: false
 
 Capricon 41 presents Capricon TV: KPRC-N, Channel 41! Come join us in a festival of old time Science Fiction, Fantasy, and Horror classics, as well as an assortment of new short films by some of the world’s best film makers. And maybe… a few surprises along the way. Click here to download the full schedule, or look under the viewing window for what's playing today.
 
+And don't forget to vote for your favorite commercial! You'll find or fan & community created commercials playing between the videos in the stream, or you can watch them on their own and vote!
+
 <div class="embeds-container">
 <iframe
-  src="https://vimeo.com/event/654823/embed"
-  frameborder="0"
-  allow="autoplay; fullscreen; picture-in-picture"
-  allowfullscreen
-  class="convention-video"
-></iframe>
+src="https://vimeo.com/event/654823/embed"
+frameborder="0"
+allow="autoplay; fullscreen; picture-in-picture"
+allowfullscreen
+class="convention-video"
+
+> </iframe>
 
 <iframe frameborder="0" class="convention-chat">
 </iframe>
