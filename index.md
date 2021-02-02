@@ -26,6 +26,8 @@ This website is only half of the convention. To experience the entire thing, you
 
 * The [Virtual Capricon FAQ](https://docs.google.com/document/d/1oBzw6dBxYuVC3bSnJcI3j-09k1EUgxTsghdBc9hviV4/edit?usp=sharing) will be updated throughout the convention with your frequently asked questions
 * Check out our [Discord Guide for Attendees](https://docs.google.com/document/d/1whzM_TaA3LO4XLWDhV0oqrnyEa38GAXvaLsecep1yR8/edit?usp=sharing) for more on how to use Discord and the Capricon 41 Discord server
+* Need help? The best way to do that will be to ask at the #info-desk or #discord-help-desk in the Discord. But if you can't do that, you can email infodesk@capricon.org and someone will get back to you.
+* Need to report a Code of Conduct violation? Visit #operations in Discord, or email operations@capricon.org
 
 ### Where are the Parties?!
 
@@ -33,7 +35,7 @@ The link to the Party Zoom will change every day. Check the #parties channel on 
 
 [Thursday parties](https://us02web.zoom.us/j/85266003970?pwd=Tk04eTdGbVA4eWFwUGJuOFowTHdXdz09), 9:00 pm CST to ?? 
 
-**Program Items scheduled in party space:**
+**Program Items scheduled in Party Zoom:**
 
 Saturday 10:00 am CST	[History of Day Drinking](https://us02web.zoom.us/j/87158298740?pwd=NWtOdk9IVWtpazlMdW11alhneVRCQT09) (with brunch drinks mix-along) (download recipes [here](https://drive.google.com/file/d/1jPnK1DTKnrcbJcjN7s1GGFOuj459l7GM/view))
 
