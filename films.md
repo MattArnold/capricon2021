@@ -7,7 +7,7 @@ public: false
 ---
 # Films
 
-{% include float_right_image.html filename="kprc-logo.jpg" height="16rem" width="16rem" %}
+{% include full_width_image.html filename="kprc-logo.jpg" height="16rem" width="16rem" %}
 
 Capricon 41 presents Capricon TV: KPRC-N, Channel 41! Come join us in a festival of old time Science Fiction, Fantasy, and Horror classics, as well as an assortment of new short films by some of the world’s best film makers. And maybe… a few surprises along the way. Click here to download the full schedule, or look under the viewing window for what's playing today.
 
