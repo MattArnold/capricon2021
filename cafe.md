@@ -9,7 +9,7 @@ public: false
 
 This year our Café expands into multiple realms. You can still find the welcoming atmosphere and lively discussions in our Discord channels, and thanks to our partnership with the British filkcon Long(Distance) Play (aka LdP) you can enjoy a greatly expanded variety of performances and workshops on our zoom 'stage'. Even our puzzle table returns (for details, see our #puzzle-table channel)! And while we cannot serve our delicious foods and beverages, don't forget to ask Café-Bot for your favorite drink or treat.
 
-Find us on Capricon's Discord in the Café category.
+Find us on [Capricon's Discord](https://discord.gg/Hra39Zkrhf) in the Café category.
 
 Join our Café Zoom (day concerts, workshops, & music circles) [here](https://us02web.zoom.us/j/82090195223?pwd=QjZPVFpUVk1xTytaUjBCeGhJYlR0dz09).
 
