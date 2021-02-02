@@ -100,22 +100,22 @@
     all types of unique earrings and more!
   restrictions: ''
   images:
-  - '/assets/images/dealer_ge_screenshot_20210122-191136_business-suite.jpg'
-  - '/assets/images/dealer_ge_screenshot_20200920-182144_gallery.jpg'
-  - '/assets/images/dealer_ge_screenshot_20200412-225753_pages-manager.jpg'
-  - '/assets/images/dealer_ge_received_187015239310349.jpeg'
-  - '/assets/images/dealer_ge_20882-business-product-38vsqj567zyy1599423155-1200.jpg'
-  - '/assets/images/dealer_ge_20882-business-product-38vsqj567zyy1599423155-1200.jpg'
-  - '/assets/images/dealer_ge_fb_img_1600229841227.jpg'
-  - '/assets/images/dealer_ge_20210121_133205.jpg'
-  - '/assets/images/dealer_ge_received_251184376176201.jpeg'
-  - '/assets/images/dealer_ge_20200921_185835.jpg'
-  - '/assets/images/dealer_ge_screenshot_20200322-025403_pages-manager.jpg'
-  - '/assets/images/dealer_ge_screenshot_20200326-004145_messenger.jpg'
-  - '/assets/images/dealer_ge_screenshot_20200919-182806_gallery.jpg'
-  - '/assets/images/dealer_ge_20201130_112224.jpg'
-  - '/assets/images/dealer_ge_received_312120773129640.jpeg'
-  - '/assets/images/dealer_ge_collagemaker_20200903_123925347.jpg'
+  - "/assets/images/dealer_ge_screenshot_20210122-191136_business-suite.jpg"
+  - "/assets/images/dealer_ge_screenshot_20200920-182144_gallery.jpg"
+  - "/assets/images/dealer_ge_screenshot_20200412-225753_pages-manager.jpg"
+  - "/assets/images/dealer_ge_received_187015239310349.jpeg"
+  - "/assets/images/dealer_ge_20882-business-product-38vsqj567zyy1599423155-1200.jpg"
+  - "/assets/images/dealer_ge_20882-business-product-38vsqj567zyy1599423155-1200.jpg"
+  - "/assets/images/dealer_ge_fb_img_1600229841227.jpg"
+  - "/assets/images/dealer_ge_20210121_133205.jpg"
+  - "/assets/images/dealer_ge_received_251184376176201.jpeg"
+  - "/assets/images/dealer_ge_20200921_185835.jpg"
+  - "/assets/images/dealer_ge_screenshot_20200322-025403_pages-manager.jpg"
+  - "/assets/images/dealer_ge_screenshot_20200326-004145_messenger.jpg"
+  - "/assets/images/dealer_ge_screenshot_20200919-182806_gallery.jpg"
+  - "/assets/images/dealer_ge_20201130_112224.jpg"
+  - "/assets/images/dealer_ge_received_312120773129640.jpeg"
+  - "/assets/images/dealer_ge_collagemaker_20200903_123925347.jpg"
 - name: Horizon Music
   contact: ''
   city: ''
@@ -156,18 +156,18 @@
     and sewn purses and accessories '
   restrictions: ''
   images:
-  - '/assets/images/dealer_mcc_image0.jpeg'
-  - '/assets/images/dealer_mcc_image1.jpeg'
-  - '/assets/images/dealer_mcc_image2.jpeg'
-  - '/assets/images/dealer_mcc_image3.jpeg'
-  - '/assets/images/dealer_mcc_image4.jpeg'
-  - '/assets/images/dealer_mcc_image5.jpeg'
-  - '/assets/images/dealer_mcc_image7.jpeg'
-  - '/assets/images/dealer_mcc_image8.jpeg'
-  - '/assets/images/dealer_mcc_image9.jpeg'
-  - '/assets/images/dealer_mcc_image10.jpeg'
-  - '/assets/images/dealer_mcc_image11.jpeg'
-  - '/assets/images/dealer_mcc_image12.jpeg'
+  - "/assets/images/dealer_mcc_image0.jpeg"
+  - "/assets/images/dealer_mcc_image1.jpeg"
+  - "/assets/images/dealer_mcc_image2.jpeg"
+  - "/assets/images/dealer_mcc_image3.jpeg"
+  - "/assets/images/dealer_mcc_image4.jpeg"
+  - "/assets/images/dealer_mcc_image5.jpeg"
+  - "/assets/images/dealer_mcc_image7.jpeg"
+  - "/assets/images/dealer_mcc_image8.jpeg"
+  - "/assets/images/dealer_mcc_image9.jpeg"
+  - "/assets/images/dealer_mcc_image10.jpeg"
+  - "/assets/images/dealer_mcc_image11.jpeg"
+  - "/assets/images/dealer_mcc_image12.jpeg"
 - name: OffWorld Designs, Inc.
   contact: ''
   city: ''
@@ -260,7 +260,7 @@
     Embroidery,  Repurposed Bookfolding Sculptures, Artisanal Game Sets, Thermochromic
     Pigment Resin-Art, Metal Mandalas, Mixed Media, and more! Commissions Available.'
   restrictions: ''
-  images: ''
+  images: "/assets/images/dealer_ge_screenshot_20210122-191136_business-suite.jpg,/assets/images/dealer_ge_screenshot_20200920-182144_gallery.jpg,/assets/images/dealer_ge_screenshot_20200412-225753_pages-manager.jpg,/assets/images/dealer_ge_received_187015239310349.jpeg,/assets/images/dealer_ge_20882-business-product-38vsqj567zyy1599423155-1200.jpg,/assets/images/dealer_ge_20882-business-product-38vsqj567zyy1599423155-1200.jpg,/assets/images/dealer_ge_fb_img_1600229841227.jpg,/assets/images/dealer_ge_20210121_133205.jpg,/assets/images/dealer_ge_received_251184376176201.jpeg,/assets/images/dealer_ge_20200921_185835.jpg,/assets/images/dealer_ge_screenshot_20200322-025403_pages-manager.jpg,/assets/images/dealer_ge_screenshot_20200326-004145_messenger.jpg,/assets/images/dealer_ge_screenshot_20200919-182806_gallery.jpg,/assets/images/dealer_ge_20201130_112224.jpg,/assets/images/dealer_ge_received_312120773129640.jpeg,/assets/images/dealer_ge_collagemaker_20200903_123925347.jpg"
 - name: Unusual Frequency
   contact: ''
   city: ''
@@ -271,16 +271,16 @@
     and the home for official merchandise for the Terra Ignota books by Ada Palmer
   restrictions: ''
   images:
-  - '/assets/images/dealer_uf_wathever-0303.jpg'
-  - '/assets/images/dealer_uf_moonlit-kitten-medium-hoody-back.jpg'
-  - '/assets/images/dealer_uf_autumn-dragon-hoody-med-back.jpg'
-  - '/assets/images/dealer_uf_moonlit-kittens-large-hoody-front.jpg'
-  - '/assets/images/dealer_uf_snow-owl-detail-front_small.jpg'
-  - '/assets/images/dealer_uf_purple-peacock-detail-back_small.jpg'
-  - '/assets/images/dealer_uf_firewolf_small.jpg'
-  - '/assets/images/dealer_uf_space_turtle_small.jpg'
-  - '/assets/images/dealer_uf_flower-dinosaur-detail-front_small.jpg'
-  - '/assets/images/dealer_uf_utopia_back_small.jpg'
+  - "/assets/images/dealer_uf_wathever-0303.jpg"
+  - "/assets/images/dealer_uf_moonlit-kitten-medium-hoody-back.jpg"
+  - "/assets/images/dealer_uf_autumn-dragon-hoody-med-back.jpg"
+  - "/assets/images/dealer_uf_moonlit-kittens-large-hoody-front.jpg"
+  - "/assets/images/dealer_uf_snow-owl-detail-front_small.jpg"
+  - "/assets/images/dealer_uf_purple-peacock-detail-back_small.jpg"
+  - "/assets/images/dealer_uf_firewolf_small.jpg"
+  - "/assets/images/dealer_uf_space_turtle_small.jpg"
+  - "/assets/images/dealer_uf_flower-dinosaur-detail-front_small.jpg"
+  - "/assets/images/dealer_uf_utopia_back_small.jpg"
 - name: Vault 0
   contact: ''
   city: ''
@@ -290,16 +290,16 @@
   description: Selling costumes and cosplay accessories
   restrictions: ''
   images:
-  - '/assets/images/dealer_v0_vault0rustylogo.jpg'
-  - '/assets/images/dealer_v0_download-7.png'
-  - '/assets/images/dealer_v0_download-4.png'
-  - '/assets/images/dealer_v0_download-5.png'
-  - '/assets/images/dealer_v0_download.png'
-  - '/assets/images/dealer_v0_img_20200308_093144166.jpg'
-  - '/assets/images/dealer_v0_download-3.png'
-  - '/assets/images/dealer_v0_download-1.png'
-  - '/assets/images/dealer_v0_download-6.png'
-  - '/assets/images/dealer_v0_download-2.png'
-  - '/assets/images/dealer_v0_download-8.png'
-  - '/assets/images/dealer_v0_img_20180215_173037788_hdr.jpg'
-  - '/assets/images/dealer_v0_img_20190104_131834094.jpg'
+  - "/assets/images/dealer_v0_vault0rustylogo.jpg"
+  - "/assets/images/dealer_v0_download-7.png"
+  - "/assets/images/dealer_v0_download-4.png"
+  - "/assets/images/dealer_v0_download-5.png"
+  - "/assets/images/dealer_v0_download.png"
+  - "/assets/images/dealer_v0_img_20200308_093144166.jpg"
+  - "/assets/images/dealer_v0_download-3.png"
+  - "/assets/images/dealer_v0_download-1.png"
+  - "/assets/images/dealer_v0_download-6.png"
+  - "/assets/images/dealer_v0_download-2.png"
+  - "/assets/images/dealer_v0_download-8.png"
+  - "/assets/images/dealer_v0_img_20180215_173037788_hdr.jpg"
+  - "/assets/images/dealer_v0_img_20190104_131834094.jpg"
