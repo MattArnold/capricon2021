@@ -739,34 +739,6 @@ ul.social-links-menu {
       width: 40rem;
     }
   }
-  ul {
-
-    li {
-      display: flex;
-      margin-left: -2.5rem;
-      position: relative;
-
-      span {
-        &.datetime {
-          width: 12rem;
-        }
-        &.room {
-          width: 7rem;
-          word-break: break-all;
-        }
-      }
-
-      &.not-published {
-        color: $medium-dark;
-
-        &:before {
-          position: absolute;
-          left: -9rem;
-          content: "Not published -> "
-        }
-      }
-    }
-  }
 
   .byline {
     display: flex;
