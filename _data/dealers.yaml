@@ -260,7 +260,19 @@
     Embroidery,  Repurposed Bookfolding Sculptures, Artisanal Game Sets, Thermochromic
     Pigment Resin-Art, Metal Mandalas, Mixed Media, and more! Commissions Available.'
   restrictions: ''
-  images: "/assets/images/dealer_uca_01-my-unicorns-do-exist-bookfolding-sculpture.png,/assets/images/dealer_uca_02-graey-artisanal-game-set.jpg,/assets/images/dealer_uca_03-dwarven-necklace.jpg,/assets/images/dealer_uca_04-aromatic-delicacies-aromatherapy-necklace.png,/assets/images/dealer_uca_05-crossed-circuits-unicorn.png,/assets/images/dealer_uca_06-gaming-in-neon-steel.jpg,/assets/images/dealer_uca_07-mfwt.jpg,/assets/images/dealer_uca_08-celtic-shadow-art-i.jpg,/assets/images/dealer_uca_09-tiny-teris-1.png,/assets/images/dealer_uca_10-greywind.jpg,/assets/images/dealer_uca_11-the-ghost-in-the-orbit.png,/assets/images/dealer_uca_12-celtic-quadrille-in-etoile-browns.png"
+  images:
+  - "/assets/images/dealer_uca_01-my-unicorns-do-exist-bookfolding-sculpture.png"
+  - "/assets/images/dealer_uca_02-graey-artisanal-game-set.jpg"
+  - "/assets/images/dealer_uca_03-dwarven-necklace.jpg"
+  - "/assets/images/dealer_uca_04-aromatic-delicacies-aromatherapy-necklace.png"
+  - "/assets/images/dealer_uca_05-crossed-circuits-unicorn.png"
+  - "/assets/images/dealer_uca_06-gaming-in-neon-steel.jpg"
+  - "/assets/images/dealer_uca_07-mfwt.jpg"
+  - "/assets/images/dealer_uca_08-celtic-shadow-art-i.jpg"
+  - "/assets/images/dealer_uca_09-tiny-teris-1.png"
+  - "/assets/images/dealer_uca_10-greywind.jpg"
+  - "/assets/images/dealer_uca_11-the-ghost-in-the-orbit.png"
+  - "/assets/images/dealer_uca_12-celtic-quadrille-in-etoile-browns.png"
 - name: Unusual Frequency
   contact: ''
   city: ''
