@@ -195,12 +195,12 @@
   instagram: ''
   website4: ''
 - name: Brandy Stark
-  description: |-
-    [Spirits of St. Petersburg](http://www.spiritsofstpete.com/)
-
-    [Instagram](instagram.com/b.starkart)
+  description: "[Spirits of St. Petersburg](http://www.spiritsofstpete.com/)"
   website1: "[Etsy](http://starkimages.etsy.com/)"
-  website2: "[Facebook](https://www.facebook.com/bstarkart)"
+  website2: |-
+    [Facebook](https://www.facebook.com/bstarkart)
+
+    [Instagram](http://instagram.com/b.starkart)
   website3: ''
   single_image: "/assets/images/artshow_starkb.jpg"
   image_filenames: []
