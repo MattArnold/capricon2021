@@ -43,7 +43,7 @@ Happy Reading and Listening!
 
 **Steven H. Silver: _Well of Tranquility_** (short story) with a bonus selection of Armenian recipes. [**EPUB**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.epub) **/** [**MOBI**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.mobi)
 
-**Deanna Sjolander: _Sophie and the G-Man_** (audiobook excerpt) **MP3**
+**Deanna Sjolander: _Sophie and the G-Man_** (audiobook excerpt) [**MP3**](/assets/images/sophie-and-the-g-man.mp3)
 
 **Lucy A. Snyder: _Halloween Season_** (excerpt) [**PDF**](/assets/images/halloween-season-excerpt.pdf)
 
