@@ -25,7 +25,7 @@ Happy Reading and Listening!
 
 **S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub) **/** [**PDF**](/assets/images/something-familiar-pdf-with-cover-s-n-arly.pdf)
 
-**Donald J. Bingle: _Future Futures_** (short story) [**PDF**](/assets/images/future-futures-donald-j-bingle.pdf) **/ EPUB /** [**MOBI**](/assets/images/future-futures-donald-j-bingle.mobi)
+**Donald J. Bingle: _Future Futures_** (short story) [**PDF**](/assets/images/future-futures-donald-j-bingle.pdf) **/** [**EPUB**](/assets/images/future-futures-donald-j-bingle.epub) **/** [**MOBI**](/assets/images/future-futures-donald-j-bingle.mobi)
 
 **Aliette de Bodard: _The Days of the War, as Red as Blood, as Dark as Bile_** (short story from Subterranean Press) [**PDF**](/assets/images/the-days-of-the-war-as-red-as-blood-as-dark-as-bile_subpress.pdf)
 
