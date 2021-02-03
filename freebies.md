@@ -25,6 +25,8 @@ Happy Reading and Listening!
 
 **S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub) **/** [**PDF**](/assets/images/something-familiar-pdf-with-cover-s-n-arly.pdf)
 
+**Donald J. Bingle: _Future Futures_** (short story) **PDF / EPUB / MOBI**
+
 **Aliette de Bodard: _The Days of the War, as Red as Blood, as Dark as Bile_** (short story from Subterranean Press) [**PDF**](/assets/images/the-days-of-the-war-as-red-as-blood-as-dark-as-bile_subpress.pdf)
 
 **Dark Helix Press: _E-Book Sampler 10_** [**PDF**](/assets/images/dark-helix-press-ebook-sampler_final.pdf)
@@ -40,6 +42,8 @@ Happy Reading and Listening!
 **Short Story, Short Podcast: _If You Were a Dinosaur, My Love_** - Chris Garcia and Kristy Baxter [**MP3**](/assets/images/ifyouwereadinosaur.mp3)
 
 **Steven H. Silver: _Well of Tranquility_** (short story) with a bonus selection of Armenian recipes. [**EPUB**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.epub) **/** [**MOBI**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.mobi)
+
+**Deanna Sjolander: _Sophie and the G-Man_** (audiobook excerpt) **MP3**
 
 **Lucy A. Snyder: _Halloween Season_** (excerpt) [**PDF**](/assets/images/halloween-season-excerpt.pdf)
 
