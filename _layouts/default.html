@@ -48,7 +48,7 @@
     </header>
     {% if page.public %}
     <section class="public-container {{ page_size}}">
-    {% elsif page.category == "stream" or page.category == "gallery" or page.category == "info" %}
+    {% elsif page.category == "stream" or page.category == "gallery" %}
     <section id="sign-in-first">
       {% include agreement.html %}
     </section>
