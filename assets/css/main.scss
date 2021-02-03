@@ -709,6 +709,7 @@ ul.social-links-menu {
 
   .public-container:not(.room-container), .accesscontrol-container:not(.room-container) {
     width: 64rem;
+    min-height: 83vh;
   }
 
   #sign-in-first {
