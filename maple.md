@@ -31,7 +31,7 @@ Welcome to the Maple Room! Items in this room are more interactive, so are held 
 
 2:00p CST	[World-Building II: Characters!](https://us02web.zoom.us/j/82029240196?pwd=RVlRcHpSeUg5a01aUlRtSittWFEydz09)
 
-3:00p CST	Kaffeeklatsch: Ada Palmer [(signup required)](https://us02web.zoom.us/meeting/register/tZcpfuGoqj8rH9x5lhh8j4HrOPbru9AE0quQ)
+3:00p CST	Kaffeeklatsch: Ada Palmer (FULL)
 
 4:00p CST	[Fountain Pen Meetup](https://us02web.zoom.us/j/81008465209?pwd=S2w0Ry95SWhlSEc5OU5pQmM0QXRkZz09)
 
