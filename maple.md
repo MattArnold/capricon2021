@@ -63,7 +63,7 @@ Welcome to the Maple Room! Items in this room are more interactive, so are held 
 
 3:00p CST	[Cooking with Aliette de Bodard](https://us02web.zoom.us/j/88413338928?pwd=cjZpV1g4bXlBek8vT0orb2hLT21Ddz09) (download an ingredient list [here](https://docs.google.com/document/d/1VXXWhnGDmOfO-EA63EeLrik2BCp1Vz3NL7aF6aEfHQM/edit))
 
-4:00p CST	Kaffeeklatsch: Michi Trota (signup required)
+4:00p CST	Kaffeeklatsch: Michi Trota ([signup required](https://us02web.zoom.us/meeting/register/tZEldOCpqzkiHtcRAJfAgK_9e3-fbk4gAr7Q))
 
 5:00p CST	[The Skiffy and Fanty Show LIVE! w/ Brandon O'Brien](https://us02web.zoom.us/j/85978799867?pwd=TzdrZU0zNm9OQ09zdmN5cFVkaXdxZz09)
 
