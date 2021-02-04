@@ -39,6 +39,6 @@ The link to the Party Zoom will change every day. Check the #parties channel on 
 
 Saturday 10:00 am CST	[History of Day Drinking](https://us02web.zoom.us/j/87158298740?pwd=NWtOdk9IVWtpazlMdW11alhneVRCQT09) (with brunch drinks mix-along) (download recipes [here](https://drive.google.com/file/d/1jPnK1DTKnrcbJcjN7s1GGFOuj459l7GM/view))
 
-Saturday 7:00 pm CST	Ardham Interlude Virtual Escape Room. Space is limited, [sign up in advance](https://forms.gle/rP3GX8k5CJ1ZJGY59). You'll receive a link to download your clue kit and be sent a Zoom link directly.
+Saturday 7:00 pm CST	Ardham Interlude Virtual Escape Room. (FULL) You'll receive a link to download your clue kit and be sent a Zoom link directly.
 
 Sunday 11:00 am CST	[Coffee with Command (Barfleet)](https://www.google.com/url?q=https://us02web.zoom.us/j/81593046291?pwd%3DVkx3cURMbFM1VmlheHhLV1d5S0l2Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw2LuDss0PshWLFttyYx4xkd) (2 hours)
