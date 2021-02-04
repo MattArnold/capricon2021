@@ -41,4 +41,4 @@ Some games can be played in your browser. Others will require downloading an app
 
 ### Ardham Interlude Virtual Escape Room
 
-You receive a strange inheritance, left to you in trust by Atticus Freeman. Find out what you are the heir to and solve its mysteries before time runs out. This horrific virtual escape room is inspired by the book and television series Lovecraft Country. Due to the intense nature of the material, this game is suitable for adults and teens only. Space is limited, [sign up in advance](https://forms.gle/rP3GX8k5CJ1ZJGY59). You'll receive a link to download your clue kit and be sent a Zoom link directly.
+You receive a strange inheritance, left to you in trust by Atticus Freeman. Find out what you are the heir to and solve its mysteries before time runs out. This horrific virtual escape room is inspired by the book and television series Lovecraft Country. Due to the intense nature of the material, this game is suitable for adults and teens only. This event is now FULL. If you previously registered, we'll be sending you email with the Zoom link and a link to download your clue kit.
