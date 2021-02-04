@@ -33,7 +33,7 @@ Happy Reading and Listening!
 
 **_Drink Tank Volume 420: Reading in the Time of COVID-19_** - Fanzine edited by Chris Garcia, Alissa McKersie, and Chuck Serface. Cover art by Vanessa Applegate. [**PDF**](/assets/images/drinktank420.pdf)
 
-**Jen Haeger: _Miles from Manistique_** is a paranormal thriller set in Michigan's Upper Peninsula. [**MP3 audiobook excerpt**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
+**Jen Haeger: _Miles from Manistique_** is a paranormal thriller set in Michigan's Upper Peninsula. (audiobook excerpt) [**MP3**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
 
 **_Journey Planet Volume 53: The Future of Policing_** - Hugo Award winning fanzine published by James Bacon and Chris Garcia. This issue edited by Erin Underwood and Errick Nunnally. Cover Art by Afua Richardson. [**PDF**](/assets/images/journeyplanet53.pdf)
 
