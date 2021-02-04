@@ -37,6 +37,8 @@ Happy Reading and Listening!
 
 **_Journey Planet Volume 53: The Future of Policing_** - Hugo Award winning fanzine published by James Bacon and Chris Garcia. This issue edited by Erin Underwood and Errick Nunnally. Cover Art by Afua Richardson. [**PDF**](/assets/images/journeyplanet53.pdf)
 
+**Craig Miller: _Star Wars Memories_** (excerpt) [**PDF**](/assets/images/star-wars-memories-excerpt.pdf)
+
 **Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_** (excerpt from Aqueduct Press) [**PDF**](/assets/images/wisconchronicles12.pdf)
 
 **Short Story, Short Podcast: _If You Were a Dinosaur, My Love_** - Chris Garcia and Kristy Baxter [**MP3**](/assets/images/ifyouwereadinosaur.mp3)
