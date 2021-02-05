@@ -39,20 +39,20 @@ const odd = "802942451584598076";
 1. If this embedded stream is not working or you prefer it, you can [watch on Vimeo](https://vimeo.com/event/654823/) directly. You will not be able to comment there.
 2. In order to use the Titan chat embed to talk with other attendees or ask questions, you will need to login to [our Discord](https://discord.gg/Hra39Zkrhf) and accept the Code of Conduct, and then authenticate your account in the embed window. If you do not see an accept button on the Discord Window You will need to zoom out on your browser (ctrl+- on pc, cmd+- on mac)
 
-### **Thursday Schedule**
+### **Friday Schedule**
 
 **NOTE: (PD) = Public Domain, (NR) = Not Rated**
 
-3:00 pm **Max Fleischer Animation** **(NR) (PD)** A celebration of an early master of American animation. Including films from the _Superman_, _Betty Boop_, and _Popeye the Sailor Man_ series of animated shorts.
+6:45 am **MOVIE SERIAL: _The Phantom Empire_ (1935; Dir: Otto Brower & B. Reeves Eason) (NR) (PD)** Starring Gene Autry. A rancher discovers the ancient and advanced underground civilization of Murania, ruled by the evil Queen Tika. Can he stop their plans before everything is destroyed? US, 3:56:43.
 
-5:00 pm **MOVIE: _20,000 Leagues Under the Sea_ (1916; Dir: Stuart Paton) (NR) (PD)** The first adaptation of Jules Verne’s classic novel, and one of the first films ever to be shot underwater. Someone is sinking warships at sea. And what to make of reports that a metal sea monster is responsbile? Silent, US, 1:40:30.
+10:45 am **MOVIE: _The Lost World_ (1925; Dir: Harry O. Hoyt) (NR) (PD)**With special effects by Willis O’Brien. Based on the novel by Arthur Conan Doyle. Professor Challenger journeys to South America to investigate a remoteplateau that may harbor unbelievable secrets. Restored edition, Silent, US,1:42:29.
 
-6:45 pm **MOVIE: _A Trip to the Moon_ (1902; Dir: Georges Melies) (NR) (PD)** The first Science Fiction film ever made. A fanciful take on a voyage to the moon, now restored and enhanced. Silent, France, 13:00.
+12:30 pm **MOVIE: _The Giant Gila Monster_ (1959; Dir: Ray Kellogg) (NR) (PD)**Teenagers battle a giant lizard in the deserts of West Texas. US, 1:13:55.
 
-7:00 pm **MOVIE: _Nosferatu_ (1922; Dir: F.W. Murnau) (NR) (PD)** Based on _Dracula_, by Bram Stoker. One of the earliest vampire films ever made, and considered a masterpiece of early German cinema. A man is sent by his employer to Transylvania in order to finalize a deal with the mysterious Count Orlock. But the locals warn that Orlock may be a monster. And just what is this mysterious creature known as... a vampire? Silent, Germany, 1:28:07.
+1:45 pm **MOVIE SERIAL: _Batman_ (1943; Dir: Lambert Hillyer) (NR) (PD)**Based on the comic book created by Bob Kane & Bill Finger. The Caped Crusader battles foreign agents as they scramble to power a deadly weapon. US,4:19:45.
 
-8:30 pm **MOVIE: _Vampyr_ (1932; Dir: Carl Theodor Dreyer) (NR) (PD)** A drifter obsessed with the supernatural comes across an inn where a young girl is slowly being turning into a vampire. German w/English Subtitles, Germany, 1:13:41.
+6:15 pm **MOVIE: _Things To Come_ (1936; Dir: William Cameron Menzies) (NR) (PD)** Based on the novel by H.G. Wells. The world is devastated by war. Can humanity band together to overcome the ruin it has brought upon itself? United Kingdom, 1:32:51.
 
-9:45 pm **Independent Short Films from Around the World**
+8:00 pm **Independent Short Films from Around the World**
 
-11:00 pm **MOVIE SERIAL: _Flash Gordon_ (1936; Dir: Frederick Stephani) (NR) (PD)** With Buster Crabbe, based on the comic strip by Alex Raymond. The planet Mongo is on a collision course with Earth. Can Flash Gordon and his friends save Earth from the evil plans of the Emperor Ming the Merciless? US, 3:52:12.
+10:00 pm **MOVIE SERIAL: _Buck Rogers_ (1939; Ford Beebe & Saul A. Goodkind) (NR) (PD)**Starring Buster Crabbe, based on the novel by Philip Francis Nowlan. Placed in suspended animation for 500 years, Buck Rogers awakens to an Earth ruled by the evil Killer Kane. Can Buck and his friends convince the distant Saturn Empireto aid them in their effort to overthrow Kane? US, 3:57:33.
