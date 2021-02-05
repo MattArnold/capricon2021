@@ -27,7 +27,7 @@ id="art-show-chat"
 class="convention-chat"
 width="100%"
 height="600px"
-src = "https://titanembeds.com/embed/788593711851896852?defaultchannel=802221524466794536?css=204"
+src = "https://titanembeds.com/embed/788593711851896852?defaultchannel=802221524466794536"
 
 > 
 
