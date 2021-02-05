@@ -101,7 +101,7 @@ Sun 5:00a CST Gwen Games (LdP)
 
 Sun 6:30a CST Robert Beckwith concert (LdP)
 
-Sun 7:00a CST Jane Cameron concert (LdP)
+Sun 7:00a CST Chris O'Shea concert (LdP)
 
 Sun 7:30a CST nMC & WorlDream (LdP)
 
