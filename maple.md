@@ -15,23 +15,13 @@ Welcome to the Maple Room! Items in this room are more interactive, so are held 
 * Sign up ahead of time for those, and if there's space, a Zoom link will be sent to you directly. (Note that there may be a delay.)
 * You can join a kaffeeklatsch in progress if there is room. Click the signup link, register, and you should get an email right away. But if you end up sitting in the waiting room for a while, it means that too many people got there before you did!
 
-### Thursday
-
-5:00p CST	Kaffeeklatsch: Jonathan Brazee ([signup required](https://us02web.zoom.us/meeting/register/tZMuceitqjMvEtIeYD6OXIUCt-e3P_a7w56r ))
-
-6:00p CST	[Writing Flash Fiction](https://us02web.zoom.us/j/83258555701?pwd=RlBGOCt6am1CNFVrSTRIc2FKTXV4Zz09)
-
-7:00p CST	[Speculative Poetry Reading](https://us02web.zoom.us/j/85911099404?pwd=U09kcUNvc0g3NGRIQjRvNjNKT3RMQT09)
-
-9:00p CST	Kaffeeklatsch: James Plaxco ([signup required](https://us02web.zoom.us/meeting/register/tZEscemsrD8pHNa7dg1Mlj-MDY9Zyo9LLhYP))
-
 ### Friday
 
 10:00a CST	[Publicity and Marketing Potpourri](https://us02web.zoom.us/j/89853050058?pwd=L0RIUFlKTXJoZmZ1Wk9iRTdmZGJHQT09)
 
 11:00a CST	Kaffeeklatsch: Tonia Ransom [(signup required)](https://us02web.zoom.us/meeting/register/tZYrdeCrrz4qG9NCsnrYXt8oSjGnflkz5Gj4)
 
-12:00p CST	Kaffeeklatsch: John Jennings	[(signup required)](https://us02web.zoom.us/meeting/register/tZEkf--hrDktE9Yj9hdSGR7zEh6aSiGzdm7F)
+12:00p CST	Kaffeeklatsch: John Jennings	[(](https://us02web.zoom.us/meeting/register/tZEkf--hrDktE9Yj9hdSGR7zEh6aSiGzdm7F)[join directly](https://us02web.zoom.us/j/85986922792?pwd=bE1ud09wR21VdWQxUFFndklTYjdsZz09)[)](https://us02web.zoom.us/meeting/register/tZEkf--hrDktE9Yj9hdSGR7zEh6aSiGzdm7F)
 
 1:00p CST	[World-Building I: Where Do I Start?](https://us02web.zoom.us/j/84342392843?pwd=MjZsR3d2bzg4cUZSdzZGQmhVczN1dz09)
 
