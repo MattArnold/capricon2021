@@ -25,21 +25,27 @@ Happy Reading and Listening!
 
 **S.N. Arly: _Something Familiar_** [**EPUB**](/assets/images/something-familiar-2nd-print-s-n-arly-1.epub) **/** [**PDF**](/assets/images/something-familiar-pdf-with-cover-s-n-arly.pdf)
 
+**Donald J. Bingle: _Future Futures_** (short story) [**PDF**](/assets/images/future-futures-donald-j-bingle.pdf) **/** [**EPUB**](/assets/images/future-futures-donald-j-bingle.epub) **/** [**MOBI**](/assets/images/future-futures-donald-j-bingle.mobi)
+
 **Aliette de Bodard: _The Days of the War, as Red as Blood, as Dark as Bile_** (short story from Subterranean Press) [**PDF**](/assets/images/the-days-of-the-war-as-red-as-blood-as-dark-as-bile_subpress.pdf)
 
 **Dark Helix Press: _E-Book Sampler 10_** [**PDF**](/assets/images/dark-helix-press-ebook-sampler_final.pdf)
 
 **_Drink Tank Volume 420: Reading in the Time of COVID-19_** - Fanzine edited by Chris Garcia, Alissa McKersie, and Chuck Serface. Cover art by Vanessa Applegate. [**PDF**](/assets/images/drinktank420.pdf)
 
-**Jen Haeger: _Miles from Manistique_** is a paranormal thriller set in Michigan's Upper Peninsula. [**MP3 audiobook excerpt**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
+**Jen Haeger: _Miles from Manistique_** is a paranormal thriller set in Michigan's Upper Peninsula. (audiobook excerpt) [**MP3**](/assets/images/five-minute-sample_miles-from-manistique.mp3)
 
 **_Journey Planet Volume 53: The Future of Policing_** - Hugo Award winning fanzine published by James Bacon and Chris Garcia. This issue edited by Erin Underwood and Errick Nunnally. Cover Art by Afua Richardson. [**PDF**](/assets/images/journeyplanet53.pdf)
+
+**Craig Miller: _Star Wars Memories_** (excerpt) [**PDF**](/assets/images/star-wars-memories-excerpt.pdf)
 
 **Isabel Schechter and Michi Trota: _The Wiscon Chronicles Volume 12: Boundaries and Bridges_** (excerpt from Aqueduct Press) [**PDF**](/assets/images/wisconchronicles12.pdf)
 
 **Short Story, Short Podcast: _If You Were a Dinosaur, My Love_** - Chris Garcia and Kristy Baxter [**MP3**](/assets/images/ifyouwereadinosaur.mp3)
 
-**Steven H. Silver: _Well of Tranquility_** (short story) with a bonus selection of Armenian recipes. [**EPUB**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.epub) **/** [**MOBI**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.mobi)
+**Steven H Silver: _Well of Tranquility_** (short story) with a bonus selection of Armenian recipes. [**EPUB**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.epub) **/** [**MOBI**](/assets/images/silver-well-of-tranquility-and-a-selection-of-armenian-recipes.mobi)
+
+**Deanna Sjolander: _Sophie and the G-Man_** (audiobook excerpt) [**MP3**](/assets/images/sophie-and-the-g-man.mp3)
 
 **Lucy A. Snyder: _Halloween Season_** (excerpt) [**PDF**](/assets/images/halloween-season-excerpt.pdf)
 

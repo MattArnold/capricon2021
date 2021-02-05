@@ -41,6 +41,8 @@ const odd = "802942451584598076";
 
 ### **Thursday Schedule**
 
+**NOTE: (PD) = Public Domain, (NR) = Not Rated**
+
 3:00 pm **Max Fleischer Animation** **(NR) (PD)** A celebration of an early master of American animation. Including films from the _Superman_, _Betty Boop_, and _Popeye the Sailor Man_ series of animated shorts.
 
 5:00 pm **MOVIE: _20,000 Leagues Under the Sea_ (1916; Dir: Stuart Paton) (NR) (PD)** The first adaptation of Jules Verne’s classic novel, and one of the first films ever to be shot underwater. Someone is sinking warships at sea. And what to make of reports that a metal sea monster is responsbile? Silent, US, 1:40:30.
