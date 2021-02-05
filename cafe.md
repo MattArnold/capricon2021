@@ -113,6 +113,6 @@ Sun 11:30a CST gundo concert (LdP)
 
 Sun 12:00p CST Conversation with Leslie Hudson (LdP)
 
-Sun 1:00p CST Sing, Show, or Tell - Sunday edition ([signup required](https://forms.gle/KbkyafU1LZm2wGJo6))
+Sun 1:00p CST Sing, Show, or Tell - Sunday edition ([signup required](https://forms.gle/KbkyafU1LZm2wGJo6) to contribute, all can watch at regular link)
 
 Sun 2:30p CST Dead Dog Circle (indeterminate end)
