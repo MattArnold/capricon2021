@@ -29,6 +29,8 @@ This website is only half of the convention. To experience the entire thing, you
 * Need help? The best way to do that will be to ask at the #info-desk or #discord-help-desk in the Discord. But if you can't do that, you can email infodesk@capricon.org and someone will get back to you.
 * Need to report a Code of Conduct violation? Visit #operations in Discord, or email operations@capricon.org
 
+<iframe src="https://player.vimeo.com/video/508676439" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ### Where are the Parties?!
 
 The link to the Party Zoom will change every day. Check the #parties channel on Discord or check back here for the new link when it is posted.
