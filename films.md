@@ -43,14 +43,6 @@ const odd = "802942451584598076";
 
 **NOTE: (PD) = Public Domain, (NR) = Not Rated**
 
-6:00 am **MOVIE SERIAL: _Radar Men from the Moon_ (1953; Dir: Fred C. Brannon) (NR) (PD)**The Earth is under attack from the mysterious inhabitants of the Moon, and only Commando Cody can stop them. US, 2:35:08.
-
-9:00 am **Saturday Morning Cartoons** **(NR) (PD)** More cartoons from such early American animators as Max Fleischer, Leon Schlesinger, and Walter Lantz.
-
-11:00 am **MOVIE: _Gulliver’s Travels_ (1939; Dir: Max Fleischer) (NR) (PD)**Based on the novel by Jonathan Swift. Gulliver finds himself shipwrecked on the island of Lilliput. US, 1:16:21.
-
-12:30 pm **MOVIE: _Frau im Mond (“Woman in the Moon”)_ (1929; Dir: Fritz Lang) (NR) (PD)** German scientists race to be the first to land on the Moon. Germany, Silent, 2:49:55.
-
 3:30 pm **MOVIE: _Aelita, Queen of Mars_ (1924; Dir: Yakov Protazanov) (NR) (PD)**A Soviet engineer travels to Mars and sets off a worker’s revolution. USSR, Silent, 1:51:31.
 
 5:30 pm **MOVIE: _The Thief of Bagdad_ (1924; Dir: Raoul Walsh) (NR) (PD)**Starring Douglas Fairbanks Jr. Ahmed, the Thief of Bagdad, cons his way into a princess’s heart and battles the evil Caliph. US, Silent, 2:28:01.
@@ -58,3 +50,9 @@ const odd = "802942451584598076";
 8:00 pm **Independent Short Films from Around the World**
 
 10:30 pm **MOVIE SERIAL: _Flash Gordon’s Trip to Mars_ (1938; Dir: Ford Beebe, Robert F. Hill & Frederick Stephani) (NR) (PD)**Starring Buster Crabbe. A mysterious ray is destroying Earth’s atmosphere, and Flash Gordon and his friends head to Mars to stop it. But little do they know that their old nemesis Ming the Merciless lies in wait... US, 4:59:16.
+
+### **Sunday**
+
+3:30 am **MOVIE SERIAL: _Batman and Robin_ (1949; Dir: Spencer Gordon Bennet) (NR) (PD)**The Caped Crusader and the Boy Wonder return, this time to battle the nefarious plans of The Wizard. US, 4:24:21.
+
+8:00 am **MOVIE SERIAL: _Flash Gordon Conquers the Universe_ (1940; Dir: Ford Beebe & Ray Taylor) (NR) (PD)**Starring Buster Crabbe. A deadly plague is sweeping Earth, and Flash Gordon believes it is the work of his old nemesis Ming the Merciless. Gathering his friends for one last time, Flash heads off for a final confrontation with his arch-enemy. US, 3:20:03.
