@@ -9,7 +9,7 @@ public: false
 
 CapKidz will be held at Capricon 41 via Zoom. We have workshops, games, discussion groups and a concert planned! If you have a youth in your life you think will enjoy any of these activities, please join us at Capricon 41. We are excited to continue this tradition and look forward to seeing you all virtually via Zoom.
 
-[Kids Room Zoom Link](https://l.facebook.com/l.php?u=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84128380281%3Ffbclid%3DIwAR0WgpZQRUJPE_qqT7hEQ54I2wZvV7TcAx575kynElQkbLxTpnfXkyE9z1g&h=AT3sNWtcUVpFgNGHVHigKeW6GJXuVj1_F-XFyoyKJUpWGlBQ02BRdKx-pWejV7lQvPwvCBb-crh2MR7_ArGtZdyUib1Xc1TqVOfchnOANB_2czCjZkwJm04hvmaYgi6lPBM)
+[Kids Room Zoom Link](https://us02web.zoom.us/j/84128380281)
 
 ### Friday
 
