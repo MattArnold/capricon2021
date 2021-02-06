@@ -15,6 +15,8 @@ Find us on [Capricon's Discord](https://discord.gg/Hra39Zkrhf) in the Café cate
 
 Join our Café Zoom (day concerts, workshops, & music circles) [here](https://us02web.zoom.us/j/82090195223?pwd=QjZPVFpUVk1xTytaUjBCeGhJYlR0dz09).
 
+[**CAFE ZOOM LINK**](https://us02web.zoom.us/j/82090195223?pwd=QjZPVFpUVk1xTytaUjBCeGhJYlR0dz09)
+
 ### **Café's Schedule of Events**
 
 Note: all times listed are Central/CST; for help navigating that, use JT's [time zone sheet](http://bit.ly/LongDistanceCapricon).
