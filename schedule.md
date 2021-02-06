@@ -7,7 +7,7 @@ public: false
 ---
 # Schedule
 
-Capricon runs on US Central Standard Time (**CST:** UTC−06:00
+Capricon runs on US Central Standard Time (**CST:** UTC−06:00)
 
 Please see [our schedule of events at KonOpas](https://guide.capricon.org/). To ensure you have the latest data, make sure you do a hard refresh (Ctrl-F5 for most browsers on a PC)
 
