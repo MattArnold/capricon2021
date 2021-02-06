@@ -33,7 +33,7 @@ This website is only half of the convention. To experience the entire thing, you
 
 ### Where are the Parties?!
 
-The link to the Party Zoom will change every day. Check the #parties channel on Discord or check back here for the new link when it is posted.
+The link to the Party Zoom will change every day. Check the #parties-hallway channel on Discord or check back here for the new link when it is posted.
 
 [Friday parties](https://us02web.zoom.us/j/87987726425?pwd=Um4rY1p1b3FydFVzanVlWkVmY2FnQT09), 9:00 pm CST to ??
 
