@@ -39,20 +39,22 @@ const odd = "802942451584598076";
 1. If this embedded stream is not working or you prefer it, you can [watch on Vimeo](https://vimeo.com/event/654823/) directly. You will not be able to comment there.
 2. In order to use the Titan chat embed to talk with other attendees or ask questions, you will need to login to [our Discord](https://discord.gg/Hra39Zkrhf) and accept the Code of Conduct, and then authenticate your account in the embed window. If you do not see an accept button on the Discord Window You will need to zoom out on your browser (ctrl+- on pc, cmd+- on mac)
 
-### **Friday Schedule**
+### **Saturday**
 
 **NOTE: (PD) = Public Domain, (NR) = Not Rated**
 
-6:45 am **MOVIE SERIAL: _The Phantom Empire_ (1935; Dir: Otto Brower & B. Reeves Eason) (NR) (PD)** Starring Gene Autry. A rancher discovers the ancient and advanced underground civilization of Murania, ruled by the evil Queen Tika. Can he stop their plans before everything is destroyed? US, 3:56:43.
+6:00 am **MOVIE SERIAL: _Radar Men from the Moon_ (1953; Dir: Fred C. Brannon) (NR) (PD)**The Earth is under attack from the mysterious inhabitants of the Moon, and only Commando Cody can stop them. US, 2:35:08.
 
-10:45 am **MOVIE: _The Lost World_ (1925; Dir: Harry O. Hoyt) (NR) (PD)**With special effects by Willis O’Brien. Based on the novel by Arthur Conan Doyle. Professor Challenger journeys to South America to investigate a remoteplateau that may harbor unbelievable secrets. Restored edition, Silent, US,1:42:29.
+9:00 am **Saturday Morning Cartoons** **(NR) (PD)** More cartoons from such early American animators as Max Fleischer, Leon Schlesinger, and Walter Lantz.
 
-12:30 pm **MOVIE: _The Giant Gila Monster_ (1959; Dir: Ray Kellogg) (NR) (PD)**Teenagers battle a giant lizard in the deserts of West Texas. US, 1:13:55.
+11:00 am **MOVIE: _Gulliver’s Travels_ (1939; Dir: Max Fleischer) (NR) (PD)**Based on the novel by Jonathan Swift. Gulliver finds himself shipwrecked on the island of Lilliput. US, 1:16:21.
 
-1:45 pm **MOVIE SERIAL: _Batman_ (1943; Dir: Lambert Hillyer) (NR) (PD)**Based on the comic book created by Bob Kane & Bill Finger. The Caped Crusader battles foreign agents as they scramble to power a deadly weapon. US,4:19:45.
+12:30 pm **MOVIE: _Frau im Mond (“Woman in the Moon”)_ (1929; Dir: Fritz Lang) (NR) (PD)** German scientists race to be the first to land on the Moon. Germany, Silent, 2:49:55.
 
-6:15 pm **MOVIE: _Things To Come_ (1936; Dir: William Cameron Menzies) (NR) (PD)** Based on the novel by H.G. Wells. The world is devastated by war. Can humanity band together to overcome the ruin it has brought upon itself? United Kingdom, 1:32:51.
+3:30 pm **MOVIE: _Aelita, Queen of Mars_ (1924; Dir: Yakov Protazanov) (NR) (PD)**A Soviet engineer travels to Mars and sets off a worker’s revolution. USSR, Silent, 1:51:31.
+
+5:30 pm **MOVIE: _The Thief of Bagdad_ (1924; Dir: Raoul Walsh) (NR) (PD)**Starring Douglas Fairbanks Jr. Ahmed, the Thief of Bagdad, cons his way into a princess’s heart and battles the evil Caliph. US, Silent, 2:28:01.
 
 8:00 pm **Independent Short Films from Around the World**
 
-10:00 pm **MOVIE SERIAL: _Buck Rogers_ (1939; Ford Beebe & Saul A. Goodkind) (NR) (PD)**Starring Buster Crabbe, based on the novel by Philip Francis Nowlan. Placed in suspended animation for 500 years, Buck Rogers awakens to an Earth ruled by the evil Killer Kane. Can Buck and his friends convince the distant Saturn Empireto aid them in their effort to overthrow Kane? US, 3:57:33.
+10:30 pm **MOVIE SERIAL: _Flash Gordon’s Trip to Mars_ (1938; Dir: Ford Beebe, Robert F. Hill & Frederick Stephani) (NR) (PD)**Starring Buster Crabbe. A mysterious ray is destroying Earth’s atmosphere, and Flash Gordon and his friends head to Mars to stop it. But little do they know that their old nemesis Ming the Merciless lies in wait... US, 4:59:16.
