@@ -13,7 +13,7 @@ Welcome to the Maple Room! Items in this room are more interactive, so are held 
 
 * These are limited to a 10 people and are first-come, first-served
 * Sign up ahead of time for those, and if there's space, a Zoom link will be sent to you directly. (Note that there may be a delay.)
-* You can join a kaffeeklatsch in progress if there is room. Click the signup link, register, and you should get an email right away. But if you end up sitting in the waiting room for a while, it means that too many people got there before you did!
+* You can join a kaffeeklatsch in progress if there is room.  But if you end up sitting in the waiting room for a while, it means that too many people got there before you did!
 
 ### Friday
 
@@ -59,7 +59,7 @@ Welcome to the Maple Room! Items in this room are more interactive, so are held 
 
 3:00p CST	[Cooking with Aliette de Bodard](https://us02web.zoom.us/j/88413338928?pwd=cjZpV1g4bXlBek8vT0orb2hLT21Ddz09) (download an ingredient list [here](https://docs.google.com/document/d/1VXXWhnGDmOfO-EA63EeLrik2BCp1Vz3NL7aF6aEfHQM/edit))
 
-4:00p CST	Kaffeeklatsch: Michi Trota ([signup required](https://us02web.zoom.us/meeting/register/tZEldOCpqzkiHtcRAJfAgK_9e3-fbk4gAr7Q))
+4:00p CST	[Kaffeeklatsch: Michi Trota](https://us02web.zoom.us/j/85839152843?pwd=TUp0TGtYR2hzNC9zRzN6dDVrY3U5Zz09) 
 
 5:00p CST	[The Skiffy and Fanty Show LIVE! w/ Brandon O'Brien](https://us02web.zoom.us/j/85978799867?pwd=TzdrZU0zNm9OQ09zdmN5cFVkaXdxZz09)
 
