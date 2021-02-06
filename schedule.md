@@ -47,7 +47,6 @@ Can Long (Distance) Play guest Chris O'Shea cover everything to be known about m
 
 **Valerie Housden concert**
 
-
 A concert of filksongs written during the UK's Covid-19 lockdowns in 2020, some based on books read during those periods, others not.
  (Valerie Housden)
 
@@ -56,7 +55,6 @@ A concert of filksongs written during the UK's Covid-19 lockdowns in 2020, some 
  Cafe Zoom (Music)
 
 **Karl-Johan Noren concert**
-
 
 A Swedish fan and filker, active in Swedish fandom since 1999 and filking since 2014. Karl-Johan was the Swedish NoFF delegate to Finncon 2018 in Turku, and was supposed to be the Interfilk guest to Consonance 2020 (but it got postponed because Reasons). (Karl-Johan NorÃ©n)
 
@@ -107,7 +105,6 @@ Horror writing provides shock and wonder. It terrifies us and make us look into 
  Birch (Reading)
 
 **Reading: W A Thomasson**
-
 
 W A Thomasson reads from their work. (W A Thomasson)
 
@@ -173,7 +170,6 @@ Aliette de Bodard reads from their work. (Aliette de Bodard)
 
 **Gary Ehrlich concert**
 
-
 A mild-mannered structural engineer by day, Gary stalks the (virtual) stages and filk rooms of Northeast conventions, singing of space flight, lunar colonies and hyperspace hotels. Gary is Balticon's Director of Filk and Other Musical Mayhem and was a 2012 Filk Hall of Fame inductee. A few of his original songs can be found at gorgeousgary.bandcamp.com. (Gary Ehrlich)
 
  Sat 11:00AM (1hr)
@@ -216,7 +212,6 @@ S.N.Arly reads from her young adult fantasy novel Something Familiar.
 **Ian O'Donnell concert**
 
 Concert by Ian O'Donnell
-
 
  Sat 12:00 PM (30min)
 
@@ -436,7 +431,6 @@ In early 2020, the Mars Society announced their Mars City-State Design Competiti
 
 **Thrillers, Detectives, and Weird Mysteries**
 
-
 A panel on writing/exploring/discussion variations of the detective story and the thriller in SF/F. (Deirdre Murphy (m), Roberta Rogow, Jen Haeger, Brandon O'Brien)
 
  Sat 4:00 PM (1hr)
@@ -508,7 +502,6 @@ Cathy &amp; Jason invite you on a musical journey from the sun and moon to the e
  Birch (Theme)
 
 **Other Ways of Being in the Many Futures to Come**
-
 
 A common theme in speculative imagining is the image of a world government modeled after the UN or a world subsumed into an American worldview (satirical or otherwise). But what other ways of imagining future societies can we imagine now? What stories exist that bring us these different ways of being? This panel will explore the impetus to think differently about speculation, both in our world and in the fiction we read and write. (Anoa Changa (m), Deirdre Murphy, Jeffrey Liss)
 
@@ -616,7 +609,6 @@ So often, our SF media focuses its attention on the flashy and the exciting rath
  Birch (Writing)
 
 **The Power of the Short Story**
-
 
 A panel on what makes the short story such a potent form. (Michael Haynes, Donna J.W. Munro, Sue Burke (m), Lucy A. Snyder, Rowan Fixemer)
 
@@ -776,7 +768,6 @@ Long(Distance) Play's UK Guest of honour plays a bunch of old favourites.
 
 **nMC &amp; WorlDream**
 
-
 A video performance by the British folk choir n'Early Music Consort of a song recorded during lockdown, &amp; presentation of the WorlDream project (http://worldream.filk.de/ )
 
  (Valerie Housden)
@@ -885,13 +876,11 @@ Phandemonium, Inc. is the parent corporation for Capricon. As a member of Capric
 
 Pour your favorite breakfast beverage and learn more about what the Abandon does and what Barfleet actually does. Chat with Command staff and other members of the Abandon as we catch up and discuss our latest games, recipes, crafts, and favorite books.
 
-
  Sun 11:00AM (1hr)
 
  Ravinia (Theme)
 
 **Future of Food**
-
 
 A growing number of people are eating plant based diets, helped along by brands like Impossible Meats. Others are jumping on the Soylent bandwagon and avoiding eating altogether. Food bring us together, and has inspired and taken inspiration from science and technology in other fields. What trends might we see, both cultural and otherwise, in the future of food? (Jason Taylor, Jennifer Rhorer, Beverly Bambury (m), Jonathan Brazee)
 
@@ -1039,7 +1028,6 @@ The last few years have seen a surge in interesting Space Operas. What defines S
  Willow (Media)
 
 **He Hacked Us with a Clam (or, Hey, It's TNT's Leverage)**
-
 
 A thief, a grifter, a hacker, a retrieval specialist, and an insurance investigator make up the central cast of this action crime drama sleeper hit. It's got its own roleplaying game and a dedicated following so strong that filming on a revival began in August 2020. And there's also that thing with the clam...
 
