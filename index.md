@@ -41,7 +41,7 @@ The Spotify Playlist can be found [here](https://open.spotify.com/playlist/01loU
 
 The link to the Party Zoom will change every day. Check the #parties-hallway channel on Discord or check back here for the new link when it is posted.
 
-[Dead Dog Party](https://us02web.zoom.us/j/89271480890?pwd=UElnMFkzeTlXbkhQQWhaZktwdkF5UT09), 9:00 pm CST to ??
+[Dead Dog Party](https://us02web.zoom.us/j/89271480890?pwd=UElnMFkzeTlXbkhQQWhaZktwdkF5UT09), 4:00 pm CST to ??
 
 **Program Items scheduled in Party Zoom:**
 
