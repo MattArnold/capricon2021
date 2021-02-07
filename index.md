@@ -37,7 +37,7 @@ We have compiled the [Goat Droppings: Capricon 41 Collector's Edition](/assets/i
 
 The Spotify Playlist can be found [here](https://open.spotify.com/playlist/01loUHWaOvW8mnzDyB33m1?si=Zc0i8N6jR16BEe9wCj0jng). The full listing of tracks is in the Goat Droppings PDF.
 
-[https://open.spotify.com/playlist/01loUHWaOvW8mnzDyB33m1?si=Zc0i8N6jR16BEe9wCj0jng](https://open.spotify.com/playlist/01loUHWaOvW8mnzDyB33m1?si=Zc0i8N6jR16BEe9wCj0jng "https://open.spotify.com/playlist/01loUHWaOvW8mnzDyB33m1?si=Zc0i8N6jR16BEe9wCj0jng")
+<iframe src="[https://open.spotify.com/embed/playlist/01loUHWaOvW8mnzDyB33m1](https://open.spotify.com/embed/playlist/01loUHWaOvW8mnzDyB33m1 "https://open.spotify.com/embed/playlist/01loUHWaOvW8mnzDyB33m1")" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Where are the Parties?!
 
