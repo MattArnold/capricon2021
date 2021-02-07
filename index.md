@@ -31,6 +31,14 @@ This website is only half of the convention. To experience the entire thing, you
 
 <iframe src="https://player.vimeo.com/video/508676439" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+### Goat Droppings
+
+We have compiled the [Goat Droppings: Capricon 41 Collector's Edition](/assets/images/goat-droppings-goh-interview-edition-cap-41.pdf) for you! It contains all the Interviews with the Guests of Honor, Information on the Phandemonium Bookclub which meets virtually throughout the year, the Guest of Honor Spotify playlist information, and of course, all the Out-of-CONtext quotes. Download this Capricon 41 souvenir today!
+
+The Spotify Playlist can be found [here](https://open.spotify.com/playlist/01loUHWaOvW8mnzDyB33m1?si=Zc0i8N6jR16BEe9wCj0jng). The full listing of tracks is in the Goat Droppings PDF.
+
+[https://open.spotify.com/playlist/01loUHWaOvW8mnzDyB33m1?si=Zc0i8N6jR16BEe9wCj0jng](https://open.spotify.com/playlist/01loUHWaOvW8mnzDyB33m1?si=Zc0i8N6jR16BEe9wCj0jng "https://open.spotify.com/playlist/01loUHWaOvW8mnzDyB33m1?si=Zc0i8N6jR16BEe9wCj0jng")
+
 ### Where are the Parties?!
 
 The link to the Party Zoom will change every day. Check the #parties-hallway channel on Discord or check back here for the new link when it is posted.
